@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RAG Chat</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>RAG Chat</h1>
+      <div class="status" id="status" hidden>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="label">Đang xử lý...</span>
+      </div>
+    </div>
+    <div class="row">
+      <label>API Base</label>
+      <input id="apiBase" type="text" value="http://localhost:8000" />
+      <button id="saveApi">Lưu</button>
+    </div>
+    <div id="chat" class="chat"></div>
+    <form id="form" class="form">
+      <input id="query" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" />
+      <button id="sendBtn" type="submit">Gửi</button>
+    </form>
+  </div>
+
+  <script src="./main.js"></script>
+</body>
+</html>
+
+

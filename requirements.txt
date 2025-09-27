@@ -1,0 +1,11 @@
+pdfplumber==0.11.4
+Pillow>=9.5.0
+cryptography>=41.0.0
+faiss-cpu>=1.7.4
+openai>=1.30.0
+python-dotenv>=1.0.1
+sentence-transformers>=2.7.0
+groq>=0.11.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+

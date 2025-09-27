@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background: #f5f7fb; color: #111; }
+.container { max-width: 900px; margin: 40px auto; padding: 16px; background: #fff; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+.header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+h1 { margin: 0; font-size: 22px; }
+.status { display: flex; align-items: center; gap: 6px; color: #2563eb; }
+.status[hidden] { display: none; }
+.status .dot { width: 6px; height: 6px; background: #2563eb; border-radius: 50%; animation: blink 1.2s infinite; }
+.status .dot:nth-child(2) { animation-delay: .2s; }
+.status .dot:nth-child(3) { animation-delay: .4s; }
+@keyframes blink { 0%, 80%, 100% { opacity: .2 } 40% { opacity: 1 } }
+.row { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; }
+.row input { flex: 1; padding: 8px 10px; border: 1px solid #ddd; border-radius: 8px; }
+.row button { padding: 8px 12px; border: none; background: #2563eb; color: #fff; border-radius: 8px; cursor: pointer; }
+.chat { height: 60vh; overflow-y: auto; border: 1px solid #eee; border-radius: 8px; padding: 12px; background: #fafafa; }
+.msg { padding: 10px 12px; border-radius: 10px; margin: 6px 0; max-width: 85%; white-space: pre-wrap; }
+.me { background: #e8f0fe; margin-left: auto; }
+.bot { background: #f1f1f1; margin-right: auto; }
+.form { display: flex; gap: 8px; margin-top: 12px; }
+.form input { flex: 1; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px; }
+.form button { padding: 10px 16px; border: none; background: #2563eb; color: #fff; border-radius: 8px; cursor: pointer; min-width: 90px; }
+.form button:hover { background: #1e50c3; }
+.sources { font-size: 12px; color: #555; margin-top: 6px; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background: #f5f7fb; color: #111; }
+.container { max-width: 800px; margin: 40px auto; padding: 16px; background: #fff; border-radius: 12px; box-shadow: 0 6px 24px rgba(0,0,0,0.06); }
+h1 { margin: 0 0 16px; font-size: 20px; }
+.chat { height: 60vh; overflow-y: auto; border: 1px solid #eee; border-radius: 8px; padding: 12px; background: #fafafa; }
+.msg { padding: 10px 12px; border-radius: 10px; margin: 6px 0; max-width: 85%; white-space: pre-wrap; }
+.me { background: #e8f0fe; margin-left: auto; }
+.bot { background: #f1f1f1; margin-right: auto; }
+.form { display: flex; gap: 8px; margin-top: 12px; }
+.form input { flex: 1; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px; }
+.form button { padding: 10px 16px; border: none; background: #2563eb; color: #fff; border-radius: 8px; cursor: pointer; }
+.form button:hover { background: #1e50c3; }
+.sources { font-size: 12px; color: #555; margin-top: 6px; }
+

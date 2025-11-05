@@ -1,162 +1,148 @@
 """
-RAG System - Hệ thống truy xuất và tạo sinh văn bản
-Chương trình chính để xử lý PDF, tạo embeddings và trả lời câu hỏi
+LangChain RAG (đơn giản, tất cả trong một file)
+- build: PDF -> tách Điều (regex) -> embed (HuggingFace) -> lưu FAISS
+- ask: load FAISS -> retrieve -> Groq LLM (llama) sinh câu trả lời
 """
 
 import os
+import re
 import argparse
+from typing import List
 from dotenv import load_dotenv
 
-from src import splitter
-from src import embedder
-from src import retriever
-from src import generator
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_core.documents import Document
+from langchain_groq import ChatGroq
+from langchain.chains import RetrievalQA
 
 
-def cmd_split(pdf_path: str, output_dir: str) -> None:
-    """Tách PDF thành các file điều luật riêng biệt"""
-    text = splitter.extract_text_from_pdf(pdf_path)
-    lines = text.splitlines()
-    print("Tiến hành tách theo điều luật...")
-    articles = splitter.split_articles(lines)
-    print(f"Phát hiện {len(articles)} điều luật")
-    splitter.write_articles(articles, output_dir)
-    print(f"Đã ghi {len(articles)} file vào: {output_dir}")
+# Heading dạng phổ biến: "Điều <số>." (chấp nhận "." hoặc ")")
+ARTICLE_REGEX = re.compile(r"(?im)^[\t ]*[Đđ]iều[\t ]+(\d+)[\t ]*[\.)]", re.UNICODE)
 
 
-def cmd_embed(split_dir: str, index_dir: str, provider: str, model: str, batch_size: int, local_model: str) -> None:
-    """Tạo embeddings và lưu vào FAISS index"""
-    # Khởi tạo client OpenAI nếu cần
-    if provider == "openai":
-        api_key = os.environ.get("OPENAI_API_KEY")
-        if not api_key:
-            raise EnvironmentError("OPENAI_API_KEY chưa được thiết lập trong biến môi trường")
-        client = embedder.OpenAI(api_key=api_key)
-    else:
-        client = None
+def extract_text_from_pdf(pdf_path: str) -> str:
+    """Đọc toàn bộ text từ PDF (ngắn gọn, dùng pdfplumber)."""
+    import pdfplumber  # type: ignore
+    with pdfplumber.open(pdf_path) as pdf:
+        return "\n".join((page.extract_text(x_tolerance=1, y_tolerance=1) or "") for page in pdf.pages)
 
-    # Đọc tài liệu từ thư mục đã tách
-    documents = embedder.read_documents(split_dir)
-    if not documents:
-        raise FileNotFoundError("Không tìm thấy tài liệu .txt nào để embed. Hãy chạy split trước.")
 
-    doc_ids = [doc_id for doc_id, _ in documents]
-    texts = [content for _, content in documents]
-    print(f"Tạo embeddings cho {len(texts)} tài liệu bằng provider: {provider}")
+def split_articles(text: str) -> List[Document]:
+    """Tách văn bản thành các Điều dựa theo regex tiêu đề."""
+    matches = list(ARTICLE_REGEX.finditer(text))
+    if not matches:
+        return [Document(page_content=text.strip())]
+    
+    docs: List[Document] = []
+    for i, m in enumerate(matches):
+        start = m.start()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        content = text[start:end].strip()
+        if content:
+            docs.append(Document(page_content=content, metadata={"article": m.group(1)}))
+    return docs
 
-    # Cấu hình tham số runtime
-    embedder.EMBED_MODEL = model
-    embedder.BATCH_SIZE = batch_size
 
-    # Tạo embeddings theo provider
-    if provider == "openai":
-        vectors = embedder.get_embeddings_openai(client, texts)  # type: ignore[arg-type]
-    elif provider == "local":
-        vectors = embedder.get_embeddings_local(local_model, texts)
-    else:
-        raise ValueError("provider phải là 'openai' hoặc 'local'")
+def _sanitize_filename(name: str) -> str:
+    sanitized = re.sub(r"[^\w\-]+", "_", name, flags=re.UNICODE)
+    return sanitized.strip("_")
 
-    # Xây dựng FAISS index với cosine similarity
-    print("Xây dựng FAISS index (cosine similarity)...")
-    index = embedder.build_faiss_index(vectors)
-    metadata = [{"id": d, "path": os.path.join(split_dir, d)} for d in doc_ids]
-    embedder.save_index(index, metadata, index_dir)
-    print(f"Đã lưu index và metadata vào: {index_dir}")
+
+def write_articles_to_dir(articles: List[Document], output_dir: str) -> None:
+    os.makedirs(output_dir, exist_ok=True)
+    for doc in articles:
+        art = str(doc.metadata.get("article", "unknown")).lower()
+        fname = _sanitize_filename(f"điều_{art}") + ".txt"
+        path = os.path.join(output_dir, fname)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(doc.page_content.strip() + "\n")
+
+
+def build_index(pdf_path: str, index_dir: str, model_name: str, output_dir: str | None = None) -> None:
+    if not os.path.isfile(pdf_path):
+        raise FileNotFoundError(f"Không tìm thấy file PDF: {pdf_path}")
+
+
+    print(f"1. Đọc PDF: {pdf_path}")
+    full_text = extract_text_from_pdf(pdf_path)
+
+    print(f"2. Tách điều luật")
+    articles = split_articles(full_text)
+    print(f"Tách được {len(articles)} điều luật")
+
+    if output_dir:
+        print(f"3. Ghi các điều luật ra thư mục: {output_dir}")
+        write_articles_to_dir(articles, output_dir)
+
+    print("4. Tạo embeddings và FAISS store...")
+    embeddings = HuggingFaceEmbeddings(model_name=model_name)
+    vs = FAISS.from_documents(articles, embeddings)
+    os.makedirs(index_dir, exist_ok=True)
+    vs.save_local(index_dir)
+    print(f"Đã lưu FAISS index tại: {index_dir}")
+
+
+def ask_question(query: str, index_dir: str, top_k: int, groq_model: str, model_name: str) -> str:
+    if not os.path.isdir(index_dir):
+        raise FileNotFoundError(f"Không tìm thấy thư mục FAISS index: {index_dir}")
+
+    embeddings = HuggingFaceEmbeddings(model_name=model_name)
+    vs = FAISS.load_local(index_dir, embeddings, allow_dangerous_deserialization=True)
+    retriever = vs.as_retriever(search_kwargs={"k": top_k})
+
+    llm = ChatGroq(model=groq_model)
+    chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        retriever=retriever,
+        chain_type="stuff",
+        return_source_documents=False,
+    )
+
+    result = chain.invoke({"query": query})
+    return (result.get("result") or result.get("output_text") or "").strip()
 
 
 def build_parser() -> argparse.ArgumentParser:
-    """Xây dựng CLI parser với các lệnh con"""
-    parser = argparse.ArgumentParser(description="RAG System CLI: Tách PDF và xây dựng FAISS index")
+    parser = argparse.ArgumentParser(description="RAG CLI (regex chunk + FAISS + HuggingFace + Groq)")
     sub = parser.add_subparsers(dest="command", required=True)
 
-    # Lệnh split: Tách PDF thành các file điều luật
-    p_split = sub.add_parser("split", help="Tách PDF thành các file Điều luật .txt")
-    p_split.add_argument("--pdf-path", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/luat_lao_dong.pdf")
-    p_split.add_argument("--output-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/output_dieu_luat")
+    p_build = sub.add_parser("build", help="Tạo FAISS index từ PDF bằng regex Điều")
+    p_build.add_argument("--pdf-path", default="luat_lao_dong.pdf")
+    p_build.add_argument("--index-dir", default="vector_store/faiss_index")
+    p_build.add_argument("--local-model", default="sentence-transformers/all-MiniLM-L12-v2")
+    p_build.add_argument("--output-dir", default=None, help="Nếu đặt, sẽ lưu mỗi Điều thành 1 file .txt")
 
-    # Lệnh embed: Tạo embeddings và lưu FAISS index
-    p_embed = sub.add_parser("embed", help="Tạo embeddings và lưu FAISS index")
-    p_embed.add_argument("--split-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/output_dieu_luat")
-    p_embed.add_argument("--index-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/faiss_index")
-    p_embed.add_argument("--provider", choices=["openai", "local"], default="openai")
-    p_embed.add_argument("--model", default="text-embedding-3-small")
-    p_embed.add_argument("--batch-size", type=int, default=64)
-    p_embed.add_argument("--local-model", default="sentence-transformers/all-MiniLM-L6-v2")
-
-    # Lệnh all: Chạy cả split và embed
-    p_all = sub.add_parser("all", help="Chạy split rồi embed trong một lệnh")
-    p_all.add_argument("--pdf-path", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/luat_lao_dong.pdf")
-    p_all.add_argument("--split-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/output_dieu_luat")
-    p_all.add_argument("--index-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/faiss_index")
-    p_all.add_argument("--provider", choices=["openai", "local"], default="openai")
-    p_all.add_argument("--model", default="text-embedding-3-small")
-    p_all.add_argument("--batch-size", type=int, default=64)
-    p_all.add_argument("--local-model", default="sentence-transformers/all-MiniLM-L6-v2")
-
-    # Lệnh ask: Đặt câu hỏi sử dụng RAG
-    p_ask = sub.add_parser("ask", help="Đặt câu hỏi (RAG)")
+    p_ask = sub.add_parser("ask", help="Hỏi đáp dựa trên FAISS + Groq")
     p_ask.add_argument("--query", required=True)
-    p_ask.add_argument("--index-dir", default="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/faiss_index")
-    p_ask.add_argument("--provider", choices=["openai", "local"], default="local")
-    p_ask.add_argument("--local-model", default="sentence-transformers/all-MiniLM-L6-v2")
-    p_ask.add_argument("--top-k", type=int, default=5)
+    p_ask.add_argument("--index-dir", default="vector_store/faiss_index")
+    p_ask.add_argument("--top-k", type=int, default=20)
     p_ask.add_argument("--groq-model", default="llama-3.3-70b-versatile")
+    p_ask.add_argument("--local-model", default="sentence-transformers/all-MiniLM-L12-v2")
 
     return parser
 
 
 def main() -> None:
-    """Hàm chính xử lý các lệnh CLI"""
-    load_dotenv()  # Tải biến môi trường từ .env
+    load_dotenv()
     parser = build_parser()
     args = parser.parse_args()
 
-    if args.command == "split":
-        # Kiểm tra file PDF tồn tại
-        if not os.path.isfile(args.pdf_path):
-            raise FileNotFoundError(f"Không tìm thấy file PDF: {args.pdf_path}")
-        print(f"Đọc PDF: {args.pdf_path}")
-        cmd_split(args.pdf_path, args.output_dir)
-        
-    elif args.command == "embed":
-        cmd_embed(args.split_dir, args.index_dir, args.provider, args.model, args.batch_size, args.local_model)
-        
-    elif args.command == "all":
-        # Chạy cả split và embed
-        if not os.path.isfile(args.pdf_path):
-            raise FileNotFoundError(f"Không tìm thấy file PDF: {args.pdf_path}")
-        print(f"Đọc PDF: {args.pdf_path}")
-        cmd_split(args.pdf_path, args.split_dir)
-        cmd_embed(args.split_dir, args.index_dir, args.provider, args.model, args.batch_size, args.local_model)
-        
+    if args.command == "build":
+        build_index(
+            pdf_path=args.pdf_path,
+            index_dir=args.index_dir,
+            model_name=args.local_model,
+            output_dir=args.output_dir,
+        )
     elif args.command == "ask":
-        # RAG: Truy xuất thông tin và tạo câu trả lời
-        import re
-        contexts = []
-        
-        # Heuristic: Nếu query chứa "Điều <số>", chèn trực tiếp nội dung điều đó
-        m = re.search(r"(?i)(điều)\s+(\d+)", args.query)
-        if m:
-            article_num = m.group(2)
-            direct_text = retriever.try_get_article_by_number(args.index_dir, article_num)
-            if direct_text:
-                contexts.append(direct_text)
-
-        # Truy xuất tài liệu liên quan
-        results = retriever.retrieve(
+        answer = ask_question(
             query=args.query,
             index_dir=args.index_dir,
             top_k=args.top_k,
-            provider=args.provider,
-            local_model=args.local_model,
-        )
-        contexts.extend([r["text"] for r in results])
-        
-        # Tạo câu trả lời bằng LLM
-        answer = generator.generate_answer(
-            query=args.query,
-            contexts=contexts,
-            model=args.groq_model,
+            groq_model=args.groq_model,
+            model_name=args.local_model,
         )
         print(answer)
     else:
@@ -165,4 +151,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 

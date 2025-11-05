@@ -1,16 +1,42 @@
-Ví dụ prompt terminal : python3 main.py ask --query "Nội dung Điều 1 Bộ luật Lao động quy định gì?" --provider local --local-model sentence-transformers/all-MiniLM-L12-v2 --top-k 20
+# Cách chạy RAG System
 
-Kết quả : Điều 1 Bộ luật Lao động quy định về phạm vi điều chỉnh, bao gồm tiêu chuẩn lao động, quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động và quản lý nhà nước về lao động. (Điều 1)
+## 1. Setup
+```bash
+# Activate virtual environment
+source venv/bin/activate
 
+# Cài đặt dependencies (nếu chưa có)
+pip install -r requirements.txt
+```
 
-------
-Giải thích prompt terminal : 
+## 2. Chạy toàn bộ pipeline (Split + Embed)
+```bash
+python main.py all --pdf-path luat_lao_dong.pdf --split-dir output_dieu_luat --index-dir vector_store/faiss_index --provider local --local-model sentence-transformers/all-MiniLM-L12-v2 --batch-size 32
+```
 
-query: Câu hỏi của bạn. Model sẽ dùng câu này để embed truy vấn và tạo câu trả lời.
---provider local: Chọn cách embed truy vấn bằng mô hình cục bộ (không dùng OpenAI), giúp tránh quota/API cost.
---local-model sentence-transformers/all-MiniLM-L6-v2: Tên mô hình embed cục bộ dùng cho truy vấn. all-MiniLM-L6-v2 mạnh cho tiếng Anh; với tiếng Việt nên cân nhắc mô hình đa ngôn ngữ như sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2.
---top-k 20: Lấy 20 đoạn gần nhất từ FAISS để làm ngữ cảnh cho bước sinh (tăng cơ hội bao phủ Điều 1).
-Mặc định nếu không chỉ định:
---index-dir: dùng đường dẫn mặc định tới thư mục FAISS (faiss_index).
---groq-model: dùng llama-3.3-70b-versatile.
-GROQ_API_KEY đọc từ .env để gọi ChatGroq sinh câu trả lời.
+## 3. Hỏi đáp
+```bash
+python main.py ask --query "Nội dung Điều 1 Bộ luật Lao động quy định gì?" --index-dir vector_store/faiss_index --provider local --local-model sentence-transformers/all-MiniLM-L12-v2 --top-k 20
+```
+
+## 4. Các lệnh riêng lẻ
+```bash
+# Chỉ split PDF
+python main.py split
+
+# Chỉ tạo embeddings
+python main.py embed --provider local --local-model sentence-transformers/all-MiniLM-L12-v2
+
+# Hỏi câu hỏi khác
+python main.py ask --query "Điều 2 quy định gì?" --index-dir vector_store/faiss_index --provider local --local-model sentence-transformers/all-MiniLM-L12-v2
+```
+
+## 5. Kết quả mẫu
+**Câu hỏi:** "Nội dung Điều 1 Bộ luật Lao động quy định gì?"
+
+**Trả lời:** Điều 1 Bộ luật Lao động quy định về phạm vi điều chỉnh, bao gồm tiêu chuẩn lao động, quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động và quản lý nhà nước về lao động.
+
+## 6. Lưu ý
+- Đảm bảo có file `.env` với `GROQ_API_KEY` để tạo câu trả lời
+- Dùng `--provider local` để tránh cost OpenAI API
+- `--top-k 20` để lấy nhiều ngữ cảnh hơn cho câu trả lời chính xác

@@ -34,7 +34,7 @@ app.mount("/app", StaticFiles(directory="/Users/coinhat/Documents/PROJECT/AI/RAG
 class AskRequest(BaseModel):
     """Request model cho endpoint /ask"""
     query: str = Field(..., description="Câu hỏi người dùng")
-    index_dir: str = "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/faiss_index"
+    index_dir: str = "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/vector_store/faiss_index"
     provider: str = Field("local", description="'openai' hoặc 'local'")
     local_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     top_k: int = 5

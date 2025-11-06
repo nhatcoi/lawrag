@@ -1,10 +1,10 @@
 from typing import List
 from fastapi import APIRouter, HTTPException
 from pathlib import Path
-from models import DocumentInfo, ChunkInfo, SourceInfo
-from core.document_manager import get_all_documents, delete_document, get_document
-from core import build_vector_store
-from config import FILES_DIR, INDEX_DIR
+from app.models import DocumentInfo, ChunkInfo, SourceInfo
+from app.core.document_manager import get_all_documents, delete_document, get_document
+from app.core import build_vector_store
+from app.config import FILES_DIR, INDEX_DIR
 
 router = APIRouter(prefix="/sources", tags=["sources"])
 

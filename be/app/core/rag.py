@@ -2,7 +2,7 @@ from pathlib import Path
 from typing import Dict, Any, List
 from .embedding import load_vector_store
 from .generation import create_qa_chain
-from config import INDEX_DIR
+from app.config import INDEX_DIR
 
 
 def ask(query: str, index_dir: Path = INDEX_DIR, provider: str = "local", law_type_filter: str = None) -> Dict[str, Any]:

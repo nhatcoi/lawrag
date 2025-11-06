@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import List, Dict, Optional
 from datetime import datetime
 import uuid
-from config import DATA_DIR, FILES_DIR
+from app.config import DATA_DIR, FILES_DIR
 
 DOCUMENTS_FILE = DATA_DIR / "documents.json"
 

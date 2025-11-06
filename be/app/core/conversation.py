@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import List, Dict, Optional
 from datetime import datetime
 import uuid
-from config import DATA_DIR
+from app.config import DATA_DIR
 
 CONVERSATIONS_FILE = DATA_DIR / "conversations.json"
 MAX_CONTEXT_LENGTH = 8000

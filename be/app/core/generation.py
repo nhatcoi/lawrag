@@ -2,7 +2,7 @@ from typing import List, Dict
 from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
-from config import GROQ_MODEL, GROQ_API_KEY, TOP_K
+from app.config import GROQ_MODEL, GROQ_API_KEY, TOP_K
 
 
 def get_llm():

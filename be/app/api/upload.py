@@ -1,10 +1,10 @@
 from pathlib import Path
 from fastapi import APIRouter, UploadFile, File, HTTPException, Form
 from typing import List, Optional
-from core import build_vector_store
-from core.pdf_processor import process_pdf_to_txt
-from core.document_manager import create_document, add_chunk_to_document
-from config import INDEX_DIR, FILES_DIR
+from app.core import build_vector_store
+from app.core.pdf_processor import process_pdf_to_txt
+from app.core.document_manager import create_document, add_chunk_to_document
+from app.config import INDEX_DIR, FILES_DIR
 import shutil
 import uuid
 
@@ -103,7 +103,7 @@ async def upload_multiple_endpoint(files: List[UploadFile] = File(...)):
             
             try:
                 if file.filename.endswith('.pdf'):
-                    doc = create_document(file.filename, "pdf", file.size or 0, law_type)
+                    doc = create_document(file.filename, "pdf", file.size or 0, None)
                     doc_dir = Path(doc["doc_dir"])
                     output_dir = Path(doc["output_dir"])
                     safe_pdf_name = file.filename.replace(" ", "_")
@@ -135,7 +135,7 @@ async def upload_multiple_endpoint(files: List[UploadFile] = File(...)):
                     with open(file_path, "wb") as buffer:
                         buffer.write(content)
                     
-                    doc = create_document(file.filename, "txt", file.size or 0, law_type)
+                    doc = create_document(file.filename, "txt", file.size or 0, None)
                     add_chunk_to_document(
                         doc["id"],
                         safe_filename,

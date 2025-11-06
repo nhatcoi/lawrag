@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import List, Dict, Any
 from datetime import datetime
-from config import DATA_DIR
+from app.config import DATA_DIR
 
 HISTORY_FILE = DATA_DIR / "history.json"
 

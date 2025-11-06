@@ -1395,5 +1395,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": "21a1d7c3-e369-432b-ab1c-7bd644561417",
+    "title": "chào",
+    "created_at": "2025-11-06T21:06:20.691313",
+    "updated_at": "2025-11-06T21:06:28.331986",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "chào",
+        "timestamp": "2025-11-06T21:06:20.698219",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, một luật sư AI chuyên nghiệp. Tôi sẵn sàng giúp đỡ và tư vấn về các vấn đề pháp lý.\n\nTuy nhiên, trước khi bắt đầu, tôi cần xác định loại luật mà bạn muốn hỏi. Dựa trên ngữ cảnh bạn cung cấp, có vẻ như có một số thông tin về Bộ luật Dân sự và Bộ luật Lao động. Tuy nhiên, bạn chưa đặt câu hỏi cụ thể nào.\n\nNếu bạn muốn hỏi về quyền sử dụng tài sản, chiếm hữu, sử dụng, định đoạt tài sản riêng trong gia đình, hoặc về quyền và nghĩa vụ của người lao động, vui lòng cho tôi biết cụ thể. Tôi sẽ dựa trên thông tin từ Bộ luật Dân sự hoặc Bộ luật Lao động để trả lời.\n\nXin vui lòng đặt câu hỏi cụ thể của bạn!",
+        "timestamp": "2025-11-06T21:06:28.331950",
+        "sources": [
+          {
+            "id": "điều_189.txt",
+            "text": "Điều 189. Quyền sử dụng\nQuyền sử dụng là quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.\nQuyền sử dụng có thể được chuyển giao cho người khác theo thỏa thuận hoặc theo quy định của pháp luật.",
+            "rank": 1
+          },
+          {
+            "id": "điều_44.txt",
+            "text": "Điều 44. Chiếm hữu, sử dụng, định đoạt tài sản riêng\n1. Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng\nvào tài sản chung.\n2. Trong trường hợp vợ hoặc chồng không thể tự mình quản lý tài sản riêng và cũng không ủy quyền cho người khác\nquản lý thì bên kia có quyền quản lý tài sản đó. Việc quản lý tài sản phải bảo đảm lợi ích của người có tài sản.\n3. Nghĩa vụ riêng về tài sản của mỗi người được thanh toán từ tài sản riêng của người đó.\n4.",
+            "rank": 2
+          },
+          {
+            "id": "điều_42.txt",
+            "text": "của Bộ luật này; trường hợp có chỗ làm việc mới thì ưu tiên đào tạo lại người lao động để tiếp tục sử dụng.\n4. Trong trường hợp vì lý do kinh tế mà nhiều người lao động có nguy cơ mất việc làm, phải thôi\nviệc thì người sử dụng lao động phải xây dựng và thực hiện phương án sử dụng lao động theo quy định tại",
+            "rank": 3
+          },
+          {
+            "id": "điều_5.txt",
+            "text": "lượng tập thể với người sử dụng lao động và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích\nhợp pháp, chính đáng của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực\nhiện công việc;\nđ) Đơn phương chấm dứt hợp đồng lao động;\ne) Đình công;\nlOMoARcPSD|45619127\ng) Các quyền khác theo quy định của pháp luật.\n2. Người lao động có các nghĩa vụ sau đây:\na) Thực hiện hợp đồng ",
+            "rank": 4
+          },
+          {
+            "id": "điều_217.txt",
+            "text": "Điều 217. Sử dụng tài sản chung\n1. Mỗi chủ sở hữu chung theo phần có quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung tương\nứng với phần quyền sở hữu của mình, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác.\n2. Các chủ sở hữu chung hợp nhất có quyền ngang nhau trong việc khai thác công dụng, hưởng hoa lợi, lợi tức từ\ntài sản chung, trừ trường hợp có thỏa thuận khác.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
   }
 ]

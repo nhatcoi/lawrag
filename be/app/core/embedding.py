@@ -5,7 +5,7 @@ from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings, OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from config import FILES_DIR, INDEX_DIR, EMBEDDING_MODEL
+from app.config import FILES_DIR, INDEX_DIR, EMBEDDING_MODEL
 
 
 def get_embeddings(provider: str = "local"):

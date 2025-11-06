@@ -1,9 +1,9 @@
 from pathlib import Path
 from typing import List
 from fastapi import APIRouter, HTTPException
-from models import ChatRequest, ChatResponse, Source, ConversationInfo
-from core import ask
-from core.conversation import (
+from app.models import ChatRequest, ChatResponse, Source, ConversationInfo
+from app.core import ask
+from app.core.conversation import (
     create_conversation,
     get_conversation,
     add_message,
@@ -12,8 +12,8 @@ from core.conversation import (
     delete_conversation,
     update_conversation_law_type_filter
 )
-from core.storage import add_to_history
-from config import INDEX_DIR
+from app.core.storage import add_to_history
+from app.config import INDEX_DIR
 
 router = APIRouter(prefix="/chat", tags=["chat"])
 

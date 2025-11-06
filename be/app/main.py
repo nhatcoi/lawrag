@@ -2,7 +2,7 @@ from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from api import api_router
+from app.api import api_router
 
 app = FastAPI(title="RAG API", version="2.0.0")
 

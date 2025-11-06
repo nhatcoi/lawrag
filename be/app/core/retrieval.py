@@ -1,6 +1,6 @@
 from pathlib import Path
 import glob
-from config import FILES_DIR
+from app.config import FILES_DIR
 
 
 def find_article_by_number(article_number: str, docs_dir: Path = FILES_DIR) -> str:

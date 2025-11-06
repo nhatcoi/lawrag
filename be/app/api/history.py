@@ -1,7 +1,7 @@
 from typing import List
 from fastapi import APIRouter, HTTPException
-from models import HistoryItem
-from core.storage import load_history, add_to_history
+from app.models import HistoryItem
+from app.core.storage import load_history, add_to_history
 
 router = APIRouter(prefix="/history", tags=["history"])
 

@@ -1,9 +1,11 @@
 """
 FastAPI REST API cho RAG System
-Cung cấp endpoint để chat và truy xuất thông tin pháp luật
 """
 
-from typing import List, Optional
+import os
+import re
+from typing import List
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -12,13 +14,17 @@ from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
 from . import retriever, generator
-import re
-
 
 load_dotenv()
+
+# Project paths
+_current_dir = Path(__file__).parent
+_project_root = _current_dir.parent
+_default_public_dir = _project_root / "public"
+_default_index_dir = _project_root / "faiss_index"
+
 app = FastAPI(title="RAG API - Hệ thống truy xuất pháp luật", version="1.0.0")
 
-# CORS: Cho phép truy cập từ trình duyệt web
 app.add_middleware(
     CORSMiddleware,
     allow_origin_regex=".*",
@@ -26,16 +32,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Serve static front-end tại /app để tránh xung đột với /ask endpoint
-app.mount("/app", StaticFiles(directory="/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/public", html=True), name="static")
+# Serve static front-end tại /app nếu thư mục tồn tại
+_public_dir = Path(os.environ.get("PUBLIC_DIR", str(_default_public_dir)))
+if _public_dir.is_dir():
+    app.mount("/app", StaticFiles(directory=str(_public_dir), html=True), name="static")
 
 
-# Pydantic models cho API request/response
 class AskRequest(BaseModel):
     """Request model cho endpoint /ask"""
     query: str = Field(..., description="Câu hỏi người dùng")
-    index_dir: str = "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/faiss_index"
-    provider: str = Field("local", description="'openai' hoặc 'local'")
+    index_dir: str = Field(default=str(_default_index_dir))
+    provider: str = Field(default="local", description="'openai' hoặc 'local'")
     local_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     top_k: int = 5
     groq_model: str = "llama-3.3-70b-versatile"
@@ -57,39 +64,26 @@ class AskResponse(BaseModel):
 
 @app.post("/ask", response_model=AskResponse)
 def ask(req: AskRequest):
-    """
-    Endpoint chính cho RAG chat
-    Nhận câu hỏi, truy xuất thông tin liên quan và tạo câu trả lời
-    """
+    """Endpoint chính cho RAG chat"""
     try:
-        contexts: list[str] = []
+        contexts = []
         
         # Heuristic: Nếu query chứa "Điều <số>", chèn trực tiếp nội dung điều đó
-        m = re.search(r"(?i)(điều)\s+(\d+)", req.query or "")
-        if m:
-            direct_text = retriever.try_get_article_by_number(req.index_dir, m.group(2))
+        match = re.search(r"(?i)(điều)\s+(\d+)", req.query)
+        if match:
+            direct_text = retriever.try_get_article_by_number(req.index_dir, match.group(2))
             if direct_text:
                 contexts.append(direct_text)
 
         # Truy xuất tài liệu liên quan từ FAISS index
-        results = retriever.retrieve(
-            query=req.query,
-            index_dir=req.index_dir,
-            top_k=req.top_k,
-            provider=req.provider,
-            local_model=req.local_model,
-        )
+        results = retriever.retrieve(req.query, req.index_dir, req.top_k, req.provider, req.local_model)
         contexts.extend([r.get("text", "") for r in results])
         
         # Tạo câu trả lời bằng LLM
-        answer = generator.generate_answer(
-            query=req.query,
-            contexts=contexts,
-            model=req.groq_model,
-        )
+        answer = generator.generate_answer(req.query, contexts, req.groq_model)
         
-        # Chuẩn bị thông tin nguồn cho response
-        sources: List[Source] = [
+        # Chuẩn bị sources từ results đã truy xuất
+        sources = [
             Source(
                 rank=int(r.get("rank", 0)),
                 score=float(r.get("score", 0.0)),

@@ -852,5 +852,222 @@
         ]
       }
     ]
+  },
+  {
+    "id": "39edd127-7109-4a1e-a7c2-6c1e99061d58",
+    "title": "chào",
+    "created_at": "2025-11-06T18:24:22.040478",
+    "updated_at": "2025-11-06T18:24:54.464936",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "chào",
+        "timestamp": "2025-11-06T18:24:22.050324",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Tuy nhiên, tôi nhận thấy rằng câu hỏi của bạn chưa rõ ràng và chưa cung cấp đủ thông tin để tôi có thể xác định loại luật được hỏi.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể, tôi sẽ sẵn sàng trả lời và tư vấn cho bạn dựa trên kiến thức pháp luật của mình, đặc biệt là trong lĩnh vực Bộ luật Lao động, Luật Doanh nghiệp, Luật Dân sự, Luật Hình sự, v.v.\n\nXin vui lòng cung cấp thêm thông tin để tôi có thể hỗ trợ bạn tốt nhất!",
+        "timestamp": "2025-11-06T18:24:28.327826",
+        "sources": [
+          {
+            "id": "điều_42.txt",
+            "text": "của Bộ luật này; trường hợp có chỗ làm việc mới thì ưu tiên đào tạo lại người lao động để tiếp tục sử dụng.\n4. Trong trường hợp vì lý do kinh tế mà nhiều người lao động có nguy cơ mất việc làm, phải thôi\nviệc thì người sử dụng lao động phải xây dựng và thực hiện phương án sử dụng lao động theo quy định tại",
+            "rank": 1
+          },
+          {
+            "id": "điều_5.txt",
+            "text": "lượng tập thể với người sử dụng lao động và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích\nhợp pháp, chính đáng của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực\nhiện công việc;\nđ) Đơn phương chấm dứt hợp đồng lao động;\ne) Đình công;\nlOMoARcPSD|45619127\ng) Các quyền khác theo quy định của pháp luật.\n2. Người lao động có các nghĩa vụ sau đây:\na) Thực hiện hợp đồng ",
+            "rank": 2
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 3
+          },
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 4
+          },
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Đối tượng áp dụng\n1. Người lao động, người học nghề, người tập nghề và người làm việc không có quan hệ lao động.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tôi cần hỏi về bộ luật doanh nghiệp",
+        "timestamp": "2025-11-06T18:24:49.642296",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Kính chào quý khách, tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật doanh nghiệp. Tôi hiểu rằng quý khách muốn hỏi về Bộ luật Doanh nghiệp.\n\nBộ luật Doanh nghiệp quy định về việc thành lập, tổ chức và hoạt động của các doanh nghiệp tại Việt Nam. Theo Điều 4 của Bộ luật này, người quản lý doanh nghiệp bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức danh quản lý khác theo quy định tại Điều lệ công ty.\n\nNếu quý khách muốn biết thêm thông tin về việc thành lập doanh nghiệp, tổ chức và quản lý doanh nghiệp, vui lòng cho tôi biết chi tiết câu hỏi của quý khách. Tôi sẽ cố gắng trả lời dựa trên quy định của Bộ luật Doanh nghiệp.",
+        "timestamp": "2025-11-06T18:24:54.464916",
+        "sources": [
+          {
+            "id": "điều_20.txt",
+            "text": "chị, em ruột tham dự các gói thầu của doanh nghiệp mình; bố trí vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ\nquỹ, thủ kho trong doanh nghiệp hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho doanh nghiệp.",
+            "rank": 1
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "nhân dân Việt Nam, trừ người được cử làm đại diện theo ủy quyền để quản lý phần vốn\ngóp của Nhà nước tại doanh nghiệp hoặc quản lý tại doanh nghiệp nhà nước;\nd) Cán bộ lãnh đạo, quản lý nghiệp vụ trong doanh nghiệp nhà nước theo\nquy\nđịnh tại điểm a khoản 1 Điều 88 của Luật này, trừ người được cử làm đại diện theo ủy\nquyền để quản lý phần vốn góp của Nhà nước tại doanh nghiệp khác;\nđ) Người chưa thành niên; người bị hạn chế năng lực hành vi dân sự; người bị\nmất năng lực hành vi dân sự; người có k",
+            "rank": 3
+          },
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4\n24. Người quản lý doanh nghiệp là người quản lý doanh nghiệp tư nhân và người quản\nlý công ty, bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng\nthành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản\ntrị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức\ndanh quản lý khác theo quy định tại Điều lệ công ty.",
+            "rank": 4
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "Điều 3. Giải thích từ ngữ\nTrong Bộ luật này, các từ ngữ dưới đây được hiểu như sau:\n1. Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và\nchịu sự quản lý, điều hành, giám sát của người sử dụng lao động.\nĐộ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI\ncủa Bộ luật này.\n2. Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có\nthuê mướn, sử dụng người lao động ",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "82d22fa8-1df3-4477-98cd-46361a12c215",
+    "title": "người lao động là những ai",
+    "created_at": "2025-11-06T18:26:54.451479",
+    "updated_at": "2025-11-06T18:26:59.432262",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "người lao động là những ai",
+        "timestamp": "2025-11-06T18:26:54.456772",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Bộ luật Lao động, người lao động là những cá nhân thực hiện công việc có trả lương, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động. Điều 2 của Bộ luật Lao động quy định rằng người lao động bao gồm những người lao động, người học nghề, người tập nghề và người làm việc không có quan hệ lao động.\n\nTheo Điều 2 - Bộ luật Lao động, người lao động là những ai tham gia vào quan hệ lao động, bao gồm cả những người làm việc không có quan hệ lao động. Điều này cho thấy rằng người lao động không chỉ là những người có hợp đồng lao động mà còn bao gồm cả những người tham gia vào các hoạt động lao động khác.\n\nTuy nhiên, cần lưu ý rằng người lao động nước ngoài làm việc tại Việt Nam cũng được coi là người lao động theo quy định của Bộ luật Lao động. Điều này được quy định tại điểm 3, Điều 2 của Bộ luật Lao động.\n\nTóm lại, người lao động là những cá nhân tham gia vào quan hệ lao động, bao gồm cả những người có hợp đồng lao động và những người làm việc không có quan hệ lao động, cũng như người lao động nước ngoài làm việc tại Việt Nam.",
+        "timestamp": "2025-11-06T18:26:59.432238",
+        "sources": [
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Đối tượng áp dụng\n1. Người lao động, người học nghề, người tập nghề và người làm việc không có quan hệ lao động.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+            "rank": 1
+          },
+          {
+            "id": "điều_13.txt",
+            "text": "Điều 13. Hợp đồng lao động\n1. Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm\ncó trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.\nTrường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền\nlương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.\n2. Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kế",
+            "rank": 2
+          },
+          {
+            "id": "điều_118.txt",
+            "text": "Điều 118. Nội quy lao động\n1. Người sử dụng lao động phải ban hành nội quy lao động, nếu sử dụng từ 10 người lao động trở\nlên thì nội quy lao động phải bằng văn bản.\n2. Nội dung nội quy lao động không được trái với pháp luật về lao động và quy định của pháp luật\ncó liên quan. Nội quy lao động bao gồm những nội dung chủ yếu sau đây: a) Thời giờ làm việc, thời giờ\nnghỉ ngơi;\nb) Trật tự tại nơi làm việc;\nc) An toàn, vệ sinh lao động;\nd) Phòng, chống quấy rối tình dục tại nơi làm việc; trình tự, thủ",
+            "rank": 3
+          },
+          {
+            "id": "điều_31.txt",
+            "text": "hợp đồng lao động.\n3. Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong thực hiện\nquyền và nghĩa vụ với người lao động làm việc trọn thời gian; bình đẳng về cơ hội, không bị phân biệt đối\nxử, bảo đảm an toàn, vệ sinh lao động.",
+            "rank": 4
+          },
+          {
+            "id": "điều_119.txt",
+            "text": "Điều 119. Đăng ký nội quy lao động\n1. Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải đăng ký nội quy lao động tại\ncơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi người sử dụng lao động đăng ký\nkinh doanh.\n2. Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động, người sử dụng lao động phải nộp\nhồ sơ đăng ký nội quy lao động.\n3. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký nội quy lao động, nếu nội\ndung nội quy lao động có quy định t",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f2deb3a2-2136-419a-aff6-d4273120248a",
+    "title": "Nghĩa vụ bảo đảm quyền sử dụng tài sản cho bên thu...",
+    "created_at": "2025-11-06T18:32:12.215881",
+    "updated_at": "2025-11-06T18:32:37.241821",
+    "law_type_filter": "Luật Dân sự",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Nghĩa vụ bảo đảm quyền sử dụng tài sản cho bên thuê là gì?",
+        "timestamp": "2025-11-06T18:32:12.220506",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Bộ luật Dân sự, nghĩa vụ bảo đảm quyền sử dụng tài sản cho bên thuê được quy định tại Điều 478. Cụ thể, bên cho thuê phải bảo đảm quyền sử dụng tài sản ổn định cho bên thuê. Nếu có tranh chấp về quyền sở hữu đối với tài sản thuê mà bên thuê không được sử dụng tài sản ổn định, thì bên thuê có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại.\n\nNhư vậy, nghĩa vụ bảo đảm quyền sử dụng tài sản cho bên thuê là bảo đảm cho bên thuê được sử dụng tài sản thuê một cách ổn định và không bị gián đoạn do các tranh chấp về quyền sở hữu. Theo Điều 478 - Bộ luật Dân sự, bên cho thuê phải có trách nhiệm bảo đảm quyền sử dụng tài sản cho bên thuê.",
+        "timestamp": "2025-11-06T18:32:17.743317",
+        "sources": [
+          {
+            "id": "điều_17.txt",
+            "text": "Điều 17. Nội dung năng lực pháp luật dân sự của cá nhân\n1. Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.\n2. Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.\n3. Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.",
+            "rank": 1
+          },
+          {
+            "id": "điều_262.txt",
+            "text": "Điều 262. Nghĩa vụ của người hưởng dụng\n1. Tiếp nhận tài sản theo hiện trạng và thực hiện đăng ký nếu luật có quy định.\n2. Khai thác tài sản phù hợp với công dụng, mục đích sử dụng của tài sản.\n3. Giữ gìn, bảo quản tài sản như tài sản của mình.\n4. Bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài\nsản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu\ncầu kỹ thuật hoặc theo tập quá",
+            "rank": 2
+          },
+          {
+            "id": "điều_478.txt",
+            "text": "Điều 478. Nghĩa vụ bảo đảm quyền sử dụng tài sản cho bên thuê\n1. Bên cho thuê phải bảo đảm quyền sử dụng tài sản ổn định cho bên thuê.\n2. Trường hợp có tranh chấp về quyền sở hữu đối với tài sản thuê mà bên thuê không được sử dụng tài sản ổn định\nthì bên thuê có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại.",
+            "rank": 3
+          },
+          {
+            "id": "điều_557.txt",
+            "text": "Điều 557. Nghĩa vụ của bên giữ tài sản\n1. Bảo quản tài sản theo đúng thỏa thuận, trả lại tài sản cho bên gửi theo đúng tình trạng như khi nhận giữ.\n2. Chỉ được thay đổi cách bảo quản tài sản nếu việc thay đổi là cần thiết nhằm bảo quản tốt hơn tài sản đó, nhưng\nphải báo ngay cho bên gửi biết về việc thay đổi.\n3. Thông báo kịp thời cho bên gửi biết về nguy cơ hư hỏng, tiêu hủy tài sản do tính chất của tài sản đó và yêu cầu\nbên gửi cho biết cách giải quyết trong một thời hạn; nếu hết thời hạn đó m",
+            "rank": 4
+          },
+          {
+            "id": "điều_189.txt",
+            "text": "Điều 189. Quyền sử dụng\nQuyền sử dụng là quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.\nQuyền sử dụng có thể được chuyển giao cho người khác theo thỏa thuận hoặc theo quy định của pháp luật.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "cách thức bạn hoạt động",
+        "timestamp": "2025-11-06T18:32:31.847850",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Kính chào quý khách hàng, tôi là MrLawyerAI, luật sư chuyên nghiệp về Luật Dân sự. Tôi rất vui được tư vấn và hỗ trợ quý khách hàng trong lĩnh vực này.\n\nLuật Dân sự là một trong những lĩnh vực pháp luật quan trọng và rộng lớn, điều chỉnh các quan hệ dân sự giữa các cá nhân, tổ chức. Theo Điều 4 của Bộ luật Dân sự, đây là luật chung điều chỉnh các quan hệ dân sự, và các quy định của Bộ luật này được áp dụng trong trường hợp không có quy định khác.\n\nTôi hoạt động dựa trên các nguyên tắc cơ bản của pháp luật dân sự, bao gồm:\n\n* Bình đẳng: Mọi cá nhân, pháp nhân đều bình đẳng và được pháp luật bảo vệ như nhau (Theo Điều 3.1 - Bộ luật Dân sự).\n* Tự do, tự nguyện: Các bên có quyền tự do, tự nguyện cam kết, thỏa thuận khi xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự (Theo Điều 3.2 - Bộ luật Dân sự).\n* Thiện chí, trung thực: Các bên phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình một cách thiện chí, trung thực (Theo Điều 3.3 - Bộ luật Dân sự).\n\nTôi sẽ tư vấn và hỗ trợ quý khách hàng trong các lĩnh vực như:\n\n* Giao dịch dân sự: Hợp đồng, hành vi pháp lý đơn phương, quyền và nghĩa vụ dân sự (Theo Điều 116 - Bộ luật Dân sự).\n* Năng lực pháp luật dân sự: Khả năng của cá nhân, pháp nhân có quyền dân sự và nghĩa vụ dân sự (Theo Điều 16, Điều 86 - Bộ luật Dân sự).\n* Sở hữu và quyền khác đối với tài sản: Quyền sở hữu, quyền thừa kế, quyền khác đối với tài sản (Theo Điều 17 - Bộ luật Dân sự).\n\nTôi hy vọng sẽ được hỗ trợ và tư vấn cho quý khách hàng trong lĩnh vực Luật Dân sự. Hãy liên hệ với tôi để được tư vấn cụ thể và chi tiết.",
+        "timestamp": "2025-11-06T18:32:37.241781",
+        "sources": [
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4. Áp dụng Bộ luật dân sự\n1. Bộ luật này là luật chung điều chỉnh các quan hệ dân sự.\n2. Luật khác có liên quan điều chỉnh quan hệ dân sự trong các lĩnh vực cụ thể không được trái với các nguyên tắc cơ\nbản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.\n3. Trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì quy định\ncủa Bộ luật này được áp dụng.\n4. Trường hợp có sự khác nhau giữa quy định của Bộ luật này và điều ước quốc tế mà Cộng ",
+            "rank": 1
+          },
+          {
+            "id": "điều_116.txt",
+            "text": "Điều 116. Giao dịch dân sự\nGiao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa\nvụ dân sự.",
+            "rank": 2
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "Điều 17. Nội dung năng lực pháp luật dân sự của cá nhân\n1. Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.\n2. Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.\n3. Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.",
+            "rank": 3
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "Điều 3. Các nguyên tắc cơ bản của pháp luật dân sự\n1. Mọi cá nhân, pháp nhân đều bình đẳng, không được lấy bất kỳ lý do nào để phân biệt đối xử; được pháp luật bảo\nhộ như nhau về các quyền nhân thân và tài sản.\n2. Cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình trên cơ sở tự do, tự nguyện\ncam kết, thỏa thuận. Mọi cam kết, thỏa thuận không vi phạm điều cấm của luật, không trái đạo đức xã hội có hiệu lực\nthực hiện đối với các bên và phải được chủ thể khác tôn trọng.",
+            "rank": 4
+          },
+          {
+            "id": "điều_12.txt",
+            "text": "Điều 12. Tự bảo vệ quyền dân sự\nViệc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được\ntrái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
   }
 ]

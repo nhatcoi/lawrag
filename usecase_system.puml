@@ -1,0 +1,73 @@
+@startuml System Use Case
+title RAG System - Use Case Diagram
+
+actor User
+
+rectangle "RAG System" {
+    usecase "Upload File" as UC1
+    usecase "Process PDF" as UC1a
+    usecase "Save Document" as UC1b
+    usecase "Build Vector Index" as UC1c
+    
+    usecase "Delete File" as UC2
+    
+    usecase "Query/Chat" as UC3
+    usecase "Create Conversation" as UC3a
+    usecase "Search Vector Store" as UC3b
+    usecase "Generate Answer" as UC3c
+    usecase "Save Message" as UC3d
+    
+    usecase "View Sources" as UC4
+    usecase "View Source Content" as UC4a
+    
+    usecase "View History" as UC5
+    
+    usecase "Manage Conversations" as UC6
+    usecase "View Conversation" as UC6a
+    usecase "Delete Conversation" as UC6b
+}
+
+User --> UC1
+User --> UC2
+User --> UC3
+User --> UC4
+User --> UC4a
+User --> UC5
+User --> UC6
+User --> UC6a
+User --> UC6b
+
+UC1 ..> UC1a : <<include>>
+UC1 ..> UC1b : <<include>>
+UC1 ..> UC1c : <<include>>
+UC2 ..> UC1c : <<include>>
+
+UC3 ..> UC3a : <<include>>
+UC3 ..> UC3b : <<include>>
+UC3 ..> UC3c : <<include>>
+UC3 ..> UC3d : <<include>>
+
+UC4 ..> UC4a : <<extend>>
+UC6 ..> UC6a : <<include>>
+UC6 ..> UC6b : <<include>>
+
+note right of UC1a
+  • Extract text
+  • Split articles
+  • Save to files/
+end note
+
+note right of UC1c
+  • Load documents
+  • Create embeddings
+  • Build FAISS index
+end note
+
+note right of UC3
+  • Vector search (top K)
+  • LLM generation
+  • Format with citations
+end note
+
+@enduml
+

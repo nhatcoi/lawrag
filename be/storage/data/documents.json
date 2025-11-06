@@ -1,0 +1,438 @@
+[
+  {
+    "id": "f97a245c-3611-4caf-b807-37c4a9f8e82b",
+    "filename": "tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496.pdf",
+    "original_name": "tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496.pdf",
+    "doc_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496",
+    "output_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496",
+    "type": "pdf",
+    "size": 224227,
+    "law_type": "Luật Doanh nghiệp",
+    "uploaded_at": "2025-11-06T11:35:05.179786",
+    "status": "indexed",
+    "chunks": [
+      {
+        "filename": "điều_4.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_4.txt",
+        "size": 521,
+        "created_at": "2025-11-06T11:35:05.600950"
+      },
+      {
+        "filename": "điều_17.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_17.txt",
+        "size": 4017,
+        "created_at": "2025-11-06T11:35:05.601086"
+      },
+      {
+        "filename": "điều_37.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_37.txt",
+        "size": 1385,
+        "created_at": "2025-11-06T11:35:05.601200"
+      },
+      {
+        "filename": "điều_38.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_38.txt",
+        "size": 823,
+        "created_at": "2025-11-06T11:35:05.601298"
+      },
+      {
+        "filename": "điều_39.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_39.txt",
+        "size": 1019,
+        "created_at": "2025-11-06T11:35:05.601398"
+      },
+      {
+        "filename": "điều_40.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_40.txt",
+        "size": 1121,
+        "created_at": "2025-11-06T11:35:05.601520"
+      },
+      {
+        "filename": "điều_41.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_41.txt",
+        "size": 2290,
+        "created_at": "2025-11-06T11:35:05.601650"
+      },
+      {
+        "filename": "điều_19.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_19.txt",
+        "size": 4628,
+        "created_at": "2025-11-06T11:35:05.601783"
+      },
+      {
+        "filename": "điều_20.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/output_tong-hop-dieu-luat-luat-doanh-nghiep-mon-luat-kinh-te-dai-hoc-can-tho-166496/điều_20.txt",
+        "size": 3638,
+        "created_at": "2025-11-06T11:35:05.601936"
+      }
+    ]
+  },
+  {
+    "id": "2e296b6c-56f7-490e-aa87-22482c59f366",
+    "filename": "bo-luat-lao-dong-2019-116810.pdf",
+    "original_name": "bo-luat-lao-dong-2019-116810.pdf",
+    "doc_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810",
+    "output_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810",
+    "type": "pdf",
+    "size": 453851,
+    "law_type": "Bộ luật Lao động",
+    "uploaded_at": "2025-11-06T11:35:44.606969",
+    "status": "indexed",
+    "chunks": [
+      {
+        "filename": "điều_1.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_1.txt",
+        "size": 471,
+        "created_at": "2025-11-06T11:35:45.739217"
+      },
+      {
+        "filename": "điều_2.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_2.txt",
+        "size": 374,
+        "created_at": "2025-11-06T11:35:45.739458"
+      },
+      {
+        "filename": "điều_3.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_3.txt",
+        "size": 3819,
+        "created_at": "2025-11-06T11:35:45.739663"
+      },
+      {
+        "filename": "điều_4.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_4.txt",
+        "size": 2033,
+        "created_at": "2025-11-06T11:35:45.739833"
+      },
+      {
+        "filename": "điều_5.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_5.txt",
+        "size": 2136,
+        "created_at": "2025-11-06T11:35:45.739996"
+      },
+      {
+        "filename": "điều_6.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_6.txt",
+        "size": 2144,
+        "created_at": "2025-11-06T11:35:45.740185"
+      },
+      {
+        "filename": "điều_7.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_7.txt",
+        "size": 1370,
+        "created_at": "2025-11-06T11:35:45.740367"
+      },
+      {
+        "filename": "điều_8.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_8.txt",
+        "size": 1326,
+        "created_at": "2025-11-06T11:35:45.740529"
+      },
+      {
+        "filename": "điều_13.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_13.txt",
+        "size": 735,
+        "created_at": "2025-11-06T11:35:45.740810"
+      },
+      {
+        "filename": "điều_14.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_14.txt",
+        "size": 859,
+        "created_at": "2025-11-06T11:35:45.741038"
+      },
+      {
+        "filename": "điều_15.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_15.txt",
+        "size": 297,
+        "created_at": "2025-11-06T11:35:45.741228"
+      },
+      {
+        "filename": "điều_16.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_16.txt",
+        "size": 1654,
+        "created_at": "2025-11-06T11:35:45.741414"
+      },
+      {
+        "filename": "điều_18.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_18.txt",
+        "size": 2389,
+        "created_at": "2025-11-06T11:35:45.741661"
+      },
+      {
+        "filename": "điều_19.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_19.txt",
+        "size": 671,
+        "created_at": "2025-11-06T11:35:45.741889"
+      },
+      {
+        "filename": "điều_20.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_20.txt",
+        "size": 2022,
+        "created_at": "2025-11-06T11:35:45.742109"
+      },
+      {
+        "filename": "điều_177.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_177.txt",
+        "size": 36,
+        "created_at": "2025-11-06T11:35:45.742351"
+      },
+      {
+        "filename": "điều_21.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_21.txt",
+        "size": 2350,
+        "created_at": "2025-11-06T11:35:45.742566"
+      },
+      {
+        "filename": "điều_22.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_22.txt",
+        "size": 942,
+        "created_at": "2025-11-06T11:35:45.742782"
+      },
+      {
+        "filename": "điều_23.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_23.txt",
+        "size": 230,
+        "created_at": "2025-11-06T11:35:45.743099"
+      },
+      {
+        "filename": "điều_24.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_24.txt",
+        "size": 607,
+        "created_at": "2025-11-06T11:35:45.743330"
+      },
+      {
+        "filename": "điều_25.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_25.txt",
+        "size": 958,
+        "created_at": "2025-11-06T11:35:45.743651"
+      },
+      {
+        "filename": "điều_26.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_26.txt",
+        "size": 1203,
+        "created_at": "2025-11-06T11:35:45.744010"
+      },
+      {
+        "filename": "điều_28.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_28.txt",
+        "size": 329,
+        "created_at": "2025-11-06T11:35:45.744409"
+      },
+      {
+        "filename": "điều_29.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_29.txt",
+        "size": 2392,
+        "created_at": "2025-11-06T11:35:45.744643"
+      },
+      {
+        "filename": "điều_30.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_30.txt",
+        "size": 1607,
+        "created_at": "2025-11-06T11:35:45.744914"
+      },
+      {
+        "filename": "điều_31.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_31.txt",
+        "size": 1486,
+        "created_at": "2025-11-06T11:35:45.745177"
+      },
+      {
+        "filename": "điều_33.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_33.txt",
+        "size": 851,
+        "created_at": "2025-11-06T11:35:45.745435"
+      },
+      {
+        "filename": "điều_34.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_34.txt",
+        "size": 2550,
+        "created_at": "2025-11-06T11:35:45.745733"
+      },
+      {
+        "filename": "điều_35.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_35.txt",
+        "size": 2157,
+        "created_at": "2025-11-06T11:35:45.746045"
+      },
+      {
+        "filename": "điều_36.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_36.txt",
+        "size": 3665,
+        "created_at": "2025-11-06T11:35:45.746318"
+      },
+      {
+        "filename": "điều_37.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_37.txt",
+        "size": 733,
+        "created_at": "2025-11-06T11:35:45.746577"
+      },
+      {
+        "filename": "điều_38.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_38.txt",
+        "size": 317,
+        "created_at": "2025-11-06T11:35:45.746823"
+      },
+      {
+        "filename": "điều_39.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_39.txt",
+        "size": 300,
+        "created_at": "2025-11-06T11:35:45.747086"
+      },
+      {
+        "filename": "điều_40.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_40.txt",
+        "size": 560,
+        "created_at": "2025-11-06T11:35:45.747371"
+      },
+      {
+        "filename": "điều_41.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_41.txt",
+        "size": 2244,
+        "created_at": "2025-11-06T11:35:45.747627"
+      },
+      {
+        "filename": "điều_42.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_42.txt",
+        "size": 1511,
+        "created_at": "2025-11-06T11:35:45.747904"
+      },
+      {
+        "filename": "điều_44.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_44.txt",
+        "size": 1284,
+        "created_at": "2025-11-06T11:35:45.748201"
+      },
+      {
+        "filename": "điều_43.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_43.txt",
+        "size": 1080,
+        "created_at": "2025-11-06T11:35:45.748461"
+      },
+      {
+        "filename": "điều_44.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_44.txt",
+        "size": 1284,
+        "created_at": "2025-11-06T11:35:45.748815"
+      },
+      {
+        "filename": "điều_45.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_45.txt",
+        "size": 1154,
+        "created_at": "2025-11-06T11:35:45.749116"
+      },
+      {
+        "filename": "điều_46.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_46.txt",
+        "size": 1388,
+        "created_at": "2025-11-06T11:35:45.749400"
+      },
+      {
+        "filename": "điều_47.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_47.txt",
+        "size": 1174,
+        "created_at": "2025-11-06T11:35:45.749663"
+      },
+      {
+        "filename": "điều_48.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_48.txt",
+        "size": 1855,
+        "created_at": "2025-11-06T11:35:45.749919"
+      },
+      {
+        "filename": "điều_49.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_49.txt",
+        "size": 718,
+        "created_at": "2025-11-06T11:35:45.750177"
+      },
+      {
+        "filename": "điều_50.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_50.txt",
+        "size": 158,
+        "created_at": "2025-11-06T11:35:45.750473"
+      },
+      {
+        "filename": "điều_51.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_51.txt",
+        "size": 1073,
+        "created_at": "2025-11-06T11:35:45.750749"
+      },
+      {
+        "filename": "điều_117.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_117.txt",
+        "size": 284,
+        "created_at": "2025-11-06T11:35:45.751003"
+      },
+      {
+        "filename": "điều_118.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_118.txt",
+        "size": 1797,
+        "created_at": "2025-11-06T11:35:45.751268"
+      },
+      {
+        "filename": "điều_119.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_119.txt",
+        "size": 2111,
+        "created_at": "2025-11-06T11:35:45.751539"
+      },
+      {
+        "filename": "điều_121.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_121.txt",
+        "size": 530,
+        "created_at": "2025-11-06T11:35:45.752028"
+      },
+      {
+        "filename": "điều_122.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_122.txt",
+        "size": 3071,
+        "created_at": "2025-11-06T11:35:45.752323"
+      },
+      {
+        "filename": "điều_124.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_124.txt",
+        "size": 172,
+        "created_at": "2025-11-06T11:35:45.752676"
+      },
+      {
+        "filename": "điều_125.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_125.txt",
+        "size": 1704,
+        "created_at": "2025-11-06T11:35:45.752996"
+      },
+      {
+        "filename": "điều_126.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_126.txt",
+        "size": 683,
+        "created_at": "2025-11-06T11:35:45.753290"
+      },
+      {
+        "filename": "điều_127.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_127.txt",
+        "size": 552,
+        "created_at": "2025-11-06T11:35:45.753587"
+      },
+      {
+        "filename": "điều_128.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_128.txt",
+        "size": 1504,
+        "created_at": "2025-11-06T11:35:45.753966"
+      },
+      {
+        "filename": "điều_129.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_129.txt",
+        "size": 1615,
+        "created_at": "2025-11-06T11:35:45.754702"
+      },
+      {
+        "filename": "điều_130.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_130.txt",
+        "size": 402,
+        "created_at": "2025-11-06T11:35:45.755297"
+      },
+      {
+        "filename": "điều_131.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo-luat-lao-dong-2019-116810/output_bo-luat-lao-dong-2019-116810/điều_131.txt",
+        "size": 569,
+        "created_at": "2025-11-06T11:35:45.755672"
+      }
+    ]
+  }
+]

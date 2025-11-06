@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-groq>=0.1.0
+langchain-openai>=0.0.5
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0
+pdfplumber==0.12.4
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.1
+

@@ -1,0 +1,51 @@
+@startuml Upload and Delete Flow
+title Upload and Delete File Flow
+
+== UPLOAD FILE ==
+
+actor User
+participant "upload.py" as upload
+participant "sources.py" as sources
+participant "pdf_processor.py" as pdf
+participant "document_manager.py" as doc
+participant "embedding.py" as embed
+
+User -> upload: POST /api/upload
+
+upload -> upload: Validate file type
+
+alt PDF file
+    upload -> pdf: process_pdf_to_txt()
+    note right of pdf: extract_text_from_pdf()\nsplit_articles()\nprocess_pdf_to_txt()
+    pdf --> upload: storage/files/điều_X.txt
+else TXT file
+    upload -> upload: Lưu trực tiếp
+    upload --> upload: storage/files/{filename}.txt
+end
+
+upload -> doc: add_document()
+note right of doc: Tạo metadata\nsave_documents()\nstorage/data/documents.json
+doc --> upload
+
+upload -> embed: build_vector_store()
+note right of embed: load_documents() → .txt files\nTextSplitter → Chunks\nget_embeddings() → Vectors\nFAISS.from_documents()\nsave_local() → storage/index/
+embed --> upload
+
+upload --> User: "Tải file lên hệ thống RAG thành công"
+
+== DELETE FILE ==
+
+User -> sources: DELETE /api/sources/{source_id}
+
+sources -> doc: delete_document(source_id)
+note right of doc: Xóa file vật lý\nXóa metadata từ documents.json
+doc --> sources
+
+sources -> embed: build_vector_store()
+note right of embed: Rebuild index từ files còn lại
+embed --> sources
+
+sources --> User: "tài liệu xóa thành công"
+
+@enduml
+

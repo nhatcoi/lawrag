@@ -1,0 +1,856 @@
+[
+  {
+    "id": "9aed596e-6d0b-4ed1-a726-07492a1d810b",
+    "title": "tóm tắt luật doanh nghiệp",
+    "created_at": "2025-11-06T11:36:05.820200",
+    "updated_at": "2025-11-06T11:36:38.377727",
+    "messages": [
+      {
+        "role": "user",
+        "content": "tóm tắt luật doanh nghiệp",
+        "timestamp": "2025-11-06T11:36:05.821301",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi xin tóm tắt một số điểm chính về Luật Doanh nghiệp như sau:\n\nLuật Doanh nghiệp quy định về việc thành lập, tổ chức, quản lý và hoạt động của các doanh nghiệp tại Việt Nam. Theo Điều 37 của Luật này, tên doanh nghiệp phải bao gồm hai thành tố: loại hình doanh nghiệp và tên riêng. Loại hình doanh nghiệp được thể hiện bằng các cụm từ như \"công ty trách nhiệm hữu hạn\", \"công ty cổ phần\", \"công ty hợp danh\" hoặc \"doanh nghiệp tư nhân\".\n\nDoanh nghiệp cũng phải đăng ký tên và phải tuân theo các quy định về tên doanh nghiệp, bao gồm việc không được trùng hoặc gây nhầm lẫn với tên của các doanh nghiệp khác. Theo Điều 39, tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh nghiệp cũng phải tuân theo các quy định cụ thể.\n\nNgoài ra, Luật Doanh nghiệp cũng quy định về việc quản lý và sử dụng tên doanh nghiệp, bao gồm việc gắn tên doanh nghiệp tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh và trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành. (Theo Điều 37, Điều 39 - Luật Doanh nghiệp)",
+        "timestamp": "2025-11-06T11:36:11.863335",
+        "sources": [
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 1
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 3
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "LuậtCán bộ, công chức, Luật Viên chức, Luật Phòng, chống tham nhũng.\n4. Thu lợi riêng cho cơ quan, đơn vị mình quy định tại điểm a khoản 2 và điểm\nakhoản 3 Điều này là việc sử dụng thu nhập dưới mọi hình thức có được từ hoạt động\nkinh doanh, từ góp vốn, mua cổ phần, mua phần vốn góp vào một trong các mục đích\nsau đây:\na) Chia dưới mọi hình thức cho một số hoặc tất cả những người quy định tại\nđiểm b và điểm c khoản 2 Điều này;\nb) Bổ sung vào ngân sách hoạt động của cơ quan, đơn vị trái với quy đị",
+            "rank": 4
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "Điều 37. Tên doanh nghiệp\n1. Tên tiếng Việt của doanh nghiệp bao gồm hai thành tố theo thứ tự sau đây:\na) Loại hình doanh nghiệp;\nb) Tên riêng.\n2. Loại hình doanh nghiệp được viết là “công ty trách nhiệm hữu hạn” hoặc “công\ntyTNHH” đối với công ty trách nhiệm hữu hạn; được viết là “công ty cổ phần” hoặc\n“công ty CP” đối với công ty cổ phần; được viết là “công ty hợp danh” hoặc “công ty\nHD” đối với công ty hợp danh; được viết là “doanh nghiệp tư nhân”, “DNTN” hoặc\n“doanh nghiệp TN” đối với doanh ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tóm tắt luật lao động",
+        "timestamp": "2025-11-06T11:36:33.226804",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng bạn muốn tôi tóm tắt về luật lao động, cụ thể là các quy định liên quan đến kỷ luật lao động. Loại luật được hỏi ở đây là Bộ luật Lao động.\n\nTheo quy định của Bộ luật Lao động, kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.\n\nMột số điểm quan trọng về kỷ luật lao động bao gồm:\n\n- Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi phạm, trừ trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử lý kỷ luật lao động là 12 tháng (Theo Điều 117 - Bộ luật Lao động).\n- Người sử dụng lao động phải chứng minh được lỗi của người lao động và phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở khi xử lý kỷ luật lao động (Theo Điều 122 - Bộ luật Lao động).\n- Người lao động có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động bào chữa khi bị xử lý kỷ luật lao động (Theo Điều 122 - Bộ luật Lao động).\n- Người lao động bị kỷ luật lao động có thể được xóa kỷ luật hoặc giảm thời hạn chấp hành kỷ luật lao động nếu đáp ứng các điều kiện nhất định (Theo Điều 126 - Bộ luật Lao động).\n\nHy vọng thông tin này hữu ích cho bạn. Nếu bạn có bất kỳ câu hỏi nào khác, xin đừng ngần ngại hỏi tôi.",
+        "timestamp": "2025-11-06T11:36:38.377702",
+        "sources": [
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 1
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "hiệu xử lý kỷ luật lao động\n1. Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi phạm; trường hợp hành\nvi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người\nsử dụng lao động thì thời hiệu xử lý kỷ luật lao động là 12 tháng.\n2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết thời hiệu hoặc còn thời\nhiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá ",
+            "rank": 2
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động\n1. Việc xử lý kỷ luật lao động được quy định như sau:\na) Người sử dụng lao động phải chứng minh được lỗi của người lao động;\nb) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ\nluật là thành viên;\nc) Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động\nbào chữa; trường hợp là người chưa đủ 15 tuổi thì phải có sự tham gia của người đại ",
+            "rank": 3
+          },
+          {
+            "id": "điều_34.txt",
+            "text": "Bộ luật này.\n12. Giấy phép lao động hết hiệu lực đối với người lao động là người nước ngoài làm việc tại Việt\nNam theo quy định tại Điều 156 của Bộ luật này.\n13. Trường hợp thỏa thuận nội dung thử việc ghi trong hợp đồng lao động mà thử việc không đạt\nyêu cầu hoặc một bên hủy bỏ thỏa thuận thử việc.\nlOMoARcPSD|45619127",
+            "rank": 4
+          },
+          {
+            "id": "điều_126.txt",
+            "text": "Điều 126. Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động\n1. Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau\n06 tháng hoặc bị xử lý kỷ luật cách chức sau 03 năm kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ\nluật lao động thì đương nhiên được xóa kỷ luật.\n2. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành được một nửa thời\nhạn nếu sửa chữa tiến bộ thì có thể được người sử dụng lao động xét giảm thời hạn.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10d6761f-5424-4577-9f2c-638f857684c5",
+    "title": "tóm tắt luật hình sự",
+    "created_at": "2025-11-06T11:38:48.401356",
+    "updated_at": "2025-11-06T11:41:43.748341",
+    "messages": [
+      {
+        "role": "user",
+        "content": "tóm tắt luật hình sự",
+        "timestamp": "2025-11-06T11:38:48.403663",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi nhận thấy rằng câu hỏi của bạn không liên quan đến Luật Hình sự vì thông tin bạn cung cấp chủ yếu liên quan đến Luật Lao động và Luật Phòng, chống tham nhũng. Tuy nhiên, bạn yêu cầu tóm tắt về Luật Hình sự.\n\nTrong trường hợp này, tôi không thể cung cấp thông tin cụ thể về Luật Hình sự dựa trên ngữ cảnh bạn cung cấp vì nó không có thông tin về loại luật này. Luật Hình sự liên quan đến các quy định về tội phạm và hình phạt, nhưng không có chi tiết nào trong thông tin bạn cung cấp có thể giúp tôi trả lời câu hỏi của bạn về loại luật này.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc ngữ cảnh cụ thể liên quan đến Luật Hình sự, tôi sẽ sẵn lòng giúp đỡ và cung cấp thông tin phù hợp.",
+        "timestamp": "2025-11-06T11:38:53.984135",
+        "sources": [
+          {
+            "id": "điều_17.txt",
+            "text": "LuậtCán bộ, công chức, Luật Viên chức, Luật Phòng, chống tham nhũng.\n4. Thu lợi riêng cho cơ quan, đơn vị mình quy định tại điểm a khoản 2 và điểm\nakhoản 3 Điều này là việc sử dụng thu nhập dưới mọi hình thức có được từ hoạt động\nkinh doanh, từ góp vốn, mua cổ phần, mua phần vốn góp vào một trong các mục đích\nsau đây:\na) Chia dưới mọi hình thức cho một số hoặc tất cả những người quy định tại\nđiểm b và điểm c khoản 2 Điều này;\nb) Bổ sung vào ngân sách hoạt động của cơ quan, đơn vị trái với quy đị",
+            "rank": 1
+          },
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 2
+          },
+          {
+            "id": "điều_125.txt",
+            "text": "Điều 125. Áp dụng hình thức xử lý kỷ luật sa thải\nHình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:\n1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại\nnơi làm việc;\n2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu\ntrí tuệ của người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt\nnghiêm trọng về tài sản, lợi ích của ng",
+            "rank": 3
+          },
+          {
+            "id": "điều_128.txt",
+            "text": "Điều 128. Tạm đình chỉ công việc\n1. Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi vụ việc vi phạm\ncó những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác\nminh. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của tổ\nchức đại diện người lao động tại cơ sở mà người lao động đang bị xem xét tạm đình chỉ công việc là thành\nviên.\n2. Thời hạn tạm đình chỉ công việc không được quá",
+            "rank": 4
+          },
+          {
+            "id": "điều_126.txt",
+            "text": "Điều 126. Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động\n1. Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau\n06 tháng hoặc bị xử lý kỷ luật cách chức sau 03 năm kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ\nluật lao động thì đương nhiên được xóa kỷ luật.\n2. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành được một nửa thời\nhạn nếu sửa chữa tiến bộ thì có thể được người sử dụng lao động xét giảm thời hạn.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tóm tắt luật doanh nghiệp",
+        "timestamp": "2025-11-06T11:39:21.442966",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng câu hỏi của bạn liên quan đến Luật Doanh nghiệp. Luật Doanh nghiệp quy định về việc thành lập, tổ chức quản lý và hoạt động của doanh nghiệp, bao gồm cả các loại hình doanh nghiệp khác nhau như công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh và doanh nghiệp tư nhân.\n\nTheo Điều 37 của Luật Doanh nghiệp, tên doanh nghiệp phải bao gồm hai thành tố: loại hình doanh nghiệp và tên riêng. Loại hình doanh nghiệp được viết là “công ty trách nhiệm hữu hạn” hoặc “công ty TNHH” đối với công ty trách nhiệm hữu hạn, và tên riêng được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ F, J, Z, W, chữ số và ký hiệu.\n\nTheo Điều 39 của Luật Doanh nghiệp, tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh. Tên viết tắt của doanh nghiệp được viết tắt từ tên tiếng Việt hoặc tên bằng tiếng nước ngoài.\n\nCăn cứ vào quy định tại Điều 37, 38, 39 và 41 của Luật Doanh nghiệp, Cơ quan đăng ký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp nếu không đáp ứng các yêu cầu quy định. (Theo Điều 37, 39 - Luật Doanh nghiệp) \n\nNếu bạn cần thêm thông tin hoặc tư vấn cụ thể về Luật Doanh nghiệp, vui lòng cho tôi biết!",
+        "timestamp": "2025-11-06T11:39:26.794096",
+        "sources": [
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 1
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 3
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "LuậtCán bộ, công chức, Luật Viên chức, Luật Phòng, chống tham nhũng.\n4. Thu lợi riêng cho cơ quan, đơn vị mình quy định tại điểm a khoản 2 và điểm\nakhoản 3 Điều này là việc sử dụng thu nhập dưới mọi hình thức có được từ hoạt động\nkinh doanh, từ góp vốn, mua cổ phần, mua phần vốn góp vào một trong các mục đích\nsau đây:\na) Chia dưới mọi hình thức cho một số hoặc tất cả những người quy định tại\nđiểm b và điểm c khoản 2 Điều này;\nb) Bổ sung vào ngân sách hoạt động của cơ quan, đơn vị trái với quy đị",
+            "rank": 4
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "Điều 37. Tên doanh nghiệp\n1. Tên tiếng Việt của doanh nghiệp bao gồm hai thành tố theo thứ tự sau đây:\na) Loại hình doanh nghiệp;\nb) Tên riêng.\n2. Loại hình doanh nghiệp được viết là “công ty trách nhiệm hữu hạn” hoặc “công\ntyTNHH” đối với công ty trách nhiệm hữu hạn; được viết là “công ty cổ phần” hoặc\n“công ty CP” đối với công ty cổ phần; được viết là “công ty hợp danh” hoặc “công ty\nHD” đối với công ty hợp danh; được viết là “doanh nghiệp tư nhân”, “DNTN” hoặc\n“doanh nghiệp TN” đối với doanh ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Doanh nghiệp là gì",
+        "timestamp": "2025-11-06T11:40:24.831495",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Kính chào quý khách hàng, tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Câu hỏi của quý khách liên quan đến định nghĩa và các quy định về doanh nghiệp.\n\nTheo Luật Doanh nghiệp, doanh nghiệp là một tổ chức kinh tế có tên, có tài sản, có trụ sở và được đăng ký theo quy định của pháp luật nhằm mục đích sản xuất, kinh doanh hàng hóa, dịch vụ. (Không có điều luật cụ thể định nghĩa doanh nghiệp, nhưng dựa trên nội dung của Luật Doanh nghiệp)\n\nVề người quản lý doanh nghiệp, theo Điều 4 của Luật Doanh nghiệp, người quản lý doanh nghiệp bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và các cá nhân giữ chức danh quản lý khác.\n\nVề tên doanh nghiệp, theo Điều 37 và Điều 39 của Luật Doanh nghiệp, tên doanh nghiệp phải bao gồm loại hình doanh nghiệp và tên riêng. Tên doanh nghiệp phải được viết bằng tiếng Việt, có thể dịch sang tiếng nước ngoài và được in hoặc viết trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n\nHy vọng thông tin trên giúp quý khách hiểu rõ hơn về doanh nghiệp và các quy định liên quan. Nếu có bất kỳ câu hỏi nào khác, xin đừng ngần ngại liên hệ với tôi.",
+        "timestamp": "2025-11-06T11:40:30.197097",
+        "sources": [
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4\n24. Người quản lý doanh nghiệp là người quản lý doanh nghiệp tư nhân và người quản\nlý công ty, bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng\nthành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản\ntrị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức\ndanh quản lý khác theo quy định tại Điều lệ công ty.",
+            "rank": 1
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 2
+          },
+          {
+            "id": "điều_20.txt",
+            "text": "chị, em ruột tham dự các gói thầu của doanh nghiệp mình; bố trí vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ\nquỹ, thủ kho trong doanh nghiệp hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho doanh nghiệp.",
+            "rank": 3
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 4
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "Điều 37. Tên doanh nghiệp\n1. Tên tiếng Việt của doanh nghiệp bao gồm hai thành tố theo thứ tự sau đây:\na) Loại hình doanh nghiệp;\nb) Tên riêng.\n2. Loại hình doanh nghiệp được viết là “công ty trách nhiệm hữu hạn” hoặc “công\ntyTNHH” đối với công ty trách nhiệm hữu hạn; được viết là “công ty cổ phần” hoặc\n“công ty CP” đối với công ty cổ phần; được viết là “công ty hợp danh” hoặc “công ty\nHD” đối với công ty hợp danh; được viết là “doanh nghiệp tư nhân”, “DNTN” hoặc\n“doanh nghiệp TN” đối với doanh ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Lao động là gì?",
+        "timestamp": "2025-11-06T11:41:09.183508",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Bộ luật Lao động, lao động là hoạt động quan trọng trong mối quan hệ giữa người lao động và người sử dụng lao động. Tôi không tìm thấy định nghĩa chính thức về \"lao động\" trong Bộ luật Lao động được cung cấp, tuy nhiên, có thể hiểu rằng lao động liên quan đến việc người lao động thực hiện công việc để nhận được thù lao từ người sử dụng lao động.\n\nTrong Bộ luật Lao động, có nhiều quy định liên quan đến quyền và nghĩa vụ của người lao động và người sử dụng lao động, như việc giao kết hợp đồng lao động, thực hiện hợp đồng lao động, và các quy định về bảo vệ quyền lợi của người lao động. Tuy nhiên, không có định nghĩa cụ thể về \"lao động\" trong nội dung được cung cấp.\n\nNếu bạn cần thông tin về một khía cạnh cụ thể của lao động hoặc Bộ luật Lao động, vui lòng cho tôi biết để tôi có thể hỗ trợ bạn tốt hơn.",
+        "timestamp": "2025-11-06T11:41:14.845037",
+        "sources": [
+          {
+            "id": "điều_16.txt",
+            "text": "cầu. Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao\nđộng\n1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\n2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực\nhiệnhợp đồng lao động.\n3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+            "rank": 1
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 2
+          },
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 3
+          },
+          {
+            "id": "điều_31.txt",
+            "text": "hợp đồng lao động.\n3. Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong thực hiện\nquyền và nghĩa vụ với người lao động làm việc trọn thời gian; bình đẳng về cơ hội, không bị phân biệt đối\nxử, bảo đảm an toàn, vệ sinh lao động.",
+            "rank": 4
+          },
+          {
+            "id": "điều_119.txt",
+            "text": "Điều 119. Đăng ký nội quy lao động\n1. Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải đăng ký nội quy lao động tại\ncơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi người sử dụng lao động đăng ký\nkinh doanh.\n2. Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động, người sử dụng lao động phải nộp\nhồ sơ đăng ký nội quy lao động.\n3. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký nội quy lao động, nếu nội\ndung nội quy lao động có quy định t",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Trình tự, thủ tục đăng ký thành lập doanh nghiệp gồm những bước nào?",
+        "timestamp": "2025-11-06T11:41:36.925179",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Câu hỏi của bạn liên quan đến Luật Doanh nghiệp, một trong những lĩnh vực pháp lý quan trọng tại Việt Nam. Để trả lời câu hỏi của bạn, tôi sẽ dựa trên các quy định của Luật Doanh nghiệp hiện hành.\n\nTheo Điều 28 của Luật Doanh nghiệp, trình tự, thủ tục đăng ký thành lập doanh nghiệp bao gồm các bước sau:\n\n1. **Chuẩn bị hồ sơ**: Người thành lập doanh nghiệp cần chuẩn bị hồ sơ đăng ký doanh nghiệp, bao gồm Giấy đề nghị đăng ký doanh nghiệp, Điều lệ công ty, và các giấy tờ khác tùy thuộc vào loại hình doanh nghiệp.\n\n2. **Nộp hồ sơ**: Người thành lập doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp cho Phòng đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính.\n\n3. **Xử lý hồ sơ**: Phòng đăng ký kinh doanh sẽ xem xét và xử lý hồ sơ trong thời hạn quy định. Nếu hồ sơ hợp lệ, Phòng đăng ký kinh doanh sẽ cấp Giấy chứng nhận đăng ký doanh nghiệp.\n\n4. **Nhận Giấy chứng nhận đăng ký doanh nghiệp**: Người thành lập doanh nghiệp nhận Giấy chứng nhận đăng ký doanh nghiệp từ Phòng đăng ký kinh doanh.\n\nNgoài ra, sau khi nhận được Giấy chứng nhận đăng ký doanh nghiệp, doanh nghiệp cần thực hiện các thủ tục khác như làm con dấu, mở tài khoản ngân hàng, và thực hiện các nghĩa vụ thuế và bảo hiểm xã hội.\n\nTheo Điều 31 của Luật Doanh nghiệp, thời hạn để cơ quan đăng ký kinh doanh xem xét và cấp Giấy chứng nhận đăng ký doanh nghiệp là không quá 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.\n\nLưu ý rằng các quy định và thủ tục cụ thể có thể thay đổi, vì vậy luôn tốt nhất nên kiểm tra các quy định mới nhất hoặc tư vấn với một luật sư để đảm bảo thông tin chính xác và đầy đủ.",
+        "timestamp": "2025-11-06T11:41:43.748320",
+        "sources": [
+          {
+            "id": "điều_4.txt",
+            "text": "nâng cao trình độ, kỹ năng nghề cho người lao động; hỗ trợ duy trì, chuyển đổi nghề nghiệp, việc làm\ncho người lao động; ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao đáp ứng yêu\ncầu của cách mạng công nghiệp, sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.\n5. Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung, cầu lao động.\n6. Thúc đẩy người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ\nlao động tiến bộ,",
+            "rank": 1
+          },
+          {
+            "id": "điều_20.txt",
+            "text": "chị, em ruột tham dự các gói thầu của doanh nghiệp mình; bố trí vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ\nquỹ, thủ kho trong doanh nghiệp hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 3
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "nhân dân Việt Nam, trừ người được cử làm đại diện theo ủy quyền để quản lý phần vốn\ngóp của Nhà nước tại doanh nghiệp hoặc quản lý tại doanh nghiệp nhà nước;\nd) Cán bộ lãnh đạo, quản lý nghiệp vụ trong doanh nghiệp nhà nước theo\nquy\nđịnh tại điểm a khoản 1 Điều 88 của Luật này, trừ người được cử làm đại diện theo ủy\nquyền để quản lý phần vốn góp của Nhà nước tại doanh nghiệp khác;\nđ) Người chưa thành niên; người bị hạn chế năng lực hành vi dân sự; người bị\nmất năng lực hành vi dân sự; người có k",
+            "rank": 4
+          },
+          {
+            "id": "điều_20.txt",
+            "text": "giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp đồng cho cơ quan, tổ chức, đơn vị đó.\n4. Người đứng đầu, cấp phó của người đứng đầu cơ quan nhà nước không được\ngópvốn vào doanh nghiệp hoạt động trong phạm vi ngành, nghề mà người đó trực tiếp\nthực hiện việc quản lý nhà nước hoặc để vợ hoặc chồng, bố, mẹ, con kinh doanh trong\nphạm vi ngành, nghề do người đó trực tiếp thực hiện việc quản lý nhà nước.\n5. Thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, Chủ tịch công\nty,Tổng giám đốc, P",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33e70752-a9a2-43ca-984a-f852cc975ce5",
+    "title": "xin chào",
+    "created_at": "2025-11-06T12:04:46.641967",
+    "updated_at": "2025-11-06T12:04:54.074744",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "xin chào",
+        "timestamp": "2025-11-06T12:04:46.644985",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, một luật sư chuyên nghiệp về pháp luật Việt Nam. Tuy nhiên, tôi nhận thấy rằng câu hỏi của bạn chưa rõ ràng và chưa cung cấp đủ thông tin để tôi có thể xác định loại luật được hỏi.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc đặt câu hỏi cụ thể về một vấn đề pháp lý nào đó, tôi sẽ sẵn sàng giúp đỡ và tư vấn dựa trên kiến thức của mình về các loại luật như Bộ luật Lao động, Luật Doanh nghiệp, Luật Dân sự, Luật Hình sự, v.v.\n\nHãy cho tôi biết cách tôi có thể giúp đỡ bạn!",
+        "timestamp": "2025-11-06T12:04:54.074731",
+        "sources": [
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 1
+          },
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 2
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 3
+          },
+          {
+            "id": "điều_38.txt",
+            "text": "Điều 38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\nMỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo\ntrước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.",
+            "rank": 4
+          },
+          {
+            "id": "điều_13.txt",
+            "text": "Điều 13. Hợp đồng lao động\n1. Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm\ncó trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.\nTrường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền\nlương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.\n2. Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kế",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "128e9d70-2861-4d8d-ab0b-8fa162aff5fb",
+    "title": "chào",
+    "created_at": "2025-11-06T12:17:07.186938",
+    "updated_at": "2025-11-06T12:17:12.429488",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "chào",
+        "timestamp": "2025-11-06T12:17:07.190307",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Tuy nhiên, tôi nhận thấy rằng câu hỏi của bạn chưa rõ ràng và chưa cung cấp đủ thông tin để tôi có thể xác định loại luật được hỏi. Vì vậy, tôi đề nghị bạn cung cấp thêm thông tin hoặc đặt câu hỏi cụ thể để tôi có thể trả lời chính xác và phù hợp với loại luật liên quan.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc đặt câu hỏi cụ thể, tôi sẽ cố gắng trả lời dựa trên kiến thức của mình về các loại luật như Bộ luật Lao động, Luật Doanh nghiệp, Luật Dân sự, Luật Hình sự, v.v. và trích dẫn điều luật cụ thể khi có thông tin phù hợp. Hãy cho tôi biết cách tôi có thể giúp bạn!",
+        "timestamp": "2025-11-06T12:17:12.429466",
+        "sources": [
+          {
+            "id": "điều_42.txt",
+            "text": "của Bộ luật này; trường hợp có chỗ làm việc mới thì ưu tiên đào tạo lại người lao động để tiếp tục sử dụng.\n4. Trong trường hợp vì lý do kinh tế mà nhiều người lao động có nguy cơ mất việc làm, phải thôi\nviệc thì người sử dụng lao động phải xây dựng và thực hiện phương án sử dụng lao động theo quy định tại",
+            "rank": 1
+          },
+          {
+            "id": "điều_5.txt",
+            "text": "lượng tập thể với người sử dụng lao động và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích\nhợp pháp, chính đáng của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực\nhiện công việc;\nđ) Đơn phương chấm dứt hợp đồng lao động;\ne) Đình công;\nlOMoARcPSD|45619127\ng) Các quyền khác theo quy định của pháp luật.\n2. Người lao động có các nghĩa vụ sau đây:\na) Thực hiện hợp đồng ",
+            "rank": 2
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 3
+          },
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 4
+          },
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Đối tượng áp dụng\n1. Người lao động, người học nghề, người tập nghề và người làm việc không có quan hệ lao động.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6b0ef768-5d34-4cc8-9790-888181f54d8d",
+    "title": "điều 10",
+    "created_at": "2025-11-06T12:24:42.588786",
+    "updated_at": "2025-11-06T12:25:23.926178",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "điều 10",
+        "timestamp": "2025-11-06T12:24:42.592284",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi xin lỗi, nhưng câu hỏi của bạn không cung cấp đủ thông tin để xác định loại luật được hỏi. Tuy nhiên, dựa trên nội dung câu hỏi \"điều 10\", tôi sẽ cố gắng xác định loại luật có thể liên quan.\n\nTheo Bộ luật Dân sự, Bộ luật Lao động, Luật Doanh nghiệp, và các luật khác, điều 10 thường liên quan đến các quy định cụ thể về quyền và nghĩa vụ của các bên. Tuy nhiên, không có thông tin cụ thể về điều 10 trong các văn bản pháp luật được cung cấp.\n\nNếu bạn có thể cung cấp thêm thông tin về loại luật hoặc nội dung cụ thể của điều 10, tôi sẽ cố gắng trả lời câu hỏi của bạn một cách chính xác và đầy đủ.\n\nXin lưu ý rằng, không có thông tin về điều 10 trong các văn bản pháp luật được cung cấp, nên tôi không thể trích dẫn điều luật cụ thể.",
+        "timestamp": "2025-11-06T12:24:47.802728",
+        "sources": [
+          {
+            "id": "điều_177.txt",
+            "text": "Điều 177 của Bộ luật này.",
+            "rank": 1
+          },
+          {
+            "id": "điều_121.txt",
+            "text": "Điều 121. Hiệu lực của nội quy lao động\nNội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan nhà nước có thẩm quyền quy định tại Điều\n119 của Bộ luật này nhận được đầy đủ hồ sơ đăng ký nội quy lao động.\nTrường hợp người sử dụng lao động sử dụng dưới 10 người lao động ban hành nội quy lao động bằng văn\nbản thì hiệu lực do người sử dụng lao động quyết định trong nội quy lao động.",
+            "rank": 2
+          },
+          {
+            "id": "điều_46.txt",
+            "text": "Điều 46. Trợ cấp thôi việc\n1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của\nBộ luậtnày thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc\nthường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương,\ntrừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường\nhợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.\n2. Thời",
+            "rank": 3
+          },
+          {
+            "id": "điều_38.txt",
+            "text": "Điều 38. Những điều cấm trong đặt tên doanh nghiệp\n1. Đặt tên trùng hoặc tên gây nhầm lẫn với tên của doanh nghiệp đã đăng ký được\nquyđịnh tại Điều 41 của Luật.\n2. Sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân, tên của tổ\nchứcchính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức\nxã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của doanh\nnghiệp, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó.\n3. Sử",
+            "rank": 4
+          },
+          {
+            "id": "điều_40.txt",
+            "text": "Điều 40. Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh\n1. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết bằng\ncácchữ cái trong bảng chữ cái tiếng Việt, các chữ cái F, J, Z, W, chữ số và các ký hiệu.\n2. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải bao gồm tên\ndoanhnghiệp kèm theo cụm từ “Chi nhánh” đối với chi nhánh, cụm từ “Văn phòng đại\ndiện” đối với văn phòng đại diện, cụm từ “Địa điểm kinh doanh” đối với địa điểm kinh\ndoanh.\n3. Tên chi nhánh, v",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "điều 10",
+        "timestamp": "2025-11-06T12:25:06.856619",
+        "sources": []
+      },
+      {
+        "role": "user",
+        "content": "Điều 10 bộ luật lao động",
+        "timestamp": "2025-11-06T12:25:23.926174",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "ac6d7858-e417-457e-a2bf-dbde1578e7db",
+    "title": "điều 10",
+    "created_at": "2025-11-06T12:25:44.410043",
+    "updated_at": "2025-11-06T12:26:02.338135",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "điều 10",
+        "timestamp": "2025-11-06T12:25:44.411030",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi xin lỗi, nhưng câu hỏi của bạn không cung cấp đủ thông tin để xác định loại luật được hỏi và trả lời cụ thể. Bạn đề cập đến \"điều 10\" mà không chỉ định rõ bộ luật hoặc luật cụ thể mà điều này thuộc về.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc ngữ cảnh về loại luật bạn đang hỏi (ví dụ: Bộ luật Lao động, Luật Doanh nghiệp, v.v.), tôi sẽ sẵn sàng giúp đỡ và cung cấp thông tin cụ thể dựa trên điều luật liên quan.",
+        "timestamp": "2025-11-06T12:25:51.245815",
+        "sources": [
+          {
+            "id": "điều_177.txt",
+            "text": "Điều 177 của Bộ luật này.",
+            "rank": 1
+          },
+          {
+            "id": "điều_121.txt",
+            "text": "Điều 121. Hiệu lực của nội quy lao động\nNội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan nhà nước có thẩm quyền quy định tại Điều\n119 của Bộ luật này nhận được đầy đủ hồ sơ đăng ký nội quy lao động.\nTrường hợp người sử dụng lao động sử dụng dưới 10 người lao động ban hành nội quy lao động bằng văn\nbản thì hiệu lực do người sử dụng lao động quyết định trong nội quy lao động.",
+            "rank": 2
+          },
+          {
+            "id": "điều_46.txt",
+            "text": "Điều 46. Trợ cấp thôi việc\n1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của\nBộ luậtnày thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc\nthường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương,\ntrừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường\nhợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.\n2. Thời",
+            "rank": 3
+          },
+          {
+            "id": "điều_38.txt",
+            "text": "Điều 38. Những điều cấm trong đặt tên doanh nghiệp\n1. Đặt tên trùng hoặc tên gây nhầm lẫn với tên của doanh nghiệp đã đăng ký được\nquyđịnh tại Điều 41 của Luật.\n2. Sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân, tên của tổ\nchứcchính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức\nxã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của doanh\nnghiệp, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó.\n3. Sử",
+            "rank": 4
+          },
+          {
+            "id": "điều_40.txt",
+            "text": "Điều 40. Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh\n1. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết bằng\ncácchữ cái trong bảng chữ cái tiếng Việt, các chữ cái F, J, Z, W, chữ số và các ký hiệu.\n2. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải bao gồm tên\ndoanhnghiệp kèm theo cụm từ “Chi nhánh” đối với chi nhánh, cụm từ “Văn phòng đại\ndiện” đối với văn phòng đại diện, cụm từ “Địa điểm kinh doanh” đối với địa điểm kinh\ndoanh.\n3. Tên chi nhánh, v",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "điều 10 bộ luật lao động",
+        "timestamp": "2025-11-06T12:26:02.338123",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "b7211312-bd0c-4fbd-836d-bb753d97179f",
+    "title": "điều 10 bộ luật lao động",
+    "created_at": "2025-11-06T12:26:33.548134",
+    "updated_at": "2025-11-06T12:26:33.551143",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "điều 10 bộ luật lao động",
+        "timestamp": "2025-11-06T12:26:33.551122",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "d3766623-6f87-4881-8806-28cfb3f82a4a",
+    "title": "chào, giải thích lao động là gì?",
+    "created_at": "2025-11-06T12:28:49.293961",
+    "updated_at": "2025-11-06T12:28:49.298206",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "chào, giải thích lao động là gì?",
+        "timestamp": "2025-11-06T12:28:49.298160",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "ef2d44a4-c622-42c4-aa59-5868d2c2d47f",
+    "title": "xin chào, giải thích lao động là gì?",
+    "created_at": "2025-11-06T12:29:32.180600",
+    "updated_at": "2025-11-06T12:30:05.928301",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "xin chào, giải thích lao động là gì?",
+        "timestamp": "2025-11-06T12:29:32.183466",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Tôi hiểu rằng câu hỏi của bạn liên quan đến định nghĩa về lao động.\n\nTheo Bộ luật Lao động, lao động không được định nghĩa rõ ràng trong một điều luật cụ thể. Tuy nhiên, chúng ta có thể hiểu rằng lao động là hoạt động của con người nhằm tạo ra giá trị, sản phẩm, dịch vụ cho xã hội. Bộ luật Lao động quy định các nguyên tắc, quyền và nghĩa vụ của người lao động và người sử dụng lao động, nhằm bảo vệ quyền và lợi ích hợp pháp của các bên.\n\nTrong ngữ cảnh của Bộ luật Lao động, chúng ta có thể thấy các quy định về hợp đồng lao động, kỷ luật lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động. Điều này cho thấy rằng lao động là một khái niệm quan trọng trong lĩnh vực lao động, và việc hiểu rõ về lao động là cần thiết để áp dụng các quy định của Bộ luật Lao động.\n\nVì vậy, tôi không thể trích dẫn một điều luật cụ thể về định nghĩa lao động, nhưng tôi hy vọng rằng thông tin trên đã giúp bạn hiểu rõ hơn về khái niệm lao động trong lĩnh vực lao động.",
+        "timestamp": "2025-11-06T12:29:37.741653",
+        "sources": [
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 1
+          },
+          {
+            "id": "điều_16.txt",
+            "text": "cầu. Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao\nđộng\n1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\n2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực\nhiệnhợp đồng lao động.\n3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+            "rank": 2
+          },
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 3
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 4
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động\n1. Việc xử lý kỷ luật lao động được quy định như sau:\na) Người sử dụng lao động phải chứng minh được lỗi của người lao động;\nb) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ\nluật là thành viên;\nc) Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động\nbào chữa; trường hợp là người chưa đủ 15 tuổi thì phải có sự tham gia của người đại ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "xin chào, giải thích lao động là gì?",
+        "timestamp": "2025-11-06T12:29:56.909138",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật lao động. Tôi hiểu rằng câu hỏi của bạn liên quan đến Bộ luật Lao động.\n\nTheo Bộ luật Lao động, lao động là hoạt động quan trọng trong quan hệ lao động, thể hiện sự tương tác giữa người lao động và người sử dụng lao động. Tuy nhiên, trong Bộ luật Lao động không có định nghĩa cụ thể về \"lao động\" như một thuật ngữ độc lập.\n\nTuy nhiên, chúng ta có thể hiểu lao động là quá trình con người sử dụng trí tuệ, thể lực, kỹ năng và kinh nghiệm để tạo ra sản phẩm hoặc cung cấp dịch vụ. Trong quan hệ lao động, người lao động cung cấp lao động của mình cho người sử dụng lao động để nhận được thù lao, bảo hiểm xã hội và các quyền lợi khác.\n\nTheo Điều 17 của Bộ luật Lao động, người sử dụng lao động không được phép thực hiện các hành vi như giữ bản chính giấy tờ tùy thân, yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác, hoặc buộc người lao động thực hiện hợp đồng lao động để trả nợ.\n\nNếu bạn muốn tìm hiểu thêm về các quy định liên quan đến lao động, tôi có thể giúp bạn giải thích về kỷ luật lao động, quấy rối tình dục tại nơi làm việc, hoặc các vấn đề khác liên quan đến Bộ luật Lao động. Hãy cho tôi biết bạn cần thông tin gì!",
+        "timestamp": "2025-11-06T12:30:05.928282",
+        "sources": [
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 1
+          },
+          {
+            "id": "điều_16.txt",
+            "text": "cầu. Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao\nđộng\n1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\n2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực\nhiệnhợp đồng lao động.\n3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+            "rank": 2
+          },
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 3
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 4
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động\n1. Việc xử lý kỷ luật lao động được quy định như sau:\na) Người sử dụng lao động phải chứng minh được lỗi của người lao động;\nb) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ\nluật là thành viên;\nc) Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động\nbào chữa; trường hợp là người chưa đủ 15 tuổi thì phải có sự tham gia của người đại ",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d49a75e7-a25d-4ce0-acbe-819288fca4ae",
+    "title": "xin chào, giải thích lao động là gì?",
+    "created_at": "2025-11-06T12:30:25.870559",
+    "updated_at": "2025-11-06T12:30:31.113691",
+    "law_type_filter": "Tổng quan",
+    "messages": [
+      {
+        "role": "user",
+        "content": "xin chào, giải thích lao động là gì?",
+        "timestamp": "2025-11-06T12:30:25.873596",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào! Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật lao động tại Việt Nam. Câu hỏi của bạn liên quan đến định nghĩa về lao động, và dựa trên nội dung câu hỏi, tôi xác định rằng loại luật được hỏi ở đây là Bộ luật Lao động.\n\nTheo Bộ luật Lao động, không có định nghĩa cụ thể về \"lao động\" như một thuật ngữ độc lập. Tuy nhiên, chúng ta có thể hiểu về lao động thông qua các quy định và định nghĩa liên quan đến các khái niệm khác như \"hợp đồng lao động\", \"người lao động\", và \"người sử dụng lao động\".\n\nNgười lao động là những người từ đủ 15 tuổi trở lên, có năng lực hành vi dân sự đầy đủ, làm việc cho người sử dụng lao động theo hợp đồng lao động, được trả lương và chịu sự quản lý, điều hành của người sử dụng lao động. (Theo Điều 2 - Bộ luật Lao động)\n\nVì vậy, chúng ta có thể hiểu lao động là hoạt động của con người nhằm tạo ra sản phẩm, hàng hóa, dịch vụ cho xã hội, thông qua việc người lao động sử dụng sức lao động của mình để thực hiện công việc theo hợp đồng lao động với người sử dụng lao động.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, xin đừng ngần ngại hỏi tôi.",
+        "timestamp": "2025-11-06T12:30:31.113682",
+        "sources": [
+          {
+            "id": "điều_7.txt",
+            "text": "vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài\nhòa và ổn định.\nlOMoARcPSD|45619127",
+            "rank": 1
+          },
+          {
+            "id": "điều_16.txt",
+            "text": "cầu. Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao\nđộng\n1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\n2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực\nhiệnhợp đồng lao động.\n3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+            "rank": 2
+          },
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 3
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 4
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động\n1. Việc xử lý kỷ luật lao động được quy định như sau:\na) Người sử dụng lao động phải chứng minh được lỗi của người lao động;\nb) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ\nluật là thành viên;\nc) Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động\nbào chữa; trường hợp là người chưa đủ 15 tuổi thì phải có sự tham gia của người đại ",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3ce6d3f2-a039-4e27-a0bf-a27359785053",
+    "title": "doanh nghiệp là gì?",
+    "created_at": "2025-11-06T12:30:49.799923",
+    "updated_at": "2025-11-06T12:30:49.803526",
+    "law_type_filter": "Luật Doanh nghiệp",
+    "messages": [
+      {
+        "role": "user",
+        "content": "doanh nghiệp là gì?",
+        "timestamp": "2025-11-06T12:30:49.803492",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "f8981c14-487d-4b8a-a77a-a3fd4320c027",
+    "title": "doanh nghiệp là gì?",
+    "created_at": "2025-11-06T12:31:25.091426",
+    "updated_at": "2025-11-06T12:31:25.097021",
+    "law_type_filter": "Luật Doanh nghiệp",
+    "messages": [
+      {
+        "role": "user",
+        "content": "doanh nghiệp là gì?",
+        "timestamp": "2025-11-06T12:31:25.096992",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "513a477f-6d20-4c33-ba4e-42b418e6fc6a",
+    "title": "doanh nghiệp là gì?",
+    "created_at": "2025-11-06T12:31:33.664356",
+    "updated_at": "2025-11-06T12:31:52.771142",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "doanh nghiệp là gì?",
+        "timestamp": "2025-11-06T12:31:33.666521",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin chào, tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Câu hỏi của bạn liên quan đến định nghĩa về doanh nghiệp, và dựa trên nội dung câu hỏi, tôi xác định rằng loại luật được hỏi ở đây là Luật Doanh nghiệp.\n\nTheo quy định tại Điều 4 của Luật Doanh nghiệp, không có định nghĩa cụ thể về doanh nghiệp. Tuy nhiên, chúng ta có thể hiểu về doanh nghiệp thông qua các quy định về người quản lý doanh nghiệp và các hoạt động của doanh nghiệp.\n\nNgười quản lý doanh nghiệp bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức danh quản lý khác.\n\nDo đó, có thể hiểu doanh nghiệp là một tổ chức kinh tế được thành lập và hoạt động theo quy định của pháp luật, với mục đích sản xuất, kinh doanh hàng hóa, dịch vụ nhằm mục đích lợi nhuận. Doanh nghiệp có thể là doanh nghiệp tư nhân, công ty, hoặc các hình thức khác theo quy định của pháp luật.\n\nTuy nhiên, để có định nghĩa chính xác và đầy đủ về doanh nghiệp, bạn cần tham khảo các quy định cụ thể tại Luật Doanh nghiệp. Theo Điều 4 của Luật Doanh nghiệp, doanh nghiệp là một tổ chức kinh tế có tên riêng, có tài sản, có trụ sở giao dịch, được đăng ký thành lập theo quy định của pháp luật nhằm mục đích sản xuất, kinh doanh hàng hóa, dịch vụ.\n\nVì vậy, nếu bạn cần thông tin chi tiết và chính xác về doanh nghiệp, tôi khuyên bạn nên tham khảo các quy định cụ thể tại Luật Doanh nghiệp.",
+        "timestamp": "2025-11-06T12:31:39.819663",
+        "sources": [
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4\n24. Người quản lý doanh nghiệp là người quản lý doanh nghiệp tư nhân và người quản\nlý công ty, bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng\nthành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản\ntrị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức\ndanh quản lý khác theo quy định tại Điều lệ công ty.",
+            "rank": 1
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_20.txt",
+            "text": "chị, em ruột tham dự các gói thầu của doanh nghiệp mình; bố trí vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ\nquỹ, thủ kho trong doanh nghiệp hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho doanh nghiệp.",
+            "rank": 3
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 4
+          },
+          {
+            "id": "điều_48.txt",
+            "text": "trong trường hợp doanh nghiệp, hợp tác xã bị chấm dứt hoạt động, bị giải thể, phá sản.\n3. Người sử dụng lao động có trách nhiệm sau đây:\na) Hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp và trả lại cùng\nvới bản chính giấy tờ khác nếu người sử dụng lao động đã giữ của người lao động;\nb) Cung cấp bản sao các tài liệu liên quan đến quá trình làm việc của người lao động nếu người lao\nđộng cóyêu cầu. Chi phí sao, gửi tài liệu do người sử dụng lao động trả.\nMục 4. HỢP",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "la động là gì?",
+        "timestamp": "2025-11-06T12:31:52.771131",
+        "sources": []
+      }
+    ]
+  },
+  {
+    "id": "68a45058-9219-41f4-900d-c85600cf5168",
+    "title": "lao động là gì?",
+    "created_at": "2025-11-06T12:34:43.567275",
+    "updated_at": "2025-11-06T12:34:52.094439",
+    "law_type_filter": "Bộ luật Lao động",
+    "messages": [
+      {
+        "role": "user",
+        "content": "lao động là gì?",
+        "timestamp": "2025-11-06T12:34:43.571178",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Bộ luật Lao động, lao động được định nghĩa tại Điều 3 của Bộ luật này. Cụ thể, \"Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động.\" (Theo Điều 3 - Bộ luật Lao động).\n\nĐiều này cho thấy rằng, lao động trong khuôn khổ của Bộ luật Lao động được hiểu là mối quan hệ giữa người lao động và người sử dụng lao động, trong đó người lao động thực hiện công việc và được trả lương, đồng thời phải tuân theo sự quản lý và điều hành của người sử dụng lao động.\n\nVì vậy, lao động trong bối cảnh này không chỉ bao gồm việc thực hiện công việc mà còn liên quan đến các yếu tố như thỏa thuận, trả lương, quản lý và điều hành.",
+        "timestamp": "2025-11-06T12:34:52.094422",
+        "sources": [
+          {
+            "id": "điều_117.txt",
+            "text": "Điều 117. Kỷ luật lao động\nKỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh\ndoanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định.",
+            "rank": 1
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "hiệu xử lý kỷ luật lao động\n1. Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi phạm; trường hợp hành\nvi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người\nsử dụng lao động thì thời hiệu xử lý kỷ luật lao động là 12 tháng.\n2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết thời hiệu hoặc còn thời\nhiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá ",
+            "rank": 2
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động\n1. Việc xử lý kỷ luật lao động được quy định như sau:\na) Người sử dụng lao động phải chứng minh được lỗi của người lao động;\nb) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ\nluật là thành viên;\nc) Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại diện người lao động\nbào chữa; trường hợp là người chưa đủ 15 tuổi thì phải có sự tham gia của người đại ",
+            "rank": 3
+          },
+          {
+            "id": "điều_16.txt",
+            "text": "cầu. Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao\nđộng\n1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\n2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực\nhiệnhợp đồng lao động.\n3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+            "rank": 4
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "hợp đồng lao động.\nlOMoARcPSD|45619127\n7. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc\nngười lao động phải làm việc trái ý muốn của họ.\n8. Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên chủng tộc,\nmàu da, nguồn gốc quốc gia hoặc nguồn gốc xã hội, dân tộc, giới tính, độ tuổi, tình trạng thai sản, tình\ntrạng hôn nhân, tôn giáo, tín ngưỡng, chính kiến, khuyết tật, trách nhiệm gia đình hoặc trên cơ sở tình trạng\nnh",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2aa7254f-efb9-4f82-bf40-0fc8d39f7580",
+    "title": "lao động là gì?",
+    "created_at": "2025-11-06T12:35:01.762244",
+    "updated_at": "2025-11-06T12:35:07.847639",
+    "law_type_filter": "Luật Doanh nghiệp",
+    "messages": [
+      {
+        "role": "user",
+        "content": "lao động là gì?",
+        "timestamp": "2025-11-06T12:35:01.768546",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Xin lỗi, nhưng loại luật được hỏi trong câu hỏi của bạn không chính xác. Câu hỏi \"lao động là gì\" không liên quan trực tiếp đến Luật Doanh nghiệp. Tuy nhiên, dựa trên nội dung câu hỏi và thông tin được cung cấp, có thể xác định rằng loại luật được hỏi thực sự là Bộ luật Lao động.\n\nTheo Bộ luật Lao động, tại Điều 3, có giải thích về các từ ngữ, trong đó \"Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động.\" (Theo Điều 3 – Bộ luật Lao động).\n\nVì vậy, lao động trong контекст này được hiểu là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động.",
+        "timestamp": "2025-11-06T12:35:07.847629",
+        "sources": [
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fa9fe6ea-ae4e-44b1-bfae-e3a777b5a4e3",
+    "title": "Làm thế nào để thành lập một doanh nghiệp",
+    "created_at": "2025-11-06T12:56:10.194308",
+    "updated_at": "2025-11-06T12:56:18.143266",
+    "law_type_filter": "Luật Doanh nghiệp",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Làm thế nào để thành lập một doanh nghiệp",
+        "timestamp": "2025-11-06T12:56:10.200453",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Để thành lập một doanh nghiệp, trước tiên, bạn cần xác định loại hình doanh nghiệp mà bạn muốn thành lập, chẳng hạn như doanh nghiệp tư nhân, công ty cổ phần, công ty trách nhiệm hữu hạn, hoặc công ty hợp danh. \n\nTheo Điều 17 Luật Doanh nghiệp, tổ chức, cá nhân có quyền thành lập và quản lý doanh nghiệp tại Việt Nam, trừ trường hợp quy định tại khoản 2 Điều này. Điều này có nghĩa rằng, về cơ bản, hầu hết các tổ chức và cá nhân đều có thể thành lập doanh nghiệp, trừ một số trường hợp đặc biệt như cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân sử dụng tài sản nhà nước để thành lập doanh nghiệp kinh doanh thu lợi riêng cho cơ quan, đơn vị mình, hoặc cán bộ, công chức, viên chức theo quy định của Luật Cán bộ, công chức và Luật Viên chức.\n\nĐể bắt đầu, bạn cần chuẩn bị hồ sơ đăng ký doanh nghiệp, bao gồm giấy đề nghị đăng ký doanh nghiệp, điều lệ công ty, danh sách thành viên (nếu có), và các giấy tờ khác tùy thuộc vào loại hình doanh nghiệp. Bạn cũng cần chọn tên doanh nghiệp, địa chỉ trụ sở chính, và ngành nghề kinh doanh.\n\nSau khi chuẩn bị hồ sơ, bạn sẽ nộp hồ sơ đăng ký doanh nghiệp đến Cơ quan đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính. Cơ quan đăng ký kinh doanh sẽ xem xét hồ sơ và cấp Giấy chứng nhận đăng ký doanh nghiệp nếu hồ sơ hợp lệ.\n\nTheo Điều 38 Luật Doanh nghiệp, doanh nghiệp có nghĩa vụ đăng ký doanh nghiệp theo quy định của Luật này. Ngoài ra, theo Điều 39 Luật Doanh nghiệp, tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh nghiệp cũng cần được đăng ký theo quy định.\n\nCuối cùng, sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp, bạn cần thực hiện các thủ tục khác như mở tài khoản ngân hàng, đăng ký thuế, và các thủ tục khác theo quy định của pháp luật.",
+        "timestamp": "2025-11-06T12:56:18.143214",
+        "sources": [
+          {
+            "id": "điều_17.txt",
+            "text": "nhân dân Việt Nam, trừ người được cử làm đại diện theo ủy quyền để quản lý phần vốn\ngóp của Nhà nước tại doanh nghiệp hoặc quản lý tại doanh nghiệp nhà nước;\nd) Cán bộ lãnh đạo, quản lý nghiệp vụ trong doanh nghiệp nhà nước theo\nquy\nđịnh tại điểm a khoản 1 Điều 88 của Luật này, trừ người được cử làm đại diện theo ủy\nquyền để quản lý phần vốn góp của Nhà nước tại doanh nghiệp khác;\nđ) Người chưa thành niên; người bị hạn chế năng lực hành vi dân sự; người bị\nmất năng lực hành vi dân sự; người có k",
+            "rank": 1
+          },
+          {
+            "id": "điều_37.txt",
+            "text": "các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.\n5. Căn cứ vào quy định tại Điều này và các điều 38, 39 và 41 của Luật này, Cơ quanđăng\nký kinh doanh có quyền từ chối chấp thuận tên dự kiến đăng ký của doanh nghiệp.",
+            "rank": 2
+          },
+          {
+            "id": "điều_39.txt",
+            "text": "Điều 39. Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh\nnghiệp\n1. Tên doanh nghiệp bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang\nmộttrong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên\nriêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng\nnước ngoài.\n2. Trường hợp doanh nghiệp có tên bằng tiếng nước ngoài, tên bằng tiếng nước\nngoàicủa doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của do",
+            "rank": 3
+          },
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4\n24. Người quản lý doanh nghiệp là người quản lý doanh nghiệp tư nhân và người quản\nlý công ty, bao gồm chủ doanh nghiệp tư nhân, thành viên hợp danh, Chủ tịch Hội đồng\nthành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, Chủ tịch Hội đồng quản\ntrị, thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc và cá nhân giữ chức\ndanh quản lý khác theo quy định tại Điều lệ công ty.",
+            "rank": 4
+          },
+          {
+            "id": "điều_20.txt",
+            "text": "chị, em ruột tham dự các gói thầu của doanh nghiệp mình; bố trí vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ\nquỹ, thủ kho trong doanh nghiệp hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho doanh nghiệp.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  }
+]

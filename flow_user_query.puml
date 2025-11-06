@@ -1,0 +1,44 @@
+@startuml User Query Flow
+title User Query Flow
+
+actor User
+participant "chat.py" as api
+participant "conversation.py" as conv
+participant "rag.py" as rag
+participant "retrieval.py" as retrieval
+participant "embedding.py" as embedding
+participant "generation.py" as gen
+participant "storage.py" as storage
+
+User -> api: POST /api/chat
+api -> conv: create_conversation() / get_conversation()
+conv --> api
+api -> conv: add_message("user", query)
+conv --> api
+
+api -> rag: ask(query)
+
+alt Có "Điều X"
+    rag -> retrieval: find_article_by_number()
+    retrieval --> rag
+end
+
+rag -> embedding: load_vector_store()
+embedding --> rag: vectorstore
+
+rag -> gen: create_qa_chain()
+note right of gen: LLM + Retriever\nVector Search (top K)
+gen --> rag: qa_chain
+
+rag -> gen: qa_chain(query)
+gen --> rag: {answer, sources}
+
+rag -> rag: format_answer_with_citations()
+rag --> api: {answer, sources}
+
+api -> conv: add_message("assistant", answer)
+api -> storage: add_to_history()
+api --> User: Response
+
+@enduml
+

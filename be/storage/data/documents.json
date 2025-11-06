@@ -4606,5 +4606,3399 @@
         "created_at": "2025-11-06T18:31:10.457493"
       }
     ]
+  },
+  {
+    "id": "46cd727a-0744-493c-958d-17aaa4ccfdaa",
+    "filename": "bo_luat_hinh_su.pdf",
+    "original_name": "bo_luat_hinh_su.pdf",
+    "doc_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su",
+    "output_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su",
+    "type": "pdf",
+    "size": 1182863,
+    "law_type": "Luật Hình sự",
+    "uploaded_at": "2025-11-06T18:44:59.235832",
+    "status": "indexed",
+    "chunks": [
+      {
+        "filename": "điều_1.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_1.txt",
+        "size": 628,
+        "created_at": "2025-11-06T18:45:11.206827"
+      },
+      {
+        "filename": "điều_2.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_2.txt",
+        "size": 363,
+        "created_at": "2025-11-06T18:45:11.209851"
+      },
+      {
+        "filename": "điều_3.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_3.txt",
+        "size": 2756,
+        "created_at": "2025-11-06T18:45:11.213008"
+      },
+      {
+        "filename": "điều_4.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_4.txt",
+        "size": 1052,
+        "created_at": "2025-11-06T18:45:11.215963"
+      },
+      {
+        "filename": "điều_5.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_5.txt",
+        "size": 1382,
+        "created_at": "2025-11-06T18:45:11.218771"
+      },
+      {
+        "filename": "điều_6.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_6.txt",
+        "size": 1768,
+        "created_at": "2025-11-06T18:45:11.221598"
+      },
+      {
+        "filename": "điều_7.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_7.txt",
+        "size": 1430,
+        "created_at": "2025-11-06T18:45:11.224118"
+      },
+      {
+        "filename": "điều_8.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_8.txt",
+        "size": 1028,
+        "created_at": "2025-11-06T18:45:11.227657"
+      },
+      {
+        "filename": "điều_9.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_9.txt",
+        "size": 1408,
+        "created_at": "2025-11-06T18:45:11.230800"
+      },
+      {
+        "filename": "điều_10.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_10.txt",
+        "size": 544,
+        "created_at": "2025-11-06T18:45:11.233632"
+      },
+      {
+        "filename": "điều_11.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_11.txt",
+        "size": 533,
+        "created_at": "2025-11-06T18:45:11.236297"
+      },
+      {
+        "filename": "điều_12.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_12.txt",
+        "size": 2696,
+        "created_at": "2025-11-06T18:45:11.239138"
+      },
+      {
+        "filename": "điều_13.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_13.txt",
+        "size": 332,
+        "created_at": "2025-11-06T18:45:11.241835"
+      },
+      {
+        "filename": "điều_14.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_14.txt",
+        "size": 2224,
+        "created_at": "2025-11-06T18:45:11.244925"
+      },
+      {
+        "filename": "điều_15.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_15.txt",
+        "size": 332,
+        "created_at": "2025-11-06T18:45:11.248252"
+      },
+      {
+        "filename": "điều_16.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_16.txt",
+        "size": 531,
+        "created_at": "2025-11-06T18:45:11.251695"
+      },
+      {
+        "filename": "điều_17.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_17.txt",
+        "size": 976,
+        "created_at": "2025-11-06T18:45:11.254427"
+      },
+      {
+        "filename": "điều_18.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_18.txt",
+        "size": 885,
+        "created_at": "2025-11-06T18:45:11.257529"
+      },
+      {
+        "filename": "điều_19.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_19.txt",
+        "size": 1393,
+        "created_at": "2025-11-06T18:45:11.260236"
+      },
+      {
+        "filename": "điều_20.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_20.txt",
+        "size": 291,
+        "created_at": "2025-11-06T18:45:11.263423"
+      },
+      {
+        "filename": "điều_21.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_21.txt",
+        "size": 341,
+        "created_at": "2025-11-06T18:45:11.267195"
+      },
+      {
+        "filename": "điều_22.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_22.txt",
+        "size": 805,
+        "created_at": "2025-11-06T18:45:11.270309"
+      },
+      {
+        "filename": "điều_23.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_23.txt",
+        "size": 670,
+        "created_at": "2025-11-06T18:45:11.273253"
+      },
+      {
+        "filename": "điều_24.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_24.txt",
+        "size": 519,
+        "created_at": "2025-11-06T18:45:11.276286"
+      },
+      {
+        "filename": "điều_25.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_25.txt",
+        "size": 629,
+        "created_at": "2025-11-06T18:45:11.278907"
+      },
+      {
+        "filename": "điều_26.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_26.txt",
+        "size": 780,
+        "created_at": "2025-11-06T18:45:11.281736"
+      },
+      {
+        "filename": "điều_423.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_423.txt",
+        "size": 790,
+        "created_at": "2025-11-06T18:45:11.284445"
+      },
+      {
+        "filename": "điều_27.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_27.txt",
+        "size": 1346,
+        "created_at": "2025-11-06T18:45:11.287376"
+      },
+      {
+        "filename": "điều_28.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_28.txt",
+        "size": 749,
+        "created_at": "2025-11-06T18:45:11.290020"
+      },
+      {
+        "filename": "điều_29.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_29.txt",
+        "size": 1668,
+        "created_at": "2025-11-06T18:45:11.292937"
+      },
+      {
+        "filename": "điều_30.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_30.txt",
+        "size": 385,
+        "created_at": "2025-11-06T18:45:11.295632"
+      },
+      {
+        "filename": "điều_31.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_31.txt",
+        "size": 414,
+        "created_at": "2025-11-06T18:45:11.298528"
+      },
+      {
+        "filename": "điều_32.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_32.txt",
+        "size": 799,
+        "created_at": "2025-11-06T18:45:11.301296"
+      },
+      {
+        "filename": "điều_33.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_33.txt",
+        "size": 648,
+        "created_at": "2025-11-06T18:45:11.304258"
+      },
+      {
+        "filename": "điều_34.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_34.txt",
+        "size": 201,
+        "created_at": "2025-11-06T18:45:11.307016"
+      },
+      {
+        "filename": "điều_35.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_35.txt",
+        "size": 1098,
+        "created_at": "2025-11-06T18:45:11.309892"
+      },
+      {
+        "filename": "điều_36.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_36.txt",
+        "size": 2586,
+        "created_at": "2025-11-06T18:45:11.312619"
+      },
+      {
+        "filename": "điều_37.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_37.txt",
+        "size": 315,
+        "created_at": "2025-11-06T18:45:11.315660"
+      },
+      {
+        "filename": "điều_38.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_38.txt",
+        "size": 650,
+        "created_at": "2025-11-06T18:45:11.318410"
+      },
+      {
+        "filename": "điều_39.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_39.txt",
+        "size": 327,
+        "created_at": "2025-11-06T18:45:11.321369"
+      },
+      {
+        "filename": "điều_40.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_40.txt",
+        "size": 1483,
+        "created_at": "2025-11-06T18:45:11.324139"
+      },
+      {
+        "filename": "điều_41.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_41.txt",
+        "size": 717,
+        "created_at": "2025-11-06T18:45:11.327193"
+      },
+      {
+        "filename": "điều_42.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_42.txt",
+        "size": 297,
+        "created_at": "2025-11-06T18:45:11.330043"
+      },
+      {
+        "filename": "điều_43.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_43.txt",
+        "size": 865,
+        "created_at": "2025-11-06T18:45:11.332862"
+      },
+      {
+        "filename": "điều_44.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_44.txt",
+        "size": 775,
+        "created_at": "2025-11-06T18:45:11.335553"
+      },
+      {
+        "filename": "điều_45.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_45.txt",
+        "size": 707,
+        "created_at": "2025-11-06T18:45:11.338469"
+      },
+      {
+        "filename": "điều_46.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_46.txt",
+        "size": 754,
+        "created_at": "2025-11-06T18:45:11.341268"
+      },
+      {
+        "filename": "điều_47.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_47.txt",
+        "size": 895,
+        "created_at": "2025-11-06T18:45:11.344404"
+      },
+      {
+        "filename": "điều_48.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_48.txt",
+        "size": 580,
+        "created_at": "2025-11-06T18:45:11.347341"
+      },
+      {
+        "filename": "điều_49.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_49.txt",
+        "size": 1739,
+        "created_at": "2025-11-06T18:45:11.350609"
+      },
+      {
+        "filename": "điều_50.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_50.txt",
+        "size": 567,
+        "created_at": "2025-11-06T18:45:11.353461"
+      },
+      {
+        "filename": "điều_51.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_51.txt",
+        "size": 2632,
+        "created_at": "2025-11-06T18:45:11.356543"
+      },
+      {
+        "filename": "điều_52.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_52.txt",
+        "size": 1705,
+        "created_at": "2025-11-06T18:45:11.359185"
+      },
+      {
+        "filename": "điều_53.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_53.txt",
+        "size": 885,
+        "created_at": "2025-11-06T18:45:11.362186"
+      },
+      {
+        "filename": "điều_54.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_54.txt",
+        "size": 1255,
+        "created_at": "2025-11-06T18:45:11.364945"
+      },
+      {
+        "filename": "điều_55.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_55.txt",
+        "size": 2076,
+        "created_at": "2025-11-06T18:45:11.367902"
+      },
+      {
+        "filename": "điều_56.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_56.txt",
+        "size": 1283,
+        "created_at": "2025-11-06T18:45:11.370748"
+      },
+      {
+        "filename": "điều_57.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_57.txt",
+        "size": 1104,
+        "created_at": "2025-11-06T18:45:11.373843"
+      },
+      {
+        "filename": "điều_58.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_58.txt",
+        "size": 488,
+        "created_at": "2025-11-06T18:45:11.376681"
+      },
+      {
+        "filename": "điều_59.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_59.txt",
+        "size": 442,
+        "created_at": "2025-11-06T18:45:11.380224"
+      },
+      {
+        "filename": "điều_60.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_60.txt",
+        "size": 1596,
+        "created_at": "2025-11-06T18:45:11.384213"
+      },
+      {
+        "filename": "điều_61.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_61.txt",
+        "size": 214,
+        "created_at": "2025-11-06T18:45:11.388223"
+      },
+      {
+        "filename": "điều_62.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_62.txt",
+        "size": 2674,
+        "created_at": "2025-11-06T18:45:11.391301"
+      },
+      {
+        "filename": "điều_63.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_63.txt",
+        "size": 2720,
+        "created_at": "2025-11-06T18:45:11.394556"
+      },
+      {
+        "filename": "điều_64.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_64.txt",
+        "size": 419,
+        "created_at": "2025-11-06T18:45:11.397768"
+      },
+      {
+        "filename": "điều_65.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_65.txt",
+        "size": 1967,
+        "created_at": "2025-11-06T18:45:11.402672"
+      },
+      {
+        "filename": "điều_66.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_66.txt",
+        "size": 3799,
+        "created_at": "2025-11-06T18:45:11.405531"
+      },
+      {
+        "filename": "điều_67.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_67.txt",
+        "size": 1271,
+        "created_at": "2025-11-06T18:45:11.408767"
+      },
+      {
+        "filename": "điều_68.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_68.txt",
+        "size": 421,
+        "created_at": "2025-11-06T18:45:11.411655"
+      },
+      {
+        "filename": "điều_69.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_69.txt",
+        "size": 424,
+        "created_at": "2025-11-06T18:45:11.414863"
+      },
+      {
+        "filename": "điều_70.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_70.txt",
+        "size": 2386,
+        "created_at": "2025-11-06T18:45:11.417771"
+      },
+      {
+        "filename": "điều_71.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_71.txt",
+        "size": 2408,
+        "created_at": "2025-11-06T18:45:11.420798"
+      },
+      {
+        "filename": "điều_72.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_72.txt",
+        "size": 547,
+        "created_at": "2025-11-06T18:45:11.423640"
+      },
+      {
+        "filename": "điều_73.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_73.txt",
+        "size": 1246,
+        "created_at": "2025-11-06T18:45:11.426622"
+      },
+      {
+        "filename": "điều_74.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_74.txt",
+        "size": 367,
+        "created_at": "2025-11-06T18:45:11.429515"
+      },
+      {
+        "filename": "điều_75.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_75.txt",
+        "size": 815,
+        "created_at": "2025-11-06T18:45:11.432642"
+      },
+      {
+        "filename": "điều_76.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_76.txt",
+        "size": 2881,
+        "created_at": "2025-11-06T18:45:11.435588"
+      },
+      {
+        "filename": "điều_77.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_77.txt",
+        "size": 473,
+        "created_at": "2025-11-06T18:45:11.438638"
+      },
+      {
+        "filename": "điều_78.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_78.txt",
+        "size": 534,
+        "created_at": "2025-11-06T18:45:11.441501"
+      },
+      {
+        "filename": "điều_79.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_79.txt",
+        "size": 692,
+        "created_at": "2025-11-06T18:45:11.444628"
+      },
+      {
+        "filename": "điều_80.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_80.txt",
+        "size": 735,
+        "created_at": "2025-11-06T18:45:11.447577"
+      },
+      {
+        "filename": "điều_81.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_81.txt",
+        "size": 841,
+        "created_at": "2025-11-06T18:45:11.450837"
+      },
+      {
+        "filename": "điều_82.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_82.txt",
+        "size": 2539,
+        "created_at": "2025-11-06T18:45:11.454747"
+      },
+      {
+        "filename": "điều_83.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_83.txt",
+        "size": 490,
+        "created_at": "2025-11-06T18:45:11.457660"
+      },
+      {
+        "filename": "điều_84.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_84.txt",
+        "size": 1059,
+        "created_at": "2025-11-06T18:45:11.460537"
+      },
+      {
+        "filename": "điều_85.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_85.txt",
+        "size": 899,
+        "created_at": "2025-11-06T18:45:11.463810"
+      },
+      {
+        "filename": "điều_86.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_86.txt",
+        "size": 1226,
+        "created_at": "2025-11-06T18:45:11.466634"
+      },
+      {
+        "filename": "điều_87.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_87.txt",
+        "size": 1483,
+        "created_at": "2025-11-06T18:45:11.469516"
+      },
+      {
+        "filename": "điều_88.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_88.txt",
+        "size": 241,
+        "created_at": "2025-11-06T18:45:11.472639"
+      },
+      {
+        "filename": "điều_89.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_89.txt",
+        "size": 590,
+        "created_at": "2025-11-06T18:45:11.475781"
+      },
+      {
+        "filename": "điều_90.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_90.txt",
+        "size": 377,
+        "created_at": "2025-11-06T18:45:11.478907"
+      },
+      {
+        "filename": "điều_91.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_91.txt",
+        "size": 2666,
+        "created_at": "2025-11-06T18:45:11.481805"
+      },
+      {
+        "filename": "điều_251.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_251.txt",
+        "size": 4029,
+        "created_at": "2025-11-06T18:45:11.485346"
+      },
+      {
+        "filename": "điều_92.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_92.txt",
+        "size": 465,
+        "created_at": "2025-11-06T18:45:11.488385"
+      },
+      {
+        "filename": "điều_93.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_93.txt",
+        "size": 1453,
+        "created_at": "2025-11-06T18:45:11.491548"
+      },
+      {
+        "filename": "điều_94.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_94.txt",
+        "size": 1106,
+        "created_at": "2025-11-06T18:45:11.494382"
+      },
+      {
+        "filename": "điều_95.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_95.txt",
+        "size": 1677,
+        "created_at": "2025-11-06T18:45:11.497426"
+      },
+      {
+        "filename": "điều_96.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_96.txt",
+        "size": 689,
+        "created_at": "2025-11-06T18:45:11.500684"
+      },
+      {
+        "filename": "điều_97.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_97.txt",
+        "size": 479,
+        "created_at": "2025-11-06T18:45:11.504539"
+      },
+      {
+        "filename": "điều_98.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_98.txt",
+        "size": 331,
+        "created_at": "2025-11-06T18:45:11.507378"
+      },
+      {
+        "filename": "điều_99.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_99.txt",
+        "size": 400,
+        "created_at": "2025-11-06T18:45:11.510671"
+      },
+      {
+        "filename": "điều_100.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_100.txt",
+        "size": 736,
+        "created_at": "2025-11-06T18:45:11.513720"
+      },
+      {
+        "filename": "điều_101.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_101.txt",
+        "size": 1137,
+        "created_at": "2025-11-06T18:45:11.516941"
+      },
+      {
+        "filename": "điều_102.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_102.txt",
+        "size": 1488,
+        "created_at": "2025-11-06T18:45:11.519816"
+      },
+      {
+        "filename": "điều_103.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_103.txt",
+        "size": 2852,
+        "created_at": "2025-11-06T18:45:11.523105"
+      },
+      {
+        "filename": "điều_104.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_104.txt",
+        "size": 495,
+        "created_at": "2025-11-06T18:45:11.526131"
+      },
+      {
+        "filename": "điều_105.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_105.txt",
+        "size": 1135,
+        "created_at": "2025-11-06T18:45:11.530466"
+      },
+      {
+        "filename": "điều_106.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_106.txt",
+        "size": 669,
+        "created_at": "2025-11-06T18:45:11.533302"
+      },
+      {
+        "filename": "điều_107.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_107.txt",
+        "size": 1012,
+        "created_at": "2025-11-06T18:45:11.536526"
+      },
+      {
+        "filename": "điều_108.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_108.txt",
+        "size": 666,
+        "created_at": "2025-11-06T18:45:11.539543"
+      },
+      {
+        "filename": "điều_109.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_109.txt",
+        "size": 610,
+        "created_at": "2025-11-06T18:45:11.549651"
+      },
+      {
+        "filename": "điều_110.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_110.txt",
+        "size": 1347,
+        "created_at": "2025-11-06T18:45:11.563809"
+      },
+      {
+        "filename": "điều_111.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_111.txt",
+        "size": 682,
+        "created_at": "2025-11-06T18:45:11.566664"
+      },
+      {
+        "filename": "điều_112.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_112.txt",
+        "size": 555,
+        "created_at": "2025-11-06T18:45:11.569728"
+      },
+      {
+        "filename": "điều_113.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_113.txt",
+        "size": 1268,
+        "created_at": "2025-11-06T18:45:11.572770"
+      },
+      {
+        "filename": "điều_114.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_114.txt",
+        "size": 708,
+        "created_at": "2025-11-06T18:45:11.575827"
+      },
+      {
+        "filename": "điều_115.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_115.txt",
+        "size": 483,
+        "created_at": "2025-11-06T18:45:11.578853"
+      },
+      {
+        "filename": "điều_116.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_116.txt",
+        "size": 1093,
+        "created_at": "2025-11-06T18:45:11.581903"
+      },
+      {
+        "filename": "điều_117.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_117.txt",
+        "size": 1024,
+        "created_at": "2025-11-06T18:45:11.584761"
+      },
+      {
+        "filename": "điều_118.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_118.txt",
+        "size": 590,
+        "created_at": "2025-11-06T18:45:11.587752"
+      },
+      {
+        "filename": "điều_119.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_119.txt",
+        "size": 569,
+        "created_at": "2025-11-06T18:45:11.590714"
+      },
+      {
+        "filename": "điều_120.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_120.txt",
+        "size": 643,
+        "created_at": "2025-11-06T18:45:11.593722"
+      },
+      {
+        "filename": "điều_121.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_121.txt",
+        "size": 512,
+        "created_at": "2025-11-06T18:45:11.596772"
+      },
+      {
+        "filename": "điều_122.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_122.txt",
+        "size": 381,
+        "created_at": "2025-11-06T18:45:11.599822"
+      },
+      {
+        "filename": "điều_123.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_123.txt",
+        "size": 1582,
+        "created_at": "2025-11-06T18:45:11.602831"
+      },
+      {
+        "filename": "điều_124.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_124.txt",
+        "size": 659,
+        "created_at": "2025-11-06T18:45:11.605953"
+      },
+      {
+        "filename": "điều_125.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_125.txt",
+        "size": 494,
+        "created_at": "2025-11-06T18:45:11.609096"
+      },
+      {
+        "filename": "điều_126.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_126.txt",
+        "size": 593,
+        "created_at": "2025-11-06T18:45:11.611951"
+      },
+      {
+        "filename": "điều_127.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_127.txt",
+        "size": 672,
+        "created_at": "2025-11-06T18:45:11.615011"
+      },
+      {
+        "filename": "điều_128.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_128.txt",
+        "size": 304,
+        "created_at": "2025-11-06T18:45:11.617995"
+      },
+      {
+        "filename": "điều_129.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_129.txt",
+        "size": 550,
+        "created_at": "2025-11-06T18:45:11.621043"
+      },
+      {
+        "filename": "điều_130.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_130.txt",
+        "size": 479,
+        "created_at": "2025-11-06T18:45:11.624085"
+      },
+      {
+        "filename": "điều_131.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_131.txt",
+        "size": 577,
+        "created_at": "2025-11-06T18:45:11.627097"
+      },
+      {
+        "filename": "điều_132.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_132.txt",
+        "size": 1055,
+        "created_at": "2025-11-06T18:45:11.630134"
+      },
+      {
+        "filename": "điều_133.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_133.txt",
+        "size": 759,
+        "created_at": "2025-11-06T18:45:11.633201"
+      },
+      {
+        "filename": "điều_134.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_134.txt",
+        "size": 3616,
+        "created_at": "2025-11-06T18:45:11.636346"
+      },
+      {
+        "filename": "điều_135.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_135.txt",
+        "size": 1096,
+        "created_at": "2025-11-06T18:45:11.639509"
+      },
+      {
+        "filename": "điều_136.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_136.txt",
+        "size": 1323,
+        "created_at": "2025-11-06T18:45:11.648138"
+      },
+      {
+        "filename": "điều_137.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_137.txt",
+        "size": 1216,
+        "created_at": "2025-11-06T18:45:11.657920"
+      },
+      {
+        "filename": "điều_138.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_138.txt",
+        "size": 985,
+        "created_at": "2025-11-06T18:45:11.661239"
+      },
+      {
+        "filename": "điều_139.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_139.txt",
+        "size": 1314,
+        "created_at": "2025-11-06T18:45:11.665069"
+      },
+      {
+        "filename": "điều_140.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_140.txt",
+        "size": 742,
+        "created_at": "2025-11-06T18:45:11.668322"
+      },
+      {
+        "filename": "điều_141.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_141.txt",
+        "size": 2015,
+        "created_at": "2025-11-06T18:45:11.671416"
+      },
+      {
+        "filename": "điều_142.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_142.txt",
+        "size": 1968,
+        "created_at": "2025-11-06T18:45:11.674573"
+      },
+      {
+        "filename": "điều_143.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_143.txt",
+        "size": 1820,
+        "created_at": "2025-11-06T18:45:11.678041"
+      },
+      {
+        "filename": "điều_144.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_144.txt",
+        "size": 1635,
+        "created_at": "2025-11-06T18:45:11.681121"
+      },
+      {
+        "filename": "điều_145.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_145.txt",
+        "size": 1476,
+        "created_at": "2025-11-06T18:45:11.684251"
+      },
+      {
+        "filename": "điều_146.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_146.txt",
+        "size": 1192,
+        "created_at": "2025-11-06T18:45:11.687336"
+      },
+      {
+        "filename": "điều_147.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_147.txt",
+        "size": 1255,
+        "created_at": "2025-11-06T18:45:11.690406"
+      },
+      {
+        "filename": "điều_148.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_148.txt",
+        "size": 790,
+        "created_at": "2025-11-06T18:45:11.693471"
+      },
+      {
+        "filename": "điều_149.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_149.txt",
+        "size": 1223,
+        "created_at": "2025-11-06T18:45:11.696592"
+      },
+      {
+        "filename": "điều_150.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_150.txt",
+        "size": 2009,
+        "created_at": "2025-11-06T18:45:11.699749"
+      },
+      {
+        "filename": "điều_151.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_151.txt",
+        "size": 2345,
+        "created_at": "2025-11-06T18:45:11.702919"
+      },
+      {
+        "filename": "điều_152.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_152.txt",
+        "size": 963,
+        "created_at": "2025-11-06T18:45:11.705964"
+      },
+      {
+        "filename": "điều_153.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_153.txt",
+        "size": 1435,
+        "created_at": "2025-11-06T18:45:11.709000"
+      },
+      {
+        "filename": "điều_154.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_154.txt",
+        "size": 1350,
+        "created_at": "2025-11-06T18:45:11.712079"
+      },
+      {
+        "filename": "điều_155.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_155.txt",
+        "size": 1268,
+        "created_at": "2025-11-06T18:45:11.715315"
+      },
+      {
+        "filename": "điều_156.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_156.txt",
+        "size": 1911,
+        "created_at": "2025-11-06T18:45:11.718524"
+      },
+      {
+        "filename": "điều_157.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_157.txt",
+        "size": 1587,
+        "created_at": "2025-11-06T18:45:11.721643"
+      },
+      {
+        "filename": "điều_158.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_158.txt",
+        "size": 1390,
+        "created_at": "2025-11-06T18:45:11.724825"
+      },
+      {
+        "filename": "điều_159.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_159.txt",
+        "size": 1850,
+        "created_at": "2025-11-06T18:45:11.727949"
+      },
+      {
+        "filename": "điều_160.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_160.txt",
+        "size": 912,
+        "created_at": "2025-11-06T18:45:11.731224"
+      },
+      {
+        "filename": "điều_161.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_161.txt",
+        "size": 837,
+        "created_at": "2025-11-06T18:45:11.734469"
+      },
+      {
+        "filename": "điều_162.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_162.txt",
+        "size": 1397,
+        "created_at": "2025-11-06T18:45:11.737742"
+      },
+      {
+        "filename": "điều_163.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_163.txt",
+        "size": 987,
+        "created_at": "2025-11-06T18:45:11.741005"
+      },
+      {
+        "filename": "điều_164.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_164.txt",
+        "size": 1073,
+        "created_at": "2025-11-06T18:45:11.744373"
+      },
+      {
+        "filename": "điều_165.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_165.txt",
+        "size": 1130,
+        "created_at": "2025-11-06T18:45:11.747980"
+      },
+      {
+        "filename": "điều_166.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_166.txt",
+        "size": 1215,
+        "created_at": "2025-11-06T18:45:11.751672"
+      },
+      {
+        "filename": "điều_167.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_167.txt",
+        "size": 1034,
+        "created_at": "2025-11-06T18:45:11.755490"
+      },
+      {
+        "filename": "điều_168.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_168.txt",
+        "size": 2452,
+        "created_at": "2025-11-06T18:45:11.759062"
+      },
+      {
+        "filename": "điều_169.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_169.txt",
+        "size": 2463,
+        "created_at": "2025-11-06T18:45:11.762266"
+      },
+      {
+        "filename": "điều_170.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_170.txt",
+        "size": 1492,
+        "created_at": "2025-11-06T18:45:11.765571"
+      },
+      {
+        "filename": "điều_171.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_171.txt",
+        "size": 2061,
+        "created_at": "2025-11-06T18:45:11.768989"
+      },
+      {
+        "filename": "điều_172.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_172.txt",
+        "size": 2732,
+        "created_at": "2025-11-06T18:45:11.772329"
+      },
+      {
+        "filename": "điều_173.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_173.txt",
+        "size": 2694,
+        "created_at": "2025-11-06T18:45:11.775668"
+      },
+      {
+        "filename": "điều_174.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_174.txt",
+        "size": 3012,
+        "created_at": "2025-11-06T18:45:11.779066"
+      },
+      {
+        "filename": "điều_175.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_175.txt",
+        "size": 2695,
+        "created_at": "2025-11-06T18:45:11.782593"
+      },
+      {
+        "filename": "điều_176.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_176.txt",
+        "size": 951,
+        "created_at": "2025-11-06T18:45:11.787218"
+      },
+      {
+        "filename": "điều_177.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_177.txt",
+        "size": 1565,
+        "created_at": "2025-11-06T18:45:11.791739"
+      },
+      {
+        "filename": "điều_178.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_178.txt",
+        "size": 2977,
+        "created_at": "2025-11-06T18:45:11.810466"
+      },
+      {
+        "filename": "điều_179.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_179.txt",
+        "size": 1194,
+        "created_at": "2025-11-06T18:45:11.820394"
+      },
+      {
+        "filename": "điều_180.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_180.txt",
+        "size": 560,
+        "created_at": "2025-11-06T18:45:11.824731"
+      },
+      {
+        "filename": "điều_181.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_181.txt",
+        "size": 741,
+        "created_at": "2025-11-06T18:45:11.829561"
+      },
+      {
+        "filename": "điều_182.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_182.txt",
+        "size": 1129,
+        "created_at": "2025-11-06T18:45:11.834965"
+      },
+      {
+        "filename": "điều_183.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_183.txt",
+        "size": 372,
+        "created_at": "2025-11-06T18:45:11.838661"
+      },
+      {
+        "filename": "điều_184.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_184.txt",
+        "size": 282,
+        "created_at": "2025-11-06T18:45:11.842051"
+      },
+      {
+        "filename": "điều_185.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_185.txt",
+        "size": 1040,
+        "created_at": "2025-11-06T18:45:11.845715"
+      },
+      {
+        "filename": "điều_186.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_186.txt",
+        "size": 691,
+        "created_at": "2025-11-06T18:45:11.849543"
+      },
+      {
+        "filename": "điều_187.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_187.txt",
+        "size": 1001,
+        "created_at": "2025-11-06T18:45:11.852966"
+      },
+      {
+        "filename": "điều_188.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_188.txt",
+        "size": 4610,
+        "created_at": "2025-11-06T18:45:11.856702"
+      },
+      {
+        "filename": "điều_189.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_189.txt",
+        "size": 3865,
+        "created_at": "2025-11-06T18:45:11.860173"
+      },
+      {
+        "filename": "điều_190.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_190.txt",
+        "size": 4096,
+        "created_at": "2025-11-06T18:45:11.868052"
+      },
+      {
+        "filename": "điều_191.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_191.txt",
+        "size": 4314,
+        "created_at": "2025-11-06T18:45:11.873097"
+      },
+      {
+        "filename": "điều_192.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_192.txt",
+        "size": 6054,
+        "created_at": "2025-11-06T18:45:11.880829"
+      },
+      {
+        "filename": "điều_193.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_193.txt",
+        "size": 4685,
+        "created_at": "2025-11-06T18:45:11.888069"
+      },
+      {
+        "filename": "điều_194.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_194.txt",
+        "size": 4755,
+        "created_at": "2025-11-06T18:45:11.891914"
+      },
+      {
+        "filename": "điều_195.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_195.txt",
+        "size": 5148,
+        "created_at": "2025-11-06T18:45:11.895383"
+      },
+      {
+        "filename": "điều_196.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_196.txt",
+        "size": 2759,
+        "created_at": "2025-11-06T18:45:11.900399"
+      },
+      {
+        "filename": "điều_197.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_197.txt",
+        "size": 604,
+        "created_at": "2025-11-06T18:45:11.906233"
+      },
+      {
+        "filename": "điều_198.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_198.txt",
+        "size": 1229,
+        "created_at": "2025-11-06T18:45:11.909656"
+      },
+      {
+        "filename": "điều_199.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_199.txt",
+        "size": 2691,
+        "created_at": "2025-11-06T18:45:11.913578"
+      },
+      {
+        "filename": "điều_200.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_200.txt",
+        "size": 4527,
+        "created_at": "2025-11-06T18:45:11.917363"
+      },
+      {
+        "filename": "điều_201.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_201.txt",
+        "size": 1045,
+        "created_at": "2025-11-06T18:45:11.921107"
+      },
+      {
+        "filename": "điều_202.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_202.txt",
+        "size": 1595,
+        "created_at": "2025-11-06T18:45:11.924692"
+      },
+      {
+        "filename": "điều_203.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_203.txt",
+        "size": 2337,
+        "created_at": "2025-11-06T18:45:11.928137"
+      },
+      {
+        "filename": "điều_204.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_204.txt",
+        "size": 1053,
+        "created_at": "2025-11-06T18:45:11.931751"
+      },
+      {
+        "filename": "điều_205.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_205.txt",
+        "size": 1350,
+        "created_at": "2025-11-06T18:45:11.935196"
+      },
+      {
+        "filename": "điều_206.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_206.txt",
+        "size": 2686,
+        "created_at": "2025-11-06T18:45:11.938629"
+      },
+      {
+        "filename": "điều_207.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_207.txt",
+        "size": 906,
+        "created_at": "2025-11-06T18:45:11.942221"
+      },
+      {
+        "filename": "điều_208.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_208.txt",
+        "size": 1264,
+        "created_at": "2025-11-06T18:45:11.948047"
+      },
+      {
+        "filename": "điều_209.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_209.txt",
+        "size": 2237,
+        "created_at": "2025-11-06T18:45:11.951678"
+      },
+      {
+        "filename": "điều_210.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_210.txt",
+        "size": 2120,
+        "created_at": "2025-11-06T18:45:11.955907"
+      },
+      {
+        "filename": "điều_211.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_211.txt",
+        "size": 3593,
+        "created_at": "2025-11-06T18:45:11.959429"
+      },
+      {
+        "filename": "điều_212.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_212.txt",
+        "size": 1127,
+        "created_at": "2025-11-06T18:45:11.963787"
+      },
+      {
+        "filename": "điều_213.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_213.txt",
+        "size": 3308,
+        "created_at": "2025-11-06T18:45:11.967590"
+      },
+      {
+        "filename": "điều_214.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_214.txt",
+        "size": 2106,
+        "created_at": "2025-11-06T18:45:11.971099"
+      },
+      {
+        "filename": "điều_215.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_215.txt",
+        "size": 2199,
+        "created_at": "2025-11-06T18:45:11.976186"
+      },
+      {
+        "filename": "điều_216.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_216.txt",
+        "size": 2883,
+        "created_at": "2025-11-06T18:45:11.980319"
+      },
+      {
+        "filename": "điều_217.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_217.txt",
+        "size": 3280,
+        "created_at": "2025-11-06T18:45:11.987256"
+      },
+      {
+        "filename": "điều_218.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_218.txt",
+        "size": 1459,
+        "created_at": "2025-11-06T18:45:11.990877"
+      },
+      {
+        "filename": "điều_219.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_219.txt",
+        "size": 1225,
+        "created_at": "2025-11-06T18:45:11.995847"
+      },
+      {
+        "filename": "điều_220.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_220.txt",
+        "size": 1584,
+        "created_at": "2025-11-06T18:45:11.999397"
+      },
+      {
+        "filename": "điều_221.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_221.txt",
+        "size": 1843,
+        "created_at": "2025-11-06T18:45:12.003603"
+      },
+      {
+        "filename": "điều_222.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_222.txt",
+        "size": 1614,
+        "created_at": "2025-11-06T18:45:12.007841"
+      },
+      {
+        "filename": "điều_223.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_223.txt",
+        "size": 1606,
+        "created_at": "2025-11-06T18:45:12.013550"
+      },
+      {
+        "filename": "điều_224.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_224.txt",
+        "size": 1706,
+        "created_at": "2025-11-06T18:45:12.017141"
+      },
+      {
+        "filename": "điều_225.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_225.txt",
+        "size": 2610,
+        "created_at": "2025-11-06T18:45:12.022373"
+      },
+      {
+        "filename": "điều_226.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_226.txt",
+        "size": 2372,
+        "created_at": "2025-11-06T18:45:12.027845"
+      },
+      {
+        "filename": "điều_227.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_227.txt",
+        "size": 3116,
+        "created_at": "2025-11-06T18:45:12.038796"
+      },
+      {
+        "filename": "điều_228.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_228.txt",
+        "size": 992,
+        "created_at": "2025-11-06T18:45:12.043087"
+      },
+      {
+        "filename": "điều_229.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_229.txt",
+        "size": 3038,
+        "created_at": "2025-11-06T18:45:12.049410"
+      },
+      {
+        "filename": "điều_230.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_230.txt",
+        "size": 1512,
+        "created_at": "2025-11-06T18:45:12.054467"
+      },
+      {
+        "filename": "điều_231.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_231.txt",
+        "size": 1065,
+        "created_at": "2025-11-06T18:45:12.058592"
+      },
+      {
+        "filename": "điều_232.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_232.txt",
+        "size": 9033,
+        "created_at": "2025-11-06T18:45:12.062812"
+      },
+      {
+        "filename": "điều_233.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_233.txt",
+        "size": 3667,
+        "created_at": "2025-11-06T18:45:12.067245"
+      },
+      {
+        "filename": "điều_234.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_234.txt",
+        "size": 4702,
+        "created_at": "2025-11-06T18:45:12.071669"
+      },
+      {
+        "filename": "điều_235.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_235.txt",
+        "size": 7637,
+        "created_at": "2025-11-06T18:45:12.076463"
+      },
+      {
+        "filename": "điều_236.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_236.txt",
+        "size": 2731,
+        "created_at": "2025-11-06T18:45:12.082274"
+      },
+      {
+        "filename": "điều_237.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_237.txt",
+        "size": 2542,
+        "created_at": "2025-11-06T18:45:12.088164"
+      },
+      {
+        "filename": "điều_238.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_238.txt",
+        "size": 3776,
+        "created_at": "2025-11-06T18:45:12.092429"
+      },
+      {
+        "filename": "điều_239.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_239.txt",
+        "size": 2946,
+        "created_at": "2025-11-06T18:45:12.096769"
+      },
+      {
+        "filename": "điều_240.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_240.txt",
+        "size": 1739,
+        "created_at": "2025-11-06T18:45:12.100480"
+      },
+      {
+        "filename": "điều_241.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_241.txt",
+        "size": 2175,
+        "created_at": "2025-11-06T18:45:12.105271"
+      },
+      {
+        "filename": "điều_242.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_242.txt",
+        "size": 3832,
+        "created_at": "2025-11-06T18:45:12.108977"
+      },
+      {
+        "filename": "điều_243.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_243.txt",
+        "size": 6101,
+        "created_at": "2025-11-06T18:45:12.113082"
+      },
+      {
+        "filename": "điều_244.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_244.txt",
+        "size": 6764,
+        "created_at": "2025-11-06T18:45:12.117065"
+      },
+      {
+        "filename": "điều_245.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_245.txt",
+        "size": 2606,
+        "created_at": "2025-11-06T18:45:12.121024"
+      },
+      {
+        "filename": "điều_246.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_246.txt",
+        "size": 2700,
+        "created_at": "2025-11-06T18:45:12.124701"
+      },
+      {
+        "filename": "điều_247.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_247.txt",
+        "size": 1254,
+        "created_at": "2025-11-06T18:45:12.128969"
+      },
+      {
+        "filename": "điều_248.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_248.txt",
+        "size": 3066,
+        "created_at": "2025-11-06T18:45:12.132664"
+      },
+      {
+        "filename": "điều_249.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_249.txt",
+        "size": 5268,
+        "created_at": "2025-11-06T18:45:12.136904"
+      },
+      {
+        "filename": "điều_250.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_250.txt",
+        "size": 5227,
+        "created_at": "2025-11-06T18:45:12.141428"
+      },
+      {
+        "filename": "điều_251.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_251.txt",
+        "size": 4029,
+        "created_at": "2025-11-06T18:45:12.147494"
+      },
+      {
+        "filename": "điều_252.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_252.txt",
+        "size": 5164,
+        "created_at": "2025-11-06T18:45:12.153445"
+      },
+      {
+        "filename": "điều_253.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_253.txt",
+        "size": 2613,
+        "created_at": "2025-11-06T18:45:12.157497"
+      },
+      {
+        "filename": "điều_254.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_254.txt",
+        "size": 1589,
+        "created_at": "2025-11-06T18:45:12.161267"
+      },
+      {
+        "filename": "điều_255.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_255.txt",
+        "size": 1830,
+        "created_at": "2025-11-06T18:45:12.166280"
+      },
+      {
+        "filename": "điều_256.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_256.txt",
+        "size": 870,
+        "created_at": "2025-11-06T18:45:12.173468"
+      },
+      {
+        "filename": "điều_257.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_257.txt",
+        "size": 1601,
+        "created_at": "2025-11-06T18:45:12.177825"
+      },
+      {
+        "filename": "điều_258.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_258.txt",
+        "size": 1538,
+        "created_at": "2025-11-06T18:45:12.187648"
+      },
+      {
+        "filename": "điều_259.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_259.txt",
+        "size": 2361,
+        "created_at": "2025-11-06T18:45:12.191722"
+      },
+      {
+        "filename": "điều_260.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_260.txt",
+        "size": 3939,
+        "created_at": "2025-11-06T18:45:12.197032"
+      },
+      {
+        "filename": "điều_261.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_261.txt",
+        "size": 4817,
+        "created_at": "2025-11-06T18:45:12.201353"
+      },
+      {
+        "filename": "điều_262.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_262.txt",
+        "size": 3473,
+        "created_at": "2025-11-06T18:45:12.205448"
+      },
+      {
+        "filename": "điều_263.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_263.txt",
+        "size": 3890,
+        "created_at": "2025-11-06T18:45:12.210972"
+      },
+      {
+        "filename": "điều_264.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_264.txt",
+        "size": 3775,
+        "created_at": "2025-11-06T18:45:12.219262"
+      },
+      {
+        "filename": "điều_265.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_265.txt",
+        "size": 3524,
+        "created_at": "2025-11-06T18:45:12.223790"
+      },
+      {
+        "filename": "điều_266.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_266.txt",
+        "size": 3421,
+        "created_at": "2025-11-06T18:45:12.230207"
+      },
+      {
+        "filename": "điều_267.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_267.txt",
+        "size": 4201,
+        "created_at": "2025-11-06T18:45:12.234580"
+      },
+      {
+        "filename": "điều_268.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_268.txt",
+        "size": 5046,
+        "created_at": "2025-11-06T18:45:12.238500"
+      },
+      {
+        "filename": "điều_269.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_269.txt",
+        "size": 3774,
+        "created_at": "2025-11-06T18:45:12.243077"
+      },
+      {
+        "filename": "điều_270.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_270.txt",
+        "size": 3904,
+        "created_at": "2025-11-06T18:45:12.249208"
+      },
+      {
+        "filename": "điều_271.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_271.txt",
+        "size": 3855,
+        "created_at": "2025-11-06T18:45:12.253360"
+      },
+      {
+        "filename": "điều_272.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_272.txt",
+        "size": 4177,
+        "created_at": "2025-11-06T18:45:12.257257"
+      },
+      {
+        "filename": "điều_273.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_273.txt",
+        "size": 4120,
+        "created_at": "2025-11-06T18:45:12.265267"
+      },
+      {
+        "filename": "điều_274.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_274.txt",
+        "size": 3787,
+        "created_at": "2025-11-06T18:45:12.270424"
+      },
+      {
+        "filename": "điều_275.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_275.txt",
+        "size": 3722,
+        "created_at": "2025-11-06T18:45:12.274490"
+      },
+      {
+        "filename": "điều_276.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_276.txt",
+        "size": 3725,
+        "created_at": "2025-11-06T18:45:12.278722"
+      },
+      {
+        "filename": "điều_277.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_277.txt",
+        "size": 2639,
+        "created_at": "2025-11-06T18:45:12.282575"
+      },
+      {
+        "filename": "điều_278.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_278.txt",
+        "size": 5376,
+        "created_at": "2025-11-06T18:45:12.286776"
+      },
+      {
+        "filename": "điều_279.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_279.txt",
+        "size": 3184,
+        "created_at": "2025-11-06T18:45:12.291238"
+      },
+      {
+        "filename": "điều_280.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_280.txt",
+        "size": 3158,
+        "created_at": "2025-11-06T18:45:12.295531"
+      },
+      {
+        "filename": "điều_281.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_281.txt",
+        "size": 4566,
+        "created_at": "2025-11-06T18:45:12.299494"
+      },
+      {
+        "filename": "điều_282.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_282.txt",
+        "size": 1776,
+        "created_at": "2025-11-06T18:45:12.303730"
+      },
+      {
+        "filename": "điều_283.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_283.txt",
+        "size": 3437,
+        "created_at": "2025-11-06T18:45:12.307469"
+      },
+      {
+        "filename": "điều_284.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_284.txt",
+        "size": 4237,
+        "created_at": "2025-11-06T18:45:12.311500"
+      },
+      {
+        "filename": "điều_285.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_285.txt",
+        "size": 1712,
+        "created_at": "2025-11-06T18:45:12.315297"
+      },
+      {
+        "filename": "điều_286.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_286.txt",
+        "size": 2673,
+        "created_at": "2025-11-06T18:45:12.319537"
+      },
+      {
+        "filename": "điều_287.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_287.txt",
+        "size": 3509,
+        "created_at": "2025-11-06T18:45:12.323298"
+      },
+      {
+        "filename": "điều_288.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_288.txt",
+        "size": 2109,
+        "created_at": "2025-11-06T18:45:12.327415"
+      },
+      {
+        "filename": "điều_289.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_289.txt",
+        "size": 2236,
+        "created_at": "2025-11-06T18:45:12.331076"
+      },
+      {
+        "filename": "điều_290.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_290.txt",
+        "size": 2872,
+        "created_at": "2025-11-06T18:45:12.334860"
+      },
+      {
+        "filename": "điều_291.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_291.txt",
+        "size": 1905,
+        "created_at": "2025-11-06T18:45:12.338490"
+      },
+      {
+        "filename": "điều_292.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_292.txt",
+        "size": 1955,
+        "created_at": "2025-11-06T18:45:12.342582"
+      },
+      {
+        "filename": "điều_293.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_293.txt",
+        "size": 997,
+        "created_at": "2025-11-06T18:45:12.346135"
+      },
+      {
+        "filename": "điều_294.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_294.txt",
+        "size": 852,
+        "created_at": "2025-11-06T18:45:12.350052"
+      },
+      {
+        "filename": "điều_295.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_295.txt",
+        "size": 3604,
+        "created_at": "2025-11-06T18:45:12.353945"
+      },
+      {
+        "filename": "điều_296.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_296.txt",
+        "size": 2353,
+        "created_at": "2025-11-06T18:45:12.358195"
+      },
+      {
+        "filename": "điều_297.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_297.txt",
+        "size": 2541,
+        "created_at": "2025-11-06T18:45:12.361710"
+      },
+      {
+        "filename": "điều_298.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_298.txt",
+        "size": 3574,
+        "created_at": "2025-11-06T18:45:12.365477"
+      },
+      {
+        "filename": "điều_299.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_299.txt",
+        "size": 1356,
+        "created_at": "2025-11-06T18:45:12.369088"
+      },
+      {
+        "filename": "điều_300.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_300.txt",
+        "size": 504,
+        "created_at": "2025-11-06T18:45:12.372827"
+      },
+      {
+        "filename": "điều_301.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_301.txt",
+        "size": 2870,
+        "created_at": "2025-11-06T18:45:12.376598"
+      },
+      {
+        "filename": "điều_302.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_302.txt",
+        "size": 2961,
+        "created_at": "2025-11-06T18:45:12.380724"
+      },
+      {
+        "filename": "điều_303.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_303.txt",
+        "size": 1591,
+        "created_at": "2025-11-06T18:45:12.384899"
+      },
+      {
+        "filename": "điều_304.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_304.txt",
+        "size": 4731,
+        "created_at": "2025-11-06T18:45:12.389415"
+      },
+      {
+        "filename": "điều_305.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_305.txt",
+        "size": 3111,
+        "created_at": "2025-11-06T18:45:12.393620"
+      },
+      {
+        "filename": "điều_306.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_306.txt",
+        "size": 2068,
+        "created_at": "2025-11-06T18:45:12.398091"
+      },
+      {
+        "filename": "điều_307.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_307.txt",
+        "size": 3298,
+        "created_at": "2025-11-06T18:45:12.402224"
+      },
+      {
+        "filename": "điều_308.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_308.txt",
+        "size": 3193,
+        "created_at": "2025-11-06T18:45:12.406742"
+      },
+      {
+        "filename": "điều_309.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_309.txt",
+        "size": 3288,
+        "created_at": "2025-11-06T18:45:12.412364"
+      },
+      {
+        "filename": "điều_310.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_310.txt",
+        "size": 3301,
+        "created_at": "2025-11-06T18:45:12.418844"
+      },
+      {
+        "filename": "điều_311.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_311.txt",
+        "size": 3405,
+        "created_at": "2025-11-06T18:45:12.424309"
+      },
+      {
+        "filename": "điều_312.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_312.txt",
+        "size": 2966,
+        "created_at": "2025-11-06T18:45:12.432473"
+      },
+      {
+        "filename": "điều_313.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_313.txt",
+        "size": 3183,
+        "created_at": "2025-11-06T18:45:12.452654"
+      },
+      {
+        "filename": "điều_314.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_314.txt",
+        "size": 3328,
+        "created_at": "2025-11-06T18:45:12.460004"
+      },
+      {
+        "filename": "điều_315.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_315.txt",
+        "size": 3388,
+        "created_at": "2025-11-06T18:45:12.464107"
+      },
+      {
+        "filename": "điều_316.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_316.txt",
+        "size": 6441,
+        "created_at": "2025-11-06T18:45:12.468468"
+      },
+      {
+        "filename": "điều_318.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_318.txt",
+        "size": 967,
+        "created_at": "2025-11-06T18:45:12.472720"
+      },
+      {
+        "filename": "điều_319.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_319.txt",
+        "size": 720,
+        "created_at": "2025-11-06T18:45:12.476964"
+      },
+      {
+        "filename": "điều_320.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_320.txt",
+        "size": 878,
+        "created_at": "2025-11-06T18:45:12.480835"
+      },
+      {
+        "filename": "điều_321.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_321.txt",
+        "size": 1164,
+        "created_at": "2025-11-06T18:45:12.485092"
+      },
+      {
+        "filename": "điều_322.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_322.txt",
+        "size": 1753,
+        "created_at": "2025-11-06T18:45:12.489269"
+      },
+      {
+        "filename": "điều_323.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_323.txt",
+        "size": 1555,
+        "created_at": "2025-11-06T18:45:12.493490"
+      },
+      {
+        "filename": "điều_324.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_324.txt",
+        "size": 2617,
+        "created_at": "2025-11-06T18:45:12.497337"
+      },
+      {
+        "filename": "điều_325.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_325.txt",
+        "size": 1532,
+        "created_at": "2025-11-06T18:45:12.503725"
+      },
+      {
+        "filename": "điều_326.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_326.txt",
+        "size": 2268,
+        "created_at": "2025-11-06T18:45:12.507748"
+      },
+      {
+        "filename": "điều_327.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_327.txt",
+        "size": 1602,
+        "created_at": "2025-11-06T18:45:12.512024"
+      },
+      {
+        "filename": "điều_328.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_328.txt",
+        "size": 1012,
+        "created_at": "2025-11-06T18:45:12.517826"
+      },
+      {
+        "filename": "điều_329.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_329.txt",
+        "size": 1121,
+        "created_at": "2025-11-06T18:45:12.523320"
+      },
+      {
+        "filename": "điều_330.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_330.txt",
+        "size": 748,
+        "created_at": "2025-11-06T18:45:12.528710"
+      },
+      {
+        "filename": "điều_331.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_331.txt",
+        "size": 740,
+        "created_at": "2025-11-06T18:45:12.534415"
+      },
+      {
+        "filename": "điều_332.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_332.txt",
+        "size": 807,
+        "created_at": "2025-11-06T18:45:12.539505"
+      },
+      {
+        "filename": "điều_333.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_333.txt",
+        "size": 815,
+        "created_at": "2025-11-06T18:45:12.545093"
+      },
+      {
+        "filename": "điều_334.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_334.txt",
+        "size": 585,
+        "created_at": "2025-11-06T18:45:12.550451"
+      },
+      {
+        "filename": "điều_335.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_335.txt",
+        "size": 495,
+        "created_at": "2025-11-06T18:45:12.556840"
+      },
+      {
+        "filename": "điều_336.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_336.txt",
+        "size": 847,
+        "created_at": "2025-11-06T18:45:12.563374"
+      },
+      {
+        "filename": "điều_337.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_337.txt",
+        "size": 1221,
+        "created_at": "2025-11-06T18:45:12.569441"
+      },
+      {
+        "filename": "điều_338.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_338.txt",
+        "size": 875,
+        "created_at": "2025-11-06T18:45:12.575187"
+      },
+      {
+        "filename": "điều_339.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_339.txt",
+        "size": 366,
+        "created_at": "2025-11-06T18:45:12.579440"
+      },
+      {
+        "filename": "điều_340.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_340.txt",
+        "size": 1295,
+        "created_at": "2025-11-06T18:45:12.583551"
+      },
+      {
+        "filename": "điều_341.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_341.txt",
+        "size": 1507,
+        "created_at": "2025-11-06T18:45:12.587804"
+      },
+      {
+        "filename": "điều_342.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_342.txt",
+        "size": 988,
+        "created_at": "2025-11-06T18:45:12.591654"
+      },
+      {
+        "filename": "điều_343.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_343.txt",
+        "size": 625,
+        "created_at": "2025-11-06T18:45:12.596074"
+      },
+      {
+        "filename": "điều_344.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_344.txt",
+        "size": 2908,
+        "created_at": "2025-11-06T18:45:12.599757"
+      },
+      {
+        "filename": "điều_345.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_345.txt",
+        "size": 1350,
+        "created_at": "2025-11-06T18:45:12.604356"
+      },
+      {
+        "filename": "điều_346.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_346.txt",
+        "size": 814,
+        "created_at": "2025-11-06T18:45:12.608174"
+      },
+      {
+        "filename": "điều_347.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_347.txt",
+        "size": 417,
+        "created_at": "2025-11-06T18:45:12.612965"
+      },
+      {
+        "filename": "điều_348.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_348.txt",
+        "size": 1224,
+        "created_at": "2025-11-06T18:45:12.616879"
+      },
+      {
+        "filename": "điều_349.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_349.txt",
+        "size": 1291,
+        "created_at": "2025-11-06T18:45:12.620980"
+      },
+      {
+        "filename": "điều_350.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_350.txt",
+        "size": 840,
+        "created_at": "2025-11-06T18:45:12.625038"
+      },
+      {
+        "filename": "điều_351.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_351.txt",
+        "size": 310,
+        "created_at": "2025-11-06T18:45:12.629122"
+      },
+      {
+        "filename": "điều_352.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_352.txt",
+        "size": 643,
+        "created_at": "2025-11-06T18:45:12.632990"
+      },
+      {
+        "filename": "điều_353.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_353.txt",
+        "size": 2751,
+        "created_at": "2025-11-06T18:45:12.637134"
+      },
+      {
+        "filename": "điều_354.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_354.txt",
+        "size": 2597,
+        "created_at": "2025-11-06T18:45:12.640941"
+      },
+      {
+        "filename": "điều_355.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_355.txt",
+        "size": 2443,
+        "created_at": "2025-11-06T18:45:12.645058"
+      },
+      {
+        "filename": "điều_356.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_356.txt",
+        "size": 1156,
+        "created_at": "2025-11-06T18:45:12.651453"
+      },
+      {
+        "filename": "điều_357.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_357.txt",
+        "size": 1232,
+        "created_at": "2025-11-06T18:45:12.656103"
+      },
+      {
+        "filename": "điều_358.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_358.txt",
+        "size": 2144,
+        "created_at": "2025-11-06T18:45:12.660267"
+      },
+      {
+        "filename": "điều_359.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_359.txt",
+        "size": 1694,
+        "created_at": "2025-11-06T18:45:12.664584"
+      },
+      {
+        "filename": "điều_360.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_360.txt",
+        "size": 3154,
+        "created_at": "2025-11-06T18:45:12.668577"
+      },
+      {
+        "filename": "điều_361.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_361.txt",
+        "size": 1122,
+        "created_at": "2025-11-06T18:45:12.672970"
+      },
+      {
+        "filename": "điều_362.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_362.txt",
+        "size": 1232,
+        "created_at": "2025-11-06T18:45:12.677305"
+      },
+      {
+        "filename": "điều_363.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_363.txt",
+        "size": 1156,
+        "created_at": "2025-11-06T18:45:12.681574"
+      },
+      {
+        "filename": "điều_364.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_364.txt",
+        "size": 2513,
+        "created_at": "2025-11-06T18:45:12.685652"
+      },
+      {
+        "filename": "điều_365.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_365.txt",
+        "size": 1710,
+        "created_at": "2025-11-06T18:45:12.690623"
+      },
+      {
+        "filename": "điều_366.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_366.txt",
+        "size": 1521,
+        "created_at": "2025-11-06T18:45:12.694696"
+      },
+      {
+        "filename": "điều_367.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_367.txt",
+        "size": 221,
+        "created_at": "2025-11-06T18:45:12.698938"
+      },
+      {
+        "filename": "điều_368.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_368.txt",
+        "size": 1543,
+        "created_at": "2025-11-06T18:45:12.703003"
+      },
+      {
+        "filename": "điều_369.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_369.txt",
+        "size": 1678,
+        "created_at": "2025-11-06T18:45:12.706951"
+      },
+      {
+        "filename": "điều_370.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_370.txt",
+        "size": 1925,
+        "created_at": "2025-11-06T18:45:12.711274"
+      },
+      {
+        "filename": "điều_371.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_371.txt",
+        "size": 2255,
+        "created_at": "2025-11-06T18:45:12.715698"
+      },
+      {
+        "filename": "điều_372.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_372.txt",
+        "size": 1445,
+        "created_at": "2025-11-06T18:45:12.719605"
+      },
+      {
+        "filename": "điều_373.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_373.txt",
+        "size": 1568,
+        "created_at": "2025-11-06T18:45:12.723907"
+      },
+      {
+        "filename": "điều_374.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_374.txt",
+        "size": 1741,
+        "created_at": "2025-11-06T18:45:12.728030"
+      },
+      {
+        "filename": "điều_375.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_375.txt",
+        "size": 1533,
+        "created_at": "2025-11-06T18:45:12.732165"
+      },
+      {
+        "filename": "điều_376.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_376.txt",
+        "size": 1838,
+        "created_at": "2025-11-06T18:45:12.736005"
+      },
+      {
+        "filename": "điều_377.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_377.txt",
+        "size": 2224,
+        "created_at": "2025-11-06T18:45:12.740250"
+      },
+      {
+        "filename": "điều_378.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_378.txt",
+        "size": 1660,
+        "created_at": "2025-11-06T18:45:12.744573"
+      },
+      {
+        "filename": "điều_379.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_379.txt",
+        "size": 2124,
+        "created_at": "2025-11-06T18:45:12.748680"
+      },
+      {
+        "filename": "điều_380.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_380.txt",
+        "size": 799,
+        "created_at": "2025-11-06T18:45:12.752540"
+      },
+      {
+        "filename": "điều_381.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_381.txt",
+        "size": 1478,
+        "created_at": "2025-11-06T18:45:12.756903"
+      },
+      {
+        "filename": "điều_382.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_382.txt",
+        "size": 1123,
+        "created_at": "2025-11-06T18:45:12.766167"
+      },
+      {
+        "filename": "điều_383.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_383.txt",
+        "size": 860,
+        "created_at": "2025-11-06T18:45:12.770794"
+      },
+      {
+        "filename": "điều_384.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_384.txt",
+        "size": 1042,
+        "created_at": "2025-11-06T18:45:12.774846"
+      },
+      {
+        "filename": "điều_385.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_385.txt",
+        "size": 1294,
+        "created_at": "2025-11-06T18:45:12.778949"
+      },
+      {
+        "filename": "điều_386.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_386.txt",
+        "size": 508,
+        "created_at": "2025-11-06T18:45:12.784151"
+      },
+      {
+        "filename": "điều_387.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_387.txt",
+        "size": 960,
+        "created_at": "2025-11-06T18:45:12.788124"
+      },
+      {
+        "filename": "điều_388.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_388.txt",
+        "size": 1385,
+        "created_at": "2025-11-06T18:45:12.792072"
+      },
+      {
+        "filename": "điều_389.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_389.txt",
+        "size": 7767,
+        "created_at": "2025-11-06T18:45:12.796300"
+      },
+      {
+        "filename": "điều_390.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_390.txt",
+        "size": 720,
+        "created_at": "2025-11-06T18:45:12.800254"
+      },
+      {
+        "filename": "điều_391.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_391.txt",
+        "size": 907,
+        "created_at": "2025-11-06T18:45:12.804175"
+      },
+      {
+        "filename": "điều_392.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_392.txt",
+        "size": 483,
+        "created_at": "2025-11-06T18:45:12.808122"
+      },
+      {
+        "filename": "điều_393.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_393.txt",
+        "size": 794,
+        "created_at": "2025-11-06T18:45:12.812486"
+      },
+      {
+        "filename": "điều_394.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_394.txt",
+        "size": 930,
+        "created_at": "2025-11-06T18:45:12.816399"
+      },
+      {
+        "filename": "điều_395.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_395.txt",
+        "size": 698,
+        "created_at": "2025-11-06T18:45:12.820408"
+      },
+      {
+        "filename": "điều_396.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_396.txt",
+        "size": 991,
+        "created_at": "2025-11-06T18:45:12.824664"
+      },
+      {
+        "filename": "điều_397.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_397.txt",
+        "size": 742,
+        "created_at": "2025-11-06T18:45:12.828709"
+      },
+      {
+        "filename": "điều_398.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_398.txt",
+        "size": 761,
+        "created_at": "2025-11-06T18:45:12.832723"
+      },
+      {
+        "filename": "điều_399.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_399.txt",
+        "size": 857,
+        "created_at": "2025-11-06T18:45:12.837325"
+      },
+      {
+        "filename": "điều_400.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_400.txt",
+        "size": 905,
+        "created_at": "2025-11-06T18:45:12.841453"
+      },
+      {
+        "filename": "điều_401.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_401.txt",
+        "size": 746,
+        "created_at": "2025-11-06T18:45:12.845417"
+      },
+      {
+        "filename": "điều_402.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_402.txt",
+        "size": 1045,
+        "created_at": "2025-11-06T18:45:12.849655"
+      },
+      {
+        "filename": "điều_403.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_403.txt",
+        "size": 827,
+        "created_at": "2025-11-06T18:45:12.853739"
+      },
+      {
+        "filename": "điều_404.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_404.txt",
+        "size": 627,
+        "created_at": "2025-11-06T18:45:12.857679"
+      },
+      {
+        "filename": "điều_405.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_405.txt",
+        "size": 705,
+        "created_at": "2025-11-06T18:45:12.861730"
+      },
+      {
+        "filename": "điều_406.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_406.txt",
+        "size": 682,
+        "created_at": "2025-11-06T18:45:12.866422"
+      },
+      {
+        "filename": "điều_407.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_407.txt",
+        "size": 694,
+        "created_at": "2025-11-06T18:45:12.870452"
+      },
+      {
+        "filename": "điều_408.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_408.txt",
+        "size": 546,
+        "created_at": "2025-11-06T18:45:12.874530"
+      },
+      {
+        "filename": "điều_409.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_409.txt",
+        "size": 709,
+        "created_at": "2025-11-06T18:45:12.878943"
+      },
+      {
+        "filename": "điều_410.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_410.txt",
+        "size": 1049,
+        "created_at": "2025-11-06T18:45:12.882969"
+      },
+      {
+        "filename": "điều_411.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_411.txt",
+        "size": 552,
+        "created_at": "2025-11-06T18:45:12.887457"
+      },
+      {
+        "filename": "điều_412.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_412.txt",
+        "size": 635,
+        "created_at": "2025-11-06T18:45:12.892129"
+      },
+      {
+        "filename": "điều_413.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_413.txt",
+        "size": 840,
+        "created_at": "2025-11-06T18:45:12.896359"
+      },
+      {
+        "filename": "điều_414.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_414.txt",
+        "size": 582,
+        "created_at": "2025-11-06T18:45:12.900326"
+      },
+      {
+        "filename": "điều_415.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_415.txt",
+        "size": 706,
+        "created_at": "2025-11-06T18:45:12.905121"
+      },
+      {
+        "filename": "điều_416.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_416.txt",
+        "size": 601,
+        "created_at": "2025-11-06T18:45:12.909082"
+      },
+      {
+        "filename": "điều_417.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_417.txt",
+        "size": 679,
+        "created_at": "2025-11-06T18:45:12.913298"
+      },
+      {
+        "filename": "điều_418.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_418.txt",
+        "size": 501,
+        "created_at": "2025-11-06T18:45:12.917664"
+      },
+      {
+        "filename": "điều_419.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_419.txt",
+        "size": 1063,
+        "created_at": "2025-11-06T18:45:12.921855"
+      },
+      {
+        "filename": "điều_420.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_420.txt",
+        "size": 320,
+        "created_at": "2025-11-06T18:45:12.925898"
+      },
+      {
+        "filename": "điều_421.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_421.txt",
+        "size": 636,
+        "created_at": "2025-11-06T18:45:12.930253"
+      },
+      {
+        "filename": "điều_422.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_422.txt",
+        "size": 811,
+        "created_at": "2025-11-06T18:45:12.934073"
+      },
+      {
+        "filename": "điều_423.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_423.txt",
+        "size": 790,
+        "created_at": "2025-11-06T18:45:12.938461"
+      },
+      {
+        "filename": "điều_424.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_424.txt",
+        "size": 342,
+        "created_at": "2025-11-06T18:45:12.942469"
+      },
+      {
+        "filename": "điều_425.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_425.txt",
+        "size": 269,
+        "created_at": "2025-11-06T18:45:12.947151"
+      },
+      {
+        "filename": "điều_426.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/bo_luat_hinh_su/output_bo_luat_hinh_su/điều_426.txt",
+        "size": 519,
+        "created_at": "2025-11-06T18:45:12.951826"
+      }
+    ]
+  },
+  {
+    "id": "850f3582-347d-48a4-b9d1-be93bd6283d4",
+    "filename": "luat_hon_nhan_va_gia_dinh.pdf",
+    "original_name": "luat_hon_nhan_va_gia_dinh.pdf",
+    "doc_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh",
+    "output_dir": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh",
+    "type": "pdf",
+    "size": 249342,
+    "law_type": "Luật Hôn nhân và Gia đình",
+    "uploaded_at": "2025-11-06T18:51:01.408967",
+    "status": "indexed",
+    "chunks": [
+      {
+        "filename": "điều_1.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_1.txt",
+        "size": 331,
+        "created_at": "2025-11-06T18:51:02.856420"
+      },
+      {
+        "filename": "điều_2.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_2.txt",
+        "size": 1213,
+        "created_at": "2025-11-06T18:51:02.862110"
+      },
+      {
+        "filename": "điều_3.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_3.txt",
+        "size": 7168,
+        "created_at": "2025-11-06T18:51:02.866217"
+      },
+      {
+        "filename": "điều_4.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_4.txt",
+        "size": 1670,
+        "created_at": "2025-11-06T18:51:02.870448"
+      },
+      {
+        "filename": "điều_5.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_5.txt",
+        "size": 121,
+        "created_at": "2025-11-06T18:51:02.875643"
+      },
+      {
+        "filename": "điều_6.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_6.txt",
+        "size": 347,
+        "created_at": "2025-11-06T18:51:02.879818"
+      },
+      {
+        "filename": "điều_7.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_7.txt",
+        "size": 462,
+        "created_at": "2025-11-06T18:51:02.883974"
+      },
+      {
+        "filename": "điều_8.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_8.txt",
+        "size": 466,
+        "created_at": "2025-11-06T18:51:02.888119"
+      },
+      {
+        "filename": "điều_5.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_5.txt",
+        "size": 121,
+        "created_at": "2025-11-06T18:51:02.892308"
+      },
+      {
+        "filename": "điều_9.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_9.txt",
+        "size": 443,
+        "created_at": "2025-11-06T18:51:02.896605"
+      },
+      {
+        "filename": "điều_10.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_10.txt",
+        "size": 1447,
+        "created_at": "2025-11-06T18:51:02.900786"
+      },
+      {
+        "filename": "điều_11.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_11.txt",
+        "size": 1286,
+        "created_at": "2025-11-06T18:51:02.905059"
+      },
+      {
+        "filename": "điều_12.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_12.txt",
+        "size": 507,
+        "created_at": "2025-11-06T18:51:02.909141"
+      },
+      {
+        "filename": "điều_13.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_13.txt",
+        "size": 566,
+        "created_at": "2025-11-06T18:51:02.920827"
+      },
+      {
+        "filename": "điều_14.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_14.txt",
+        "size": 867,
+        "created_at": "2025-11-06T18:51:02.925076"
+      },
+      {
+        "filename": "điều_15.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_15.txt",
+        "size": 360,
+        "created_at": "2025-11-06T18:51:02.929288"
+      },
+      {
+        "filename": "điều_16.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_16.txt",
+        "size": 918,
+        "created_at": "2025-11-06T18:51:02.933457"
+      },
+      {
+        "filename": "điều_17.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_17.txt",
+        "size": 345,
+        "created_at": "2025-11-06T18:51:02.937384"
+      },
+      {
+        "filename": "điều_18.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_18.txt",
+        "size": 267,
+        "created_at": "2025-11-06T18:51:02.944442"
+      },
+      {
+        "filename": "điều_19.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_19.txt",
+        "size": 519,
+        "created_at": "2025-11-06T18:51:02.948423"
+      },
+      {
+        "filename": "điều_20.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_20.txt",
+        "size": 228,
+        "created_at": "2025-11-06T18:51:02.952388"
+      },
+      {
+        "filename": "điều_21.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_21.txt",
+        "size": 191,
+        "created_at": "2025-11-06T18:51:02.956628"
+      },
+      {
+        "filename": "điều_22.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_22.txt",
+        "size": 186,
+        "created_at": "2025-11-06T18:51:02.960492"
+      },
+      {
+        "filename": "điều_23.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_23.txt",
+        "size": 430,
+        "created_at": "2025-11-06T18:51:02.964344"
+      },
+      {
+        "filename": "điều_24.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_24.txt",
+        "size": 1400,
+        "created_at": "2025-11-06T18:51:02.968406"
+      },
+      {
+        "filename": "điều_25.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_25.txt",
+        "size": 594,
+        "created_at": "2025-11-06T18:51:02.972365"
+      },
+      {
+        "filename": "điều_26.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_26.txt",
+        "size": 1094,
+        "created_at": "2025-11-06T18:51:02.976373"
+      },
+      {
+        "filename": "điều_27.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_27.txt",
+        "size": 502,
+        "created_at": "2025-11-06T18:51:02.980434"
+      },
+      {
+        "filename": "điều_28.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_28.txt",
+        "size": 852,
+        "created_at": "2025-11-06T18:51:02.984702"
+      },
+      {
+        "filename": "điều_29.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_29.txt",
+        "size": 665,
+        "created_at": "2025-11-06T18:51:02.989910"
+      },
+      {
+        "filename": "điều_30.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_30.txt",
+        "size": 520,
+        "created_at": "2025-11-06T18:51:02.996674"
+      },
+      {
+        "filename": "điều_31.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_31.txt",
+        "size": 529,
+        "created_at": "2025-11-06T18:51:03.000650"
+      },
+      {
+        "filename": "điều_32.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_32.txt",
+        "size": 942,
+        "created_at": "2025-11-06T18:51:03.005491"
+      },
+      {
+        "filename": "điều_33.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_33.txt",
+        "size": 1260,
+        "created_at": "2025-11-06T18:51:03.009594"
+      },
+      {
+        "filename": "điều_34.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_34.txt",
+        "size": 878,
+        "created_at": "2025-11-06T18:51:03.013998"
+      },
+      {
+        "filename": "điều_35.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_35.txt",
+        "size": 529,
+        "created_at": "2025-11-06T18:51:03.017910"
+      },
+      {
+        "filename": "điều_36.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_36.txt",
+        "size": 337,
+        "created_at": "2025-11-06T18:51:03.024383"
+      },
+      {
+        "filename": "điều_37.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_37.txt",
+        "size": 980,
+        "created_at": "2025-11-06T18:51:03.028329"
+      },
+      {
+        "filename": "điều_38.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_38.txt",
+        "size": 736,
+        "created_at": "2025-11-06T18:51:03.035818"
+      },
+      {
+        "filename": "điều_39.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_39.txt",
+        "size": 1259,
+        "created_at": "2025-11-06T18:51:03.040240"
+      },
+      {
+        "filename": "điều_40.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_40.txt",
+        "size": 707,
+        "created_at": "2025-11-06T18:51:03.044344"
+      },
+      {
+        "filename": "điều_41.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_41.txt",
+        "size": 1346,
+        "created_at": "2025-11-06T18:51:03.050468"
+      },
+      {
+        "filename": "điều_42.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_42.txt",
+        "size": 1019,
+        "created_at": "2025-11-06T18:51:03.054593"
+      },
+      {
+        "filename": "điều_43.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_43.txt",
+        "size": 872,
+        "created_at": "2025-11-06T18:51:03.058653"
+      },
+      {
+        "filename": "điều_44.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_44.txt",
+        "size": 929,
+        "created_at": "2025-11-06T18:51:03.062719"
+      },
+      {
+        "filename": "điều_45.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_45.txt",
+        "size": 756,
+        "created_at": "2025-11-06T18:51:03.066778"
+      },
+      {
+        "filename": "điều_46.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_46.txt",
+        "size": 699,
+        "created_at": "2025-11-06T18:51:03.070866"
+      },
+      {
+        "filename": "điều_47.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_47.txt",
+        "size": 443,
+        "created_at": "2025-11-06T18:51:03.075184"
+      },
+      {
+        "filename": "điều_48.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_48.txt",
+        "size": 970,
+        "created_at": "2025-11-06T18:51:03.079029"
+      },
+      {
+        "filename": "điều_49.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_49.txt",
+        "size": 404,
+        "created_at": "2025-11-06T18:51:03.083021"
+      },
+      {
+        "filename": "điều_50.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_50.txt",
+        "size": 946,
+        "created_at": "2025-11-06T18:51:03.087182"
+      },
+      {
+        "filename": "điều_51.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_51.txt",
+        "size": 746,
+        "created_at": "2025-11-06T18:51:03.091702"
+      },
+      {
+        "filename": "điều_52.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_52.txt",
+        "size": 279,
+        "created_at": "2025-11-06T18:51:03.096591"
+      },
+      {
+        "filename": "điều_53.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_53.txt",
+        "size": 518,
+        "created_at": "2025-11-06T18:51:03.100798"
+      },
+      {
+        "filename": "điều_54.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_54.txt",
+        "size": 186,
+        "created_at": "2025-11-06T18:51:03.105047"
+      },
+      {
+        "filename": "điều_55.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_55.txt",
+        "size": 579,
+        "created_at": "2025-11-06T18:51:03.109471"
+      },
+      {
+        "filename": "điều_56.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_56.txt",
+        "size": 994,
+        "created_at": "2025-11-06T18:51:03.113659"
+      },
+      {
+        "filename": "điều_57.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_57.txt",
+        "size": 614,
+        "created_at": "2025-11-06T18:51:03.117645"
+      },
+      {
+        "filename": "điều_58.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_58.txt",
+        "size": 244,
+        "created_at": "2025-11-06T18:51:03.121743"
+      },
+      {
+        "filename": "điều_59.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_59.txt",
+        "size": 2787,
+        "created_at": "2025-11-06T18:51:03.125744"
+      },
+      {
+        "filename": "điều_60.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_60.txt",
+        "size": 553,
+        "created_at": "2025-11-06T18:51:03.129884"
+      },
+      {
+        "filename": "điều_61.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_61.txt",
+        "size": 1117,
+        "created_at": "2025-11-06T18:51:03.134092"
+      },
+      {
+        "filename": "điều_62.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_62.txt",
+        "size": 1914,
+        "created_at": "2025-11-06T18:51:03.138103"
+      },
+      {
+        "filename": "điều_63.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_63.txt",
+        "size": 461,
+        "created_at": "2025-11-06T18:51:03.142432"
+      },
+      {
+        "filename": "điều_64.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_64.txt",
+        "size": 487,
+        "created_at": "2025-11-06T18:51:03.146649"
+      },
+      {
+        "filename": "điều_65.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_65.txt",
+        "size": 353,
+        "created_at": "2025-11-06T18:51:03.151243"
+      },
+      {
+        "filename": "điều_66.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_66.txt",
+        "size": 1332,
+        "created_at": "2025-11-06T18:51:03.157184"
+      },
+      {
+        "filename": "điều_67.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_67.txt",
+        "size": 1816,
+        "created_at": "2025-11-06T18:51:03.162357"
+      },
+      {
+        "filename": "điều_68.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_68.txt",
+        "size": 1229,
+        "created_at": "2025-11-06T18:51:03.166854"
+      },
+      {
+        "filename": "điều_69.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_69.txt",
+        "size": 1174,
+        "created_at": "2025-11-06T18:51:03.171546"
+      },
+      {
+        "filename": "điều_70.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_70.txt",
+        "size": 1699,
+        "created_at": "2025-11-06T18:51:03.176053"
+      },
+      {
+        "filename": "điều_71.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_71.txt",
+        "size": 617,
+        "created_at": "2025-11-06T18:51:03.180662"
+      },
+      {
+        "filename": "điều_72.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_72.txt",
+        "size": 780,
+        "created_at": "2025-11-06T18:51:03.185931"
+      },
+      {
+        "filename": "điều_73.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_73.txt",
+        "size": 1165,
+        "created_at": "2025-11-06T18:51:03.190517"
+      },
+      {
+        "filename": "điều_74.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_74.txt",
+        "size": 243,
+        "created_at": "2025-11-06T18:51:03.195590"
+      },
+      {
+        "filename": "điều_75.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_75.txt",
+        "size": 857,
+        "created_at": "2025-11-06T18:51:03.200414"
+      },
+      {
+        "filename": "điều_76.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_76.txt",
+        "size": 1405,
+        "created_at": "2025-11-06T18:51:03.205056"
+      },
+      {
+        "filename": "điều_77.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_77.txt",
+        "size": 951,
+        "created_at": "2025-11-06T18:51:03.213231"
+      },
+      {
+        "filename": "điều_78.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_78.txt",
+        "size": 1335,
+        "created_at": "2025-11-06T18:51:03.217933"
+      },
+      {
+        "filename": "điều_79.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_79.txt",
+        "size": 537,
+        "created_at": "2025-11-06T18:51:03.222777"
+      },
+      {
+        "filename": "điều_80.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_80.txt",
+        "size": 365,
+        "created_at": "2025-11-06T18:51:03.227927"
+      },
+      {
+        "filename": "điều_81.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_81.txt",
+        "size": 1180,
+        "created_at": "2025-11-06T18:51:03.232694"
+      },
+      {
+        "filename": "điều_82.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_82.txt",
+        "size": 781,
+        "created_at": "2025-11-06T18:51:03.237374"
+      },
+      {
+        "filename": "điều_83.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_83.txt",
+        "size": 674,
+        "created_at": "2025-11-06T18:51:03.242180"
+      },
+      {
+        "filename": "điều_84.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_84.txt",
+        "size": 1451,
+        "created_at": "2025-11-06T18:51:03.246850"
+      },
+      {
+        "filename": "điều_85.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_85.txt",
+        "size": 1096,
+        "created_at": "2025-11-06T18:51:03.251940"
+      },
+      {
+        "filename": "điều_86.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_86.txt",
+        "size": 1092,
+        "created_at": "2025-11-06T18:51:03.256639"
+      },
+      {
+        "filename": "điều_87.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_87.txt",
+        "size": 1300,
+        "created_at": "2025-11-06T18:51:03.261100"
+      },
+      {
+        "filename": "điều_88.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_88.txt",
+        "size": 602,
+        "created_at": "2025-11-06T18:51:03.265742"
+      },
+      {
+        "filename": "điều_89.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_89.txt",
+        "size": 320,
+        "created_at": "2025-11-06T18:51:03.270270"
+      },
+      {
+        "filename": "điều_90.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_90.txt",
+        "size": 294,
+        "created_at": "2025-11-06T18:51:03.274535"
+      },
+      {
+        "filename": "điều_91.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_91.txt",
+        "size": 273,
+        "created_at": "2025-11-06T18:51:03.279150"
+      },
+      {
+        "filename": "điều_92.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_92.txt",
+        "size": 349,
+        "created_at": "2025-11-06T18:51:03.283656"
+      },
+      {
+        "filename": "điều_93.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_93.txt",
+        "size": 865,
+        "created_at": "2025-11-06T18:51:03.288046"
+      },
+      {
+        "filename": "điều_94.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_94.txt",
+        "size": 282,
+        "created_at": "2025-11-06T18:51:03.292489"
+      },
+      {
+        "filename": "điều_95.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_95.txt",
+        "size": 1448,
+        "created_at": "2025-11-06T18:51:03.296798"
+      },
+      {
+        "filename": "điều_96.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_96.txt",
+        "size": 2012,
+        "created_at": "2025-11-06T18:51:03.301361"
+      },
+      {
+        "filename": "điều_97.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_97.txt",
+        "size": 1947,
+        "created_at": "2025-11-06T18:51:03.305851"
+      },
+      {
+        "filename": "điều_98.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_98.txt",
+        "size": 1692,
+        "created_at": "2025-11-06T18:51:03.310218"
+      },
+      {
+        "filename": "điều_99.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_99.txt",
+        "size": 735,
+        "created_at": "2025-11-06T18:51:03.314634"
+      },
+      {
+        "filename": "điều_100.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_100.txt",
+        "size": 421,
+        "created_at": "2025-11-06T18:51:03.318747"
+      },
+      {
+        "filename": "điều_101.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_101.txt",
+        "size": 886,
+        "created_at": "2025-11-06T18:51:03.323228"
+      },
+      {
+        "filename": "điều_102.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_102.txt",
+        "size": 1275,
+        "created_at": "2025-11-06T18:51:03.327579"
+      },
+      {
+        "filename": "điều_103.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_103.txt",
+        "size": 1123,
+        "created_at": "2025-11-06T18:51:03.332339"
+      },
+      {
+        "filename": "điều_104.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_104.txt",
+        "size": 861,
+        "created_at": "2025-11-06T18:51:03.336711"
+      },
+      {
+        "filename": "điều_105.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_105.txt",
+        "size": 327,
+        "created_at": "2025-11-06T18:51:03.341363"
+      },
+      {
+        "filename": "điều_106.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_106.txt",
+        "size": 584,
+        "created_at": "2025-11-06T18:51:03.345921"
+      },
+      {
+        "filename": "điều_107.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_107.txt",
+        "size": 774,
+        "created_at": "2025-11-06T18:51:03.350477"
+      },
+      {
+        "filename": "điều_108.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_108.txt",
+        "size": 552,
+        "created_at": "2025-11-06T18:51:03.354992"
+      },
+      {
+        "filename": "điều_109.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_109.txt",
+        "size": 537,
+        "created_at": "2025-11-06T18:51:03.359441"
+      },
+      {
+        "filename": "điều_110.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_110.txt",
+        "size": 379,
+        "created_at": "2025-11-06T18:51:03.363843"
+      },
+      {
+        "filename": "điều_111.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_111.txt",
+        "size": 293,
+        "created_at": "2025-11-06T18:51:03.368560"
+      },
+      {
+        "filename": "điều_112.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_112.txt",
+        "size": 678,
+        "created_at": "2025-11-06T18:51:03.373230"
+      },
+      {
+        "filename": "điều_113.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_113.txt",
+        "size": 798,
+        "created_at": "2025-11-06T18:51:03.377720"
+      },
+      {
+        "filename": "điều_114.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_114.txt",
+        "size": 844,
+        "created_at": "2025-11-06T18:51:03.382151"
+      },
+      {
+        "filename": "điều_115.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_115.txt",
+        "size": 259,
+        "created_at": "2025-11-06T18:51:03.386540"
+      },
+      {
+        "filename": "điều_116.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_116.txt",
+        "size": 667,
+        "created_at": "2025-11-06T18:51:03.390956"
+      },
+      {
+        "filename": "điều_117.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_117.txt",
+        "size": 548,
+        "created_at": "2025-11-06T18:51:03.396347"
+      },
+      {
+        "filename": "điều_118.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_118.txt",
+        "size": 622,
+        "created_at": "2025-11-06T18:51:03.400999"
+      },
+      {
+        "filename": "điều_119.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_119.txt",
+        "size": 1190,
+        "created_at": "2025-11-06T18:51:03.405374"
+      },
+      {
+        "filename": "điều_120.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_120.txt",
+        "size": 357,
+        "created_at": "2025-11-06T18:51:03.409990"
+      },
+      {
+        "filename": "điều_121.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_121.txt",
+        "size": 1314,
+        "created_at": "2025-11-06T18:51:03.414649"
+      },
+      {
+        "filename": "điều_122.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_122.txt",
+        "size": 1404,
+        "created_at": "2025-11-06T18:51:03.419279"
+      },
+      {
+        "filename": "điều_123.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_123.txt",
+        "size": 1085,
+        "created_at": "2025-11-06T18:51:03.423642"
+      },
+      {
+        "filename": "điều_124.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_124.txt",
+        "size": 529,
+        "created_at": "2025-11-06T18:51:03.428221"
+      },
+      {
+        "filename": "điều_125.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_125.txt",
+        "size": 794,
+        "created_at": "2025-11-06T18:51:03.432826"
+      },
+      {
+        "filename": "điều_126.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_126.txt",
+        "size": 690,
+        "created_at": "2025-11-06T18:51:03.437540"
+      },
+      {
+        "filename": "điều_127.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_127.txt",
+        "size": 828,
+        "created_at": "2025-11-06T18:51:03.442450"
+      },
+      {
+        "filename": "điều_128.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_128.txt",
+        "size": 891,
+        "created_at": "2025-11-06T18:51:03.446879"
+      },
+      {
+        "filename": "điều_129.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_129.txt",
+        "size": 591,
+        "created_at": "2025-11-06T18:51:03.451669"
+      },
+      {
+        "filename": "điều_130.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_130.txt",
+        "size": 710,
+        "created_at": "2025-11-06T18:51:03.456177"
+      },
+      {
+        "filename": "điều_131.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_131.txt",
+        "size": 749,
+        "created_at": "2025-11-06T18:51:03.460671"
+      },
+      {
+        "filename": "điều_132.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_132.txt",
+        "size": 226,
+        "created_at": "2025-11-06T18:51:03.465617"
+      },
+      {
+        "filename": "điều_133.txt",
+        "path": "/Users/coinhat/Documents/PROJECT/AI/RAG/bai6/be/storage/files/luat_hon_nhan_va_gia_dinh/output_luat_hon_nhan_va_gia_dinh/điều_133.txt",
+        "size": 508,
+        "created_at": "2025-11-06T18:51:03.469921"
+      }
+    ]
   }
 ]

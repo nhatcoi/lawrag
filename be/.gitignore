@@ -100,3 +100,5 @@ transformers_cache/
 
 # Hugging Face cache
 .cache/huggingface/
+
+storage/data/

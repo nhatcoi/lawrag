@@ -857,7 +857,7 @@
     "id": "39edd127-7109-4a1e-a7c2-6c1e99061d58",
     "title": "chào",
     "created_at": "2025-11-06T18:24:22.040478",
-    "updated_at": "2025-11-06T18:24:54.464936",
+    "updated_at": "2025-11-06T18:42:57.255512",
     "law_type_filter": "Tổng quan",
     "messages": [
       {
@@ -932,6 +932,44 @@
           {
             "id": "điều_3.txt",
             "text": "Điều 3. Giải thích từ ngữ\nTrong Bộ luật này, các từ ngữ dưới đây được hiểu như sau:\n1. Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và\nchịu sự quản lý, điều hành, giám sát của người sử dụng lao động.\nĐộ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI\ncủa Bộ luật này.\n2. Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có\nthuê mướn, sử dụng người lao động ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "luật dân sự",
+        "timestamp": "2025-11-06T18:42:51.642182",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng bạn đang hỏi về Luật Dân sự. Trong Bộ luật Dân sự, có nhiều quy định quan trọng về quyền và nghĩa vụ của cá nhân, pháp nhân trong các quan hệ dân sự.\n\nTheo Điều 86 - Bộ luật Dân sự, năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự. Điều này có nghĩa rằng pháp nhân có thể tham gia vào các quan hệ dân sự và có quyền, nghĩa vụ tương tự như cá nhân.\n\nTuy nhiên, nếu bạn muốn biết thông tin cụ thể về một vấn đề nào đó trong Luật Dân sự, vui lòng cho tôi biết chi tiết hơn về câu hỏi của bạn. Tôi sẽ cố gắng trả lời dựa trên các quy định của Bộ luật Dân sự.\n\nVí dụ, bạn muốn biết về năng lực pháp luật dân sự của cá nhân, quyền sở hữu, quyền thừa kế, hoặc các vấn đề khác trong Luật Dân sự? Hãy cho tôi biết để tôi có thể tư vấn cụ thể hơn.",
+        "timestamp": "2025-11-06T18:42:57.255499",
+        "sources": [
+          {
+            "id": "điều_86.txt",
+            "text": "Điều 86. Năng lực pháp luật dân sự của pháp nhân\n1. Năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự. Năng lực\npháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.\n2. Năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm được cơ quan nhà nước có thẩm quyền thành\nlập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì năng lực pháp luật dân sự của pháp nhân\nphát sinh",
+            "rank": 1
+          },
+          {
+            "id": "điều_4.txt",
+            "text": "Điều 4. Áp dụng Bộ luật dân sự\n1. Bộ luật này là luật chung điều chỉnh các quan hệ dân sự.\n2. Luật khác có liên quan điều chỉnh quan hệ dân sự trong các lĩnh vực cụ thể không được trái với các nguyên tắc cơ\nbản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.\n3. Trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì quy định\ncủa Bộ luật này được áp dụng.\n4. Trường hợp có sự khác nhau giữa quy định của Bộ luật này và điều ước quốc tế mà Cộng ",
+            "rank": 2
+          },
+          {
+            "id": "điều_17.txt",
+            "text": "Điều 17. Nội dung năng lực pháp luật dân sự của cá nhân\n1. Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.\n2. Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.\n3. Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.",
+            "rank": 3
+          },
+          {
+            "id": "điều_16.txt",
+            "text": "Điều 16. Năng lực pháp luật dân sự của cá nhân\n1. Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.\n2. Mọi cá nhân đều có năng lực pháp luật dân sự như nhau.\n3. Năng lực pháp luật dân sự của cá nhân có từ khi người đó sinh ra và chấm dứt khi người đó chết.",
+            "rank": 4
+          },
+          {
+            "id": "điều_689.txt",
+            "text": "Điều 689. Hiệu lực thi hành\nBộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017.\nBộ luật dân sự số 33/2005/QH11 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực.\nBộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 24\ntháng 11 năm 2015./.",
             "rank": 5
           }
         ]
@@ -1064,6 +1102,294 @@
           {
             "id": "điều_12.txt",
             "text": "Điều 12. Tự bảo vệ quyền dân sự\nViệc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được\ntrái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "54dfa41e-35e0-4943-b9f5-e276bfd5f788",
+    "title": "Tội đầu cơ là gì?",
+    "created_at": "2025-11-06T18:46:55.927810",
+    "updated_at": "2025-11-06T18:47:01.470107",
+    "law_type_filter": "Luật Hình sự",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tội đầu cơ là gì?",
+        "timestamp": "2025-11-06T18:46:55.932284",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng bạn đang hỏi về tội đầu cơ trong phạm vi của Luật Hình sự. Tuy nhiên, trong thông tin bạn cung cấp, không có điều luật cụ thể nào định nghĩa hoặc quy định về tội đầu cơ.\n\nTrong Luật Hình sự của Việt Nam, tội đầu cơ thường được quy định trong các điều luật liên quan đến các hành vi kinh tế, thương mại bất chính. Tội đầu cơ thường được hiểu là hành vi mua, bán, trao đổi, hoặc tích trữ hàng hóa, tiền tệ, hoặc các tài sản khác với mục đích tạo ra sự khan hiếm giả tạo, nhằm đẩy giá lên cao và thu lợi bất chính.\n\nTheo Điều 196 của Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017), tội đầu cơ được quy định như sau: \"Người nào lợi dụng tình hình khan hiếm hoặc tạo ra sự khan hiếm giả tạo trong tình hình thị trường để mua vét, trữ tích, đầu cơ hàng hóa, tài sản nhằm đẩy giá cả lên cao để thu lợi bất chính, thì bị phạt tiền từ 50.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 6 tháng đến 3 năm.\"\n\nTôi hy vọng thông tin này hữu ích cho bạn. Tuy nhiên, cần lưu ý rằng thông tin tôi cung cấp dựa trên kiến thức chung về Luật Hình sự và có thể không phản ánh đầy đủ hoặc chính xác các quy định pháp luật hiện hành.",
+        "timestamp": "2025-11-06T18:47:01.470084",
+        "sources": [
+          {
+            "id": "điều_15.txt",
+            "text": "Điều 15. Phạm tội chưa đạt\nPhạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý\nmuốn của người phạm tội.\nNgười phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt.",
+            "rank": 1
+          },
+          {
+            "id": "điều_335.txt",
+            "text": "Điều 335. Tội cản trở việc thực hiện nghĩa vụ quân sự\n1. Người nào cố ý cản trở việc đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cảnh\ncáo, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm.\n2. Phạm tội trong trường hợp lợi dụng chức vụ, quyền hạn hoặc trong thời chiến, thì bị phạt tù từ 02 năm đến 05\nnăm.",
+            "rank": 2
+          },
+          {
+            "id": "điều_340.txt",
+            "text": "Điều 340. Tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức\n1. Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài\nliệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành\nvi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cảnh cáo, phạt tiền từ\n10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm",
+            "rank": 3
+          },
+          {
+            "id": "điều_332.txt",
+            "text": "Điều 332. Tội trốn tránh nghĩa vụ quân sự\n1. Người nào không chấp hành đúng quy định của pháp luật về đăng ký nghĩa vụ quân sự, không chấp hành lệnh gọi\nnhập ngũ, lệnh gọi tập trung huấn luyện, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội\nnày, chưa được xóa án tích mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng\nđến 02 năm.\n2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:\na) Tự gây thương t",
+            "rank": 4
+          },
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Nhiệm vụ của Bộ luật hình sự\nBộ luật hình sự có nhiệm vụ bảo vệ chủ quyền quốc gia, an ninh của đất nước, bảo vệ chế độ xã hội chủ nghĩa,\nquyền con người, quyền công dân, bảo vệ quyền bình đẳng giữa đồng bào các dân tộc, bảo vệ lợi ích của Nhà\nnước, tổ chức, bảo vệ trật tự pháp luật, chống mọi hành vi phạm tội; giáo dục mọi người ý thức tuân theo pháp luật,\nphòng ngừa và đấu tranh chống tội phạm.\nBộ luật này quy định về tội phạm và hình phạt.",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1a2f0b22-e041-414d-a295-e4d0c0ae6099",
+    "title": "Tội đầu cơ là gì?",
+    "created_at": "2025-11-06T18:48:08.945907",
+    "updated_at": "2025-11-06T18:50:09.943065",
+    "law_type_filter": "Luật Hình sự",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tội đầu cơ là gì?",
+        "timestamp": "2025-11-06T18:48:08.954520",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Luật Hình sự, cụ thể là Bộ luật Hình sự của Việt Nam, tội đầu cơ được quy định tại Điều 196. Theo đó, người nào lợi dụng tình hình khan hiếm hoặc tạo ra sự khan hiếm giả tạo trong tình hình thị trường để mua vét, tích trữ, găm giữ hàng hóa, không để lưu thông trên thị trường nhằm đẩy giá hàng hóa lên cao để thu lợi bất chính, thì bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng hoặc phạt cải tạo không giam giữ đến 02 năm.\n\nTuy nhiên, trong văn bản bạn cung cấp, không có thông tin cụ thể về tội đầu cơ. Nhưng theo kiến thức của tôi về Bộ luật Hình sự, tội đầu cơ được định nghĩa và quy định như trên. Theo Điều 196 – Bộ luật Hình sự, người phạm tội đầu cơ có thể bị phạt tiền hoặc cải tạo không giam giữ.",
+        "timestamp": "2025-11-06T18:48:14.175683",
+        "sources": [
+          {
+            "id": "điều_15.txt",
+            "text": "Điều 15. Phạm tội chưa đạt\nPhạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý\nmuốn của người phạm tội.\nNgười phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt.",
+            "rank": 1
+          },
+          {
+            "id": "điều_335.txt",
+            "text": "Điều 335. Tội cản trở việc thực hiện nghĩa vụ quân sự\n1. Người nào cố ý cản trở việc đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cảnh\ncáo, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm.\n2. Phạm tội trong trường hợp lợi dụng chức vụ, quyền hạn hoặc trong thời chiến, thì bị phạt tù từ 02 năm đến 05\nnăm.",
+            "rank": 2
+          },
+          {
+            "id": "điều_340.txt",
+            "text": "Điều 340. Tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức\n1. Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài\nliệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành\nvi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cảnh cáo, phạt tiền từ\n10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm",
+            "rank": 3
+          },
+          {
+            "id": "điều_332.txt",
+            "text": "Điều 332. Tội trốn tránh nghĩa vụ quân sự\n1. Người nào không chấp hành đúng quy định của pháp luật về đăng ký nghĩa vụ quân sự, không chấp hành lệnh gọi\nnhập ngũ, lệnh gọi tập trung huấn luyện, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội\nnày, chưa được xóa án tích mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng\nđến 02 năm.\n2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:\na) Tự gây thương t",
+            "rank": 4
+          },
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Nhiệm vụ của Bộ luật hình sự\nBộ luật hình sự có nhiệm vụ bảo vệ chủ quyền quốc gia, an ninh của đất nước, bảo vệ chế độ xã hội chủ nghĩa,\nquyền con người, quyền công dân, bảo vệ quyền bình đẳng giữa đồng bào các dân tộc, bảo vệ lợi ích của Nhà\nnước, tổ chức, bảo vệ trật tự pháp luật, chống mọi hành vi phạm tội; giáo dục mọi người ý thức tuân theo pháp luật,\nphòng ngừa và đấu tranh chống tội phạm.\nBộ luật này quy định về tội phạm và hình phạt.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Giải thích chi tiết về Tội đầu cơ",
+        "timestamp": "2025-11-06T18:48:53.318263",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi là MrLawyerAI, luật sư chuyên nghiệp về pháp luật Việt Nam. Câu hỏi của bạn liên quan đến Tội đầu cơ trong Luật Hình sự.\n\nTội đầu cơ là một hành vi phạm tội được quy định trong Bộ luật Hình sự của Việt Nam. Tuy nhiên, trong Bộ luật Hình sự mà bạn cung cấp, không có điều khoản cụ thể nào quy định về Tội đầu cơ.\n\nTuy nhiên, theo Bộ luật Hình sự của Việt Nam, Tội đầu cơ thường được quy định tại Điều 196. Theo đó, người nào lợi dụng tình hình khan hiếm hoặc tạo ra sự khan hiếm giả tạo trong tình hình thị trường để mua vét, tích trữ, găm hàng hoặc làm cho giá cả hàng hóa, dịch vụ tăng cao nhằm thu lợi bất chính, thì bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm.\n\nTheo Điều 196, các hành vi đầu cơ bị cấm bao gồm:\n\n- Mua vét, tích trữ, găm hàng hóa\n- Tạo ra sự khan hiếm giả tạo trong tình hình thị trường\n- Làm cho giá cả hàng hóa, dịch vụ tăng cao nhằm thu lợi bất chính\n\nMức phạt đối với Tội đầu cơ có thể là phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm.\n\nLưu ý rằng các thông tin trên chỉ mang tính chất tham khảo và có thể thay đổi tùy theo các sửa đổi, bổ sung của Bộ luật Hình sự. Để có thông tin chính xác và cập nhật, bạn nên tham khảo các nguồn thông tin chính thức và tư vấn từ luật sư chuyên nghiệp.\n\nLoại luật được hỏi trong câu hỏi này là Luật Hình sự.",
+        "timestamp": "2025-11-06T18:48:59.821105",
+        "sources": [
+          {
+            "id": "điều_7.txt",
+            "text": "Điều 7. Hiệu lực của Bộ luật hình sự về thời gian\n1. Điều luật được áp dụng đối với một hành vi phạm tội là điều luật đang có hiệu lực thi hành tại thời điểm mà hành\nvi phạm tội được thực hiện.\n2. Điều luật quy định một tội phạm mới, một hình phạt nặng hơn, một tình tiết tăng nặng mới hoặc hạn chế phạm vi\náp dụng án treo, miễn trách nhiệm hình sự, loại trừ trách nhiệm hình sự, miễn hình phạt, giảm hình phạt, xóa án tích\nvà quy định khác không có lợi cho người phạm tội, thì không được áp dụng đối",
+            "rank": 1
+          },
+          {
+            "id": "điều_15.txt",
+            "text": "Điều 15. Phạm tội chưa đạt\nPhạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý\nmuốn của người phạm tội.\nNgười phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt.",
+            "rank": 2
+          },
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Nhiệm vụ của Bộ luật hình sự\nBộ luật hình sự có nhiệm vụ bảo vệ chủ quyền quốc gia, an ninh của đất nước, bảo vệ chế độ xã hội chủ nghĩa,\nquyền con người, quyền công dân, bảo vệ quyền bình đẳng giữa đồng bào các dân tộc, bảo vệ lợi ích của Nhà\nnước, tổ chức, bảo vệ trật tự pháp luật, chống mọi hành vi phạm tội; giáo dục mọi người ý thức tuân theo pháp luật,\nphòng ngừa và đấu tranh chống tội phạm.\nBộ luật này quy định về tội phạm và hình phạt.",
+            "rank": 3
+          },
+          {
+            "id": "điều_63.txt",
+            "text": "Điều 63. Giảm mức hình phạt đã tuyên\n1. Người bị kết án cải tạo không giam giữ, phạt tù có thời hạn hoặc phạt tù chung thân, nếu đã chấp hành hình phạt\nđược một thời gian nhất định, có nhiều tiến bộ và đã bồi thường được một phần nghĩa vụ dân sự, thì theo đề nghị\ncủa cơ quan thi hành án hình sự có thẩm quyền, Tòa án có thể quyết định giảm thời hạn chấp hành hình phạt.\nThời gian đã chấp hành hình phạt để được xét giảm lần đầu là một phần ba thời hạn đối với hình phạt cải tạo không\ngiam giữ, hình ",
+            "rank": 4
+          },
+          {
+            "id": "điều_62.txt",
+            "text": "án có thể quyết định miễn chấp hành toàn bộ hình phạt.\n4. Người bị kết án phạt tù đến 03 năm, đã được tạm đình chỉ chấp hành hình phạt, nếu trong thời gian được tạm\nđình chỉ mà đã lập công hoặc chấp hành tốt pháp luật, hoàn cảnh gia đình đặc biệt khó khăn và xét thấy người đó\nkhông còn nguy hiểm cho xã hội nữa, thì theo đề nghị của Viện trưởng Viện kiểm sát, Tòa án có thể quyết định miễn\nchấp hành phần hình phạt còn lại.\n5. Người bị kết án phạt tiền đã tích cực chấp hành được một phần hình phạt ",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Tội in, phát hành, mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước",
+        "timestamp": "2025-11-06T18:50:04.281651",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Theo Điều 203 của Bộ luật Hình sự, Tội in, phát hành, mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước là hành vi phạm tội nghiêm trọng. Người nào thực hiện hành vi này có thể bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.\n\nNếu hành vi phạm tội thuộc một trong các trường hợp như có tổ chức, có tính chất chuyên nghiệp, lợi dụng chức vụ, quyền hạn, hoặc gây thiệt hại cho ngân sách nhà nước từ 100.000.000 đồng trở lên, thì mức phạt có thể tăng lên từ 100.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm.\n\nTheo quy định của Bộ luật Hình sự, người phạm tội này cũng có thể bị áp dụng các hình phạt bổ sung như cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định. Ngoài ra, nếu người phạm tội đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền, thì có thể được miễn trách nhiệm hình sự về tội này.\n\nTóm lại, Tội in, phát hành, mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước là hành vi phạm tội nghiêm trọng và có thể bị xử lý hình sự theo quy định của Bộ luật Hình sự.",
+        "timestamp": "2025-11-06T18:50:09.943041",
+        "sources": [
+          {
+            "id": "điều_203.txt",
+            "text": "Điều 203. Tội in, phát hành, mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước\n1. Người nào in, phát hành, mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách nhà nước ở dạng phôi từ 50 số\nđến dưới 100 số hoặc hóa đơn, chứng từ đã ghi nội dung từ 10 số đến dưới 30 số hoặc thu lợi bất chính từ\n30.000.000 đồng đến dưới 100.000.000 đồng, thì bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, phạt cải\ntạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.\n2. Phạm tội th",
+            "rank": 1
+          },
+          {
+            "id": "điều_30.txt",
+            "text": "Điều 30. Khái niệm hình phạt\nHình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án\nquyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích\ncủa người, pháp nhân thương mại đó.",
+            "rank": 2
+          },
+          {
+            "id": "điều_110.txt",
+            "text": "3. Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm.\n4. Người đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ\nquan nhà nước có thẩm quyền, thì được miễn trách nhiệm hình sự về tội này.",
+            "rank": 3
+          },
+          {
+            "id": "điều_62.txt",
+            "text": "án có thể quyết định miễn chấp hành toàn bộ hình phạt.\n4. Người bị kết án phạt tù đến 03 năm, đã được tạm đình chỉ chấp hành hình phạt, nếu trong thời gian được tạm\nđình chỉ mà đã lập công hoặc chấp hành tốt pháp luật, hoàn cảnh gia đình đặc biệt khó khăn và xét thấy người đó\nkhông còn nguy hiểm cho xã hội nữa, thì theo đề nghị của Viện trưởng Viện kiểm sát, Tòa án có thể quyết định miễn\nchấp hành phần hình phạt còn lại.\n5. Người bị kết án phạt tiền đã tích cực chấp hành được một phần hình phạt ",
+            "rank": 4
+          },
+          {
+            "id": "điều_285.txt",
+            "text": "Điều 285. Tội sản xuất, mua bán, trao đổi hoặc tặng cho công cụ, thiết bị, phần mềm để sử dụng vào mục\nđích trái pháp luật\n1. Người nào sản xuất, mua bán, trao đổi, tặng cho công cụ, thiết bị, phần mềm có tính năng tấn công mạng máy\ntính, viễn thông, phương tiện điện tử để sử dụng vào mục đích trái pháp luật, thì bị phạt tiền từ 20.000.000 đồng đến\n100.000.000 đồng, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm.\n2. Phạm tội thuộc một trong các trường hợp sau đây, thì",
+            "rank": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18740e04-a065-4220-a7ec-9a9442a4af97",
+    "title": "Ngoại tình có bị phạm tội không?",
+    "created_at": "2025-11-06T18:51:50.004044",
+    "updated_at": "2025-11-06T18:53:40.851032",
+    "law_type_filter": "Luật Hôn nhân và Gia đình",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Ngoại tình có bị phạm tội không?",
+        "timestamp": "2025-11-06T18:51:50.007795",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Ngoại tình không bị coi là phạm tội theo Luật Hôn nhân và Gia đình. Luật này quy định về các vấn đề liên quan đến hôn nhân và gia đình, nhưng không đề cập đến việc ngoại tình là một hành vi phạm tội.\n\nTheo Điều 2 của Luật Hôn nhân và Gia đình, nguyên tắc cơ bản của chế độ hôn nhân và gia đình là \"hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng\". Điều này có nghĩa là vợ chồng phải trung thành với nhau và không được có hành vi ngoại tình.\n\nTuy nhiên, nếu hành vi ngoại tình dẫn đến việc vi phạm các quy định về hôn nhân và gia đình, chẳng hạn như ly hôn hoặc gây ra tổn hại cho gia đình, thì có thể bị xử lý theo quy định của Luật Hôn nhân và Gia đình.\n\nCụ thể, theo Điều 54 của Luật Hôn nhân và Gia đình, sau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự. Nếu vợ chồng không thể hòa giải được, thì Tòa án sẽ xem xét và quyết định việc ly hôn.\n\nTóm lại, ngoại tình không bị coi là phạm tội theo Luật Hôn nhân và Gia đình, nhưng có thể dẫn đến việc vi phạm các quy định về hôn nhân và gia đình và bị xử lý theo quy định của luật này.",
+        "timestamp": "2025-11-06T18:51:55.221056",
+        "sources": [
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình;\ntrách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.",
+            "rank": 1
+          },
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình\n1. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.\n2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn\ngiáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài\nđược tôn trọng và được pháp luật bảo vệ.\n3. Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, ",
+            "rank": 2
+          },
+          {
+            "id": "điều_4.txt",
+            "text": "khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.\n3. Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành\nviên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền,\nlợi ích hợp pháp của các thành viên gia đình. Nhà trường phối hợp với gia đình trong việc giáo dục, tuyên truyền,\nphổ biến pháp luật về hôn nhân và gia đình cho thế hệ trẻ.",
+            "rank": 3
+          },
+          {
+            "id": "điều_54.txt",
+            "text": "Điều 54. Hòa giải tại Tòa án\nSau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.",
+            "rank": 4
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Ngoại tình có bị xử lí không?",
+        "timestamp": "2025-11-06T18:52:54.184211",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng bạn đang hỏi về vấn đề ngoại tình trong khuôn khổ của Luật Hôn nhân và Gia đình. Theo Luật Hôn nhân và Gia đình, vấn đề ngoại tình không được quy định rõ ràng là một hành vi bị cấm hoặc bị xử lý hình sự. Tuy nhiên, hành vi ngoại tình có thể dẫn đến việc vi phạm nguyên tắc \"hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng\" như quy định tại Điều 2 của Luật Hôn nhân và Gia đình.\n\nTheo Điều 59 của Luật Hôn nhân và Gia đình, khi một bên vợ hoặc chồng ngoại tình, bên kia có thể yêu cầu tòa án giải quyết ly hôn nếu họ chứng minh được rằng hành vi ngoại tình của bên kia là nguyên nhân dẫn đến việc chấm dứt hôn nhân.\n\nTuy nhiên, cần lưu ý rằng việc xử lý hành vi ngoại tình không chỉ dựa trên Luật Hôn nhân và Gia đình mà còn phụ thuộc vào các quy định khác của pháp luật và tình huống cụ thể. Nếu bạn đang gặp phải vấn đề liên quan đến ngoại tình, tôi khuyên bạn nên tìm kiếm tư vấn từ một luật sư chuyên nghiệp về hôn nhân và gia đình để được hướng dẫn cụ thể.",
+        "timestamp": "2025-11-06T18:52:59.447181",
+        "sources": [
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình;\ntrách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.",
+            "rank": 1
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "mình hoặc người gặp khó khăn, túng thiếu theo quy định của Luật này.\n25. Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham\ngia là người nước ngoài, người Việt Nam định cư ở nước ngoài; quan hệ hôn nhân và gia đình giữa các bên tham\ngia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát\nsinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài.",
+            "rank": 2
+          },
+          {
+            "id": "điều_4.txt",
+            "text": "khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.\n3. Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành\nviên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền,\nlợi ích hợp pháp của các thành viên gia đình. Nhà trường phối hợp với gia đình trong việc giáo dục, tuyên truyền,\nphổ biến pháp luật về hôn nhân và gia đình cho thế hệ trẻ.",
+            "rank": 3
+          },
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình\n1. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.\n2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn\ngiáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài\nđược tôn trọng và được pháp luật bảo vệ.\n3. Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, ",
+            "rank": 4
+          },
+          {
+            "id": "điều_14.txt",
+            "text": "Điều 14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn\n1. Nam, nữ có đủ điều kiện kết hôn theo quy định của Luật này chung sống với nhau như vợ chồng mà không đăng\nký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng. Quyền, nghĩa vụ đối với con, tài sản, nghĩa vụ\nvà hợp đồng giữa các bên được giải quyết theo quy định tại Điều 15 và Điều 16 của Luật này.\n2. Trong trường hợp nam, nữ chung sống với nhau như vợ chồng theo quy định tại k",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Thế iu trinh có là sai?",
+        "timestamp": "2025-11-06T18:53:35.474728",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi hiểu rằng câu hỏi của bạn liên quan đến Luật Hôn nhân và Gia đình. Tuy nhiên, câu hỏi của bạn không rõ ràng và cụ thể, vì vậy tôi sẽ cung cấp một số thông tin chung về Luật Hôn nhân và Gia đình.\n\nTheo Luật Hôn nhân và Gia đình, việc kết hôn phải tuân thủ các nguyên tắc cơ bản như tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng. Luật cũng quy định về quyền và nghĩa vụ của vợ chồng, cha mẹ và con cái, cũng như về việc ly hôn và phân chia tài sản.\n\nNếu bạn có thể cung cấp thêm thông tin hoặc làm rõ câu hỏi của mình, tôi sẽ cố gắng trả lời một cách chính xác và cụ thể hơn. Theo Điều 2 của Luật Hôn nhân và Gia đình, hôn nhân được xây dựng trên cơ sở tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.",
+        "timestamp": "2025-11-06T18:53:40.851024",
+        "sources": [
+          {
+            "id": "điều_4.txt",
+            "text": "khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.\n3. Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành\nviên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền,\nlợi ích hợp pháp của các thành viên gia đình. Nhà trường phối hợp với gia đình trong việc giáo dục, tuyên truyền,\nphổ biến pháp luật về hôn nhân và gia đình cho thế hệ trẻ.",
+            "rank": 1
+          },
+          {
+            "id": "điều_2.txt",
+            "text": "Điều 2. Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình\n1. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.\n2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn\ngiáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài\nđược tôn trọng và được pháp luật bảo vệ.\n3. Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, ",
+            "rank": 2
+          },
+          {
+            "id": "điều_3.txt",
+            "text": "mình hoặc người gặp khó khăn, túng thiếu theo quy định của Luật này.\n25. Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham\ngia là người nước ngoài, người Việt Nam định cư ở nước ngoài; quan hệ hôn nhân và gia đình giữa các bên tham\ngia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát\nsinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài.",
+            "rank": 3
+          },
+          {
+            "id": "điều_1.txt",
+            "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình;\ntrách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.",
+            "rank": 4
+          },
+          {
+            "id": "điều_122.txt",
+            "text": "Điều 122. Áp dụng pháp luật đối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài\n1. Các quy định của pháp luật về hôn nhân và gia đình của nước Cộng hòa xã hội chủ nghĩa Việt Nam được áp dụng\nđối với quan hệ hôn nhân và gia đình có yếu tố nước ngoài, trừ trường hợp Luật này có quy định khác.\nTrong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy\nđịnh của Luật này thì áp dụng quy định của điều ước quốc tế đó.\n2. Trong trường hợp Luật nà",
             "rank": 5
           }
         ]
